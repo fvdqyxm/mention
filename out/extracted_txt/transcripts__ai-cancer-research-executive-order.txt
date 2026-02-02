@@ -1,0 +1,377 @@
+Robert F. Kennedy Jr. ( 00:00 ):
+
+Every innovation, every breakthrough goes to work for our children. The order guarantees that AI will be integrated into HHS interoperability networks. We will make electronic health records and claims data work for patients and researchers. We're already doing that. And always with parents in control of their child's health information. No family should have to fight cancer with outdated tools or without access to the very best science. For too long, families have fought childhood cancer while our systems lag behind. President Trump, thank you for your leadership in changing all that. This executive order is about action, unlocking cures, empowering families, and giving every child the chance to grow up… With outdated tools or without access to [inaudible 00:00:51]. For too long, families have fought childhood cancer while our systems lag behind. President Trump, thank you for your leadership in changing all that. This executive order is about action, unlocking cures, empowering families, and giving every child the chance to grow up healthy and strong. With American innovation and leadership, we can make our children healthy again.
+
+President Trump ( 01:18 ):
+
+Bobby, do they know why there's quite an increase that's taken place over the last number of years? Do they have any idea why that's happening?
+
+Robert F. Kennedy Jr. ( 01:27 ):
+
+We are doing that research, and Jay Bhattacharya can talk about that. We're doing that research now for the first time. We're focusing on that in particular, colon cancers and these cancers that never affected children before, and suddenly are epidemic in our children. And we're going to find the causes, their environmental causes. We're going to identify them and work to eliminate them.
+
+President Trump ( 01:51 ):
+
+Okay, thanks. Thanks, Bobby. Jay, go ahead please.
+
+Jay Bhattacharya ( 01:54 ):
+
+Hello. Thank you everyone. Thank you President Trump for signing this historic executive order directing your administration to use advanced artificial intelligence technologies to cure childhood cancer. By signing this executive order, the administration is advancing the NIH childhood cancer data initiatives coordinated pediatric, adolescent and young adult rare cancer. First launched under President Trump's direction in 2019. When I was a young medical student in the 1990s, I had the privilege of spending a month in a pediatric cancer ward treating children with cancer. And I have to say it was the most difficult month of my life. I left for home every day in tears.
+
+( 02:29 ) Watching little children cope with a deadly disease is hard. They should be playing with their friends, going to school, living their best lives, but instead, they bravely face cancer. These are the bravest kids I've ever met. I have tremendous admiration for the scientists who devote their lives to finding cures for kids with cancer, for the doctors and nurses who take care of them and for their parents who suffer alongside them, care for them and love them. This year, nearly 9,500 children will be diagnosed with cancer in the US.
+
+( 02:59 ) In the mid-1970s, the five-year survival for cancer was 58%. Today, the cancer survival rate for children with cancer is 85%. This is because of the tremendous investments we've made in treating childhood cancer, in researching it, and it's worth celebrating this achievement. But I say that 85% is still too low. We need to be at a hundred. We still have a long way to go. The treatments these little kids undergo involve therapies like chemo or radiation that put them through hell. Even with 85% will be cured, the therapies themselves can cause health problems as kids age into adulthood. Nearly 60% of cancer survivors experience severe life-threatening complications in adulthood because of these treatments. And so we need better treatments so that we can raise the survival rate and reduce the side effects.
+
+( 03:46 ) This initiative builds on the CCDI's mission to gather data from every child, adolescent, and young adult diagnosed with cancer no matter where they receive care. It aims to develop a platform of tools to bring together clinical care research tools like molecular characterization and genetic information, tools that will improve preventive measures, treatment, quality of life, survival for childhood cancer. By uniting families, clinicians, and researchers, by harnessing the power of a AI, CCDI will accelerate diagnosis, inform treatment, and develop the next generation of lifesaving therapies. This is not about collecting data alone, it's about giving families hope. Today, we commit to taking this work to the next level. With his executive order that President Trump is signing, we're building a future where every child's data contributes to faster diagnosis.
+
+( 04:30 ) Artificial intelligence help us uncover faster, more precise treatments, improve quality of life and better survival. And finally, let me extend my sincere congratulations and gratitude to President Trump for this leadership and vision in giving us this opportunity to make America healthy again, to rigorously push the boundaries of science and bring hope to millions of families. Thank you.
+
+President Trump ( 04:51 ):
+
+Thank you very much, Jay. It's very nice. Appreciate it. Director [inaudible 00:04:54], please.
+
+Speaker 4 ( 04:54 ):
+
+Thank you, Mr. President and thank you Secretary Kennedy for your leadership on this issue. I am thrilled that our MAHA strategy prioritizes utilizing AI in the fight against cancer and that this executive order is putting a priority to this action. Thank you for your commitment, Mr. President, to the United States for maintaining its global leadership in artificial intelligence across models, datasets, applications, and to issue an AI action plan to do just that. Your foresight in the first term leading you to establish the CCDI to gather, harness, and share data on childhood cancers has positioned us today to leverage AI in a way we could never imagine before. With America's pioneering models, American researchers now have the best tools in the world to turn the CCDI data into the building blocks of life-changing breakthroughs. So I and my team at OSTP are thrilled to partner with our teams at HHS and NIH and with David to empower the development of gold standard applications for the pediatric cancer research and to play our small part in trying to protect the health and happiness of America's children.
+
+President Trump ( 06:00 ):
+
+Thank you.
+
+Speaker 4 ( 06:01 ):
+
+Thank you, Mr. President.
+
+President Trump ( 06:02 ):
+
+David, please.
+
+David ( 06:04 ):
+
+Thank you, sir. Well, first of all, I just want to thank Stephanie McMahon and Paul Levesque for helping [inaudible 00:06:09] all together here. For years, they played villains on TV, but they're actually very nice people in real life. But it's because of your passion that we're all here today. So thank you for that. And I thank you, Mr. President, for your leadership on this. First of all, you did have the foresight to create this childhood cancer database way back in 2019, and that's what's going to power the AI. It's going to give us the data to find all the patterns in.
+
+( 06:32 ) The other thing you've done is you've made it your policy of this administration to support innovation, to support infrastructure, to support energy. And because of that, we have an AI boom going on right now, 3.8% growth rate in the last quarter in GDP. And a big part of that is because of the AI boom that you've unleashed. So thank you, sir, for doing that. And I think that we can see today that this AI boom is not just going to be about dollars and cents, but about saving lives as well. We're going to get some miraculous cures out of this. So thank you to everyone who's here today.
+
+President Trump ( 07:00 ):
+
+Thank you very much. Good job. We just had a meeting and Oz was at the meeting and really was a dominant factor along with Bobby. And maybe you could just say a couple of words about our past meeting where we're going to be lowering drug prices by 50, 100, 200, even 500%, even 1000. We have 1000% also. We have one coming up next week, a big one, 1000% reduction in price. Do you want to give just a couple of words on that, Oz?
+
+Oz ( 07:27 ):
+
+It's a historic day. For the first time, we've had the magnitude of give from the pharmaceutical industry, one of their leading lights, Albert Bourla and his company, Pfizer, agreed something the President has been pushing on since his first term and has been calling me quite frequently on speed dial over this term to make sure that Secretary Kennedy and I would seriously engage industry. They have agreed to several important concessions. First, we will have most favored nation drug pricing in this country for everyone on Medicaid. So our most vulnerable populations will not be forced to pay 3 times or more, 5, 6, 7 times more for the exact same pills than the same bottles as it costs in other countries. That'll make it a lot easier for governors to manage their budgets and shows, again, a distinct passion that the president has for helping people who are most vulnerable.
+
+( 08:19 ) We've also gotten all new drugs to be released in this country to be priced at most favored nation, which means by the end of the President's term, 95% of all pharmaceutical drugs in America will be at most favored nation pricing. Again, no more discrepancies between what folks in other countries can buy their drugs for and what's being purchased in this country. Pfizer also agreed as both companies next week when they come to visit the White House to onshore drugs, to bring their production back into America. So American workers will benefit as well, but at the same time, this is critical. It allowed Pfizer and we believe for other companies to maintain their innovative edge.
+
+( 08:57 ) We want America to continue to find cures like the ones that saved the lives of some of the children that I'm looking at right now. Those beautiful faces and smiles are here because American innovation was not dulled, not blunted, but we can solve that need and thread the needle by also making healthcare affordable so Americans no longer, including children like this, be forced to make a difficult choice between groceries and pharmaceuticals. And I must say, Mr. President, since this morning, if you just look at the stock market, there's been support of this decision made by the CEO of Pfizer. Their stock has benefited. So I think it was the right thing for the company, the right thing for the policies of this administration, which is a pretty cool place to work, but most importantly, it's the right thing for the American people.
+
+President Trump ( 09:39 ):
+
+Thank you very much. And maybe we'll just finish it off with Linda, because she's been such an incredible cabinet member and done such a good job. Maybe you want to say something about your unbelievable daughter and son-in-law because they've worked very hard on this.
+
+Linda McMahon ( 09:54 ):
+
+Well, thank you, Mr. President, for the opportunity to do that. I don't think that any mother could be any more proud of all of the efforts that Stephanie's made in support, also of Paul. Stephanie first talked about this 10 or 11 years ago after little Connor, and I remember one of the things that she said to me was, "I really would like to somehow convene the people and the scientists who think outside of the box," because research is done in very standard terms. You do this, you do this, and yes, you have to do that. But she said, "I really would like to tap into some of the most creative and inventive minds in the country to be able to look at research differently for pediatric cancer." And she did that, took her about 10 years, and she kept tapping in and calling people, being pretty relentless about it, driven herself by a mother's heart, and I couldn't be any more proud of the work she's done. I'm happy to stand by and be a supportive mom and be very proud of her today.
+
+President Trump ( 10:58 ):
+
+Thanks. Good job you're doing. Thank you very much, Linda. Okay, any questions, please?
+
+Speaker 16 ( 11:03 ):
+
+Mr. President, as we inch closer to a government shutdown this morning, you said you might do a lot of layoffs. If DOGE is already reducing the federal workforce, why is it necessary to link more federal jobs cut to a shutdown?
+
+President Trump ( 11:18 ):
+
+Well, the Democrats want to shut it down so when you shut it down, you have to do layoffs. So we'd be laying off a lot of people that are going to be very affected, and the Democrats, they're going to be Democrats. As you know, we… No country can afford to pay for illegal immigration, healthcare for everybody that comes into the country, and that's what they're insisting. And obviously, have an obligation to not accept that, that would affect everybody. When I see what we're doing with AI and all the plants that are opening up in the country, $17 trillion is coming. And if you compare that to Biden, Biden had a… In four years, less than a trillion. We have 17 trillion more than that. I think it's going to be much more than that, David, by the end of this year. I think it's going to be far over that. It's a record. It's already a record in eight months. It's a record by a lot.
+
+( 12:07 ) And so we're doing well as a country. So the last thing we want to do is shut it down. But a lot of good can come down from shutdowns. We can get rid of a lot of things that we didn't want and they'd be Democrat things, but they want open borders, they want men playing in women's sports, they want transgender for everybody. They never stop. They don't learn. We won an election in a landslide. They just don't learn. So we have no choice. I have to do that for the country. Yes.
+
+Speaker 4 ( 12:33 ):
+
+You mentioned a deal with Harvard, Mr. President. What is that deal? Will they be paying the administration-
+
+President Trump ( 12:39 ):
+
+Well, we're in the process of getting very close and Linda's finishing up the final details and they'd be paying about $500 million and they'll be operating trade schools. They're going to be teaching people how to do AI and lots of other things. Engines, lots of things. We need people in trade schools. I remember when I went to school, I had some people that weren't particularly good students, but they could take a motor or an engine apart blindfolded and put it back blindfolded, but they weren't too good at other things, and many of them ended up doing better than the people that were. So trade schools are very important and we've lost trade schools. We used to have a lot of trade schools in this country. We don't have them anymore. We have tremendous plants opening, and we want to have people at top level for those plants, whether it's AI or whether it's automotive plants. Many automobile companies open their plants in the United States.
+
+( 13:34 ) They're all coming back for two reasons, tariffs, and I think they like November 5th. They liked the person that was chosen. And they're moving in from Canada, they're moving in from Mexico, they're coming in from all over the world. China is coming. They're all coming, and that way they avoid paying tariffs. So they're coming for that reason. So by opening up trade schools… Because we're going to need employees. We're going to need people with skill. And I think I can say Linda, you feel the same way, by opening up trade school, this would be a giant trade school series of trade schools. It would be run by Harvard. Now this is something that we're close to finalizing. We haven't done it yet, but they'd put up $500 million interest and everything else would go to that account, meaning go to the trade school. And it's a big investment in trade school done by very smart people, and then their sins are forgiven. So we have a good chance of getting that close. Yeah, please.
+
+Speaker 9 ( 14:30 ):
+
+President Trump, thank you. I've been looking at this chart that you shared earlier. So it's [inaudible 00:14:36] earlier. US prices for brand drugs were 422% higher than compared to other countries. I'm young, maybe I'm inexperienced, but I think a lot of Americans are wondering, how did we even get here being one of the biggest buyers?
+
+President Trump ( 14:49 ):
+
+You got here by incompetent people sitting behind this desk. You had a lot of incompetent people. I did it… As you know, I started it in my first term. We rebuilt the military. We got the largest tax cuts in history. We did all these things and we had the best economy of the history of our country during my first term. And by the way, this is blowing it away based on what we're seeing. But we got it by having people allow that to happen. As you know, I started the process, but then when COVID came, we focused on COVID, not on this. And I said, if I ever go back and do it again, I'm going to make this a primary thing because other countries are paying a fraction of what we pay for the same exact drug, same exact pharmaceutical, everything.
+
+( 15:37 ) And I said, no, it's not right. And the drug companies actually came along. Don't forget, they make 30, 40, 50 million a year, these people. They're very smart, and they had a lot of people convinced that that's the way it has to be. They talked about research and development. We had to pay. I said, "Well, why isn't Germany paying? Why aren't other countries paying?" And they always had a good answer, but it got to a point where I didn't like the answer anymore. And I said, "We have to do this." And we did it. The team that we have with Oz and Bobby and Chris and all of the people that we had working on it, and I must tell you, Marty has been a big… Wherever you [inaudible 00:16:13] Marty, but Marty's been a big factor. We have a great team. There's never been a medical team like this.
+
+( 16:20 ) And I said, "Let's go do it." And then I did as I said, I would bug them every single day, every week because I said, "We have to have… I mean, why should we be paying 10 times what another country is paying?" And that was just an excuse, research and development. We do research and development, so now we're going to be paying whatever the lowest price is, we're going to be paying that price. So it's a great thing. But there won't be anything that can have the impact on Medicare, Medicaid, social security, anything where you need pharmaceuticals, medicines, the numbers are going to come way down. Even Obamacare, which is terrible. It's not been good, as you know. It's a weak form of healthcare, but it'll be better because the medicine's going to come in at a very low price. Yes, please.
+
+Speaker 10 ( 17:06 ):
+
+Yes, Mr. President. It seems like every time you assemble your MAHA team and your cabinet members behind here in regards to health issues, it just keeps getting powerful. And look at these young kids there and the weight that is on the world right now that you can lift by what you're doing. I've often said, "Trump could cure cancer and people would still criticize him."
+
+President Trump ( 17:28 ):
+
+That's true.
+
+Speaker 10 ( 17:29 ):
+
+It's true. What is your message to America that this potentially could bring us all together, get us on the same page and have unity, and I'd like to see if some of the kids or the parents have… What it means to you to see President Trump get involved in this.
+
+President Trump ( 17:43 ):
+
+Well, we've made tremendous strides in cancer research far more than anyone has done. And we have the greatest minds, the greatest people working on it. And childhood… They call it childhood cancer. It this very specific thing. And we've really made a lot of progress. I think something that's going to allow us to make a lot of progress is the money we're saving on pharmaceuticals. We'll be saving 500, 600, 1000%. Nobody's ever heard of that. I told the story, you were here before, that when I was in the previous administration, my first term, I was so proud of myself because I'm the first president in 28 years that cut drug prices from beginning to end. So that went down, I think it was 1/8 of a percent or 1/4 of 1%. And I was so proud of that, I thought that was great.
+
+( 18:33 ) Now I'm cutting them 500%. And I will say this, politically speaking, the people understand otherwise I wouldn't have wanted a landslide. I get 97% bad press and I won in landslide, which tells you the press has no credibility. But I will say that what we've done has been a great tribute to the people that standing behind me. In different forms. Linda, in education, different, but what she's doing in education, she's sending education back to the states. That's a big move. The states, you go back to Indiana, Iowa, I would say 40 states will be great. 45 will be… The 5% of them will be pretty good. And then you're going to have a Gavin Newsom some other people that aren't going to do a good job, but we'll help them out. I want help them out. And we're going to have safe cities again. We're going to be very safe.
+
+( 19:29 ) We're going to be going to Chicago pretty soon because a friend of mine, a great guy, the head of the Union Pacific, he said, "Sir, you have to save Chicago. It's going bad. It's going bad, fast. And it's a great city." He's right, it's a great city. I know it very well. And we have to save Chicago. So we're going to Memphis, Tennessee right now. We've had a home run in DC. You can walk out, Brian. You got mugged here a long time ago.
+
+Brian ( 19:54 ):
+
+Yes, sir.
+
+President Trump ( 19:55 ):
+
+And the mugger must've felt some pain because you're a tough cookie.
+
+Brian ( 19:57 ):
+
+Well, he had a gun and I wish I would've [inaudible 00:20:00]-
+
+President Trump ( 20:00 ):
+
+I know. Well, then-
+
+Brian ( 20:00 ):
+
+[inaudible 00:20:01].
+
+President Trump ( 20:00 ):
+
+If he had a gun, all you can do is say-
+
+Brian ( 20:05 ):
+
+[inaudible 00:20:05] secret weapon.
+
+President Trump ( 20:06 ):
+
+Yeah, no, but it's… Everybody here. I mean, you were here in the room when I said to the reporters, "Who got mugged in the last year," and half of the people raised their hand. Now, if you said, "Who got mugged over the last 60 days," nobody. Nobody. No killing, no nothing. And the restaurants are booming. The town is booming. It's clean. The National Guard actually went out and started cleaning all the crap out of the parks. The tents are knocked down. We had one that you said it was a blue tent and you said it was a communist tent, right? See, we're going to have a communist mayor of New York, so let's see how that works out.
+
+Brian ( 20:43 ):
+
+And I've gotten a lot of feedback on that. Everyone's very appreciative-
+
+President Trump ( 20:48 ):
+
+Yeah, you told me about a blue tent and I said, "It can't be there because we knocked him down." But this was a very highly sophisticated group of people that had permits and all the other thing. Well, their permit expired. We knocked it down. It took, what, 24 hours? Less maybe.
+
+Brian ( 21:02 ):
+
+Yes, sir.
+
+President Trump ( 21:02 ):
+
+So I appreciate you telling me that. Now we have a great thing going. The country is doing incredible. We are a hot country. The hottest. We're the hottest country in the world right now.
+
+Brian ( 21:12 ):
+
+Do the parents of the kids have anything they'd like to say?
+
+President Trump ( 21:14 ):
+
+Yeah, that's a great question. Would you like to say something?
+
+Josh Armstrong ( 21:16 ):
+
+I would.
+
+President Trump ( 21:17 ):
+
+That's a good comment right there. That's the best comment you've made in a long time.
+
+Brian ( 21:21 ):
+
+Thank you, sir.
+
+President Trump ( 21:21 ):
+
+Go ahead.
+
+Josh Armstrong ( 21:22 ):
+
+Mr. President, good evening. I'm Josh Armstrong. My name is Josh Armstrong. I'm from West Virginia and I'm the father of this amazingly brave and resilient little six-year old, Laurel. Laurel was diagnosed with leukemia when she was two years old just before her third birthday. And we went on to watch as she spent months in the hospital fighting for her life, as she received blood transfusions and platelet transfusions, as she fought off one potentially fatal infection after another. We watched as her body swelled and became painful from steroids. And then as it became frail and weak from chemotherapy, and we watched and we wondered why there aren't better treatments available. And we wondered what might happen if she doesn't get the drugs she need. And we wondered why isn't anybody doing more? And on behalf of myself and all the parents that have watched and wondered, we'd like to say that what you're doing today, gives parents like me and children like Laurel, the one thing that we most desperately need, and that's hope.
+
+President Trump ( 22:19 ):
+
+And Laurel's doing well.
+
+Josh Armstrong ( 22:20 ):
+
+And Laurel is… I'm happy to say Laurel is on remission today.
+
+President Trump ( 22:23 ):
+
+That's good. She looks so beautiful.
+
+Josh Armstrong ( 22:24 ):
+
+Thank you. She is beautiful.
+
+President Trump ( 22:26 ):
+
+You feeling good, Laurel?
+
+Josh Armstrong ( 22:33 ):
+
+That's for you. Laurel. That's for you.
+
+President Trump ( 22:33 ):
+
+You look so great.
+
+Josh Armstrong ( 22:35 ):
+
+Because of this bill, doctors are going to be able to get better treatments faster to patients like Laurel.
+
+President Trump ( 22:41 ):
+
+Big difference.
+
+Josh Armstrong ( 22:42 ):
+
+Because of you making children like her, real children, not cases or statistics, but children like Laurel and all of these children here today, we have that hope and we are so proud that you're standing with children with cancer. You're making it a national priority.
+
+President Trump ( 22:54 ):
+
+That's very nice.
+
+Josh Armstrong ( 22:55 ):
+
+Thank you. Mr. President.
+
+President Trump ( 22:56 ):
+
+We're with you all the way. How about you back there, dad?
+
+Speaker 13 ( 23:00 ):
+
+Actually, I'd like my daughter to speak. [inaudible 00:23:03]-
+
+President Trump ( 23:02 ):
+
+I like [inaudible 00:23:03]-
+
+Speaker 13 ( 23:02 ):
+
+My Carolyn would like to speak. She's [inaudible 00:23:04]-
+
+President Trump ( 23:04 ):
+
+That's very good. I'd like you to speak.
+
+Carolyn Hendrix ( 23:06 ):
+
+Thank you. Good afternoon, my name is Carolyn Hendrix. When I was four years old, I was diagnosed with acute Ewing sarcoma, a pediatric bone cancer. 11 years later, I'm now 16 years old and I'm doing great. What you're doing today, Mr. President, means that kids like me will get better options and so much more hope for the future. This will help doctors use technology to find cures faster, match patients to trials more quickly and give our families more control over our health. For kids, everyday counts. This order shows that our lives matter enough to be first in line for innovation. On behalf of children and young adults with cancer, those still fighting and those remission like me and families who wish that they had more time together. Thank you for making us a national priority. Mr. President because of actions like this, kids like me have the chance to grow up, to chase our dreams and to live full lives. And that is the greatest gift anyone could ever give.
+
+President Trump ( 24:13 ):
+
+Wow. That was so good. Your father could not have done that. You did a good… You did as a big service, father.
+
+Speaker 13 ( 24:18 ):
+
+Yes, sir. That's great. Where did you learn how to speak like that?
+
+Carolyn Hendrix ( 24:22 ):
+
+I've done lots of speeches for childhood cancer over the last few years, and I'm also in a theater program, so that helps a lot.
+
+President Trump ( 24:28 ):
+
+That's great. Well, good. That's a great job. Would anybody like to say something? Would you like to say something, honey?
+
+Ailani Myers ( 24:35 ):
+
+Yes. I'm Ailani Myers and I'm nine years old and I had a blood cancer called Leukemia when I was only two years old. I had to get treated at seven different hospitals across this country and I had to have two pulmonary transplants, one from my dad and one from my mom. And I had to spend many days in the nights in the hospital getting pokies and yucky medicine and me and my parents were very worried. And I did go through those seven different hospitals to find the best treatment that can make me better. And thank you Mr. President for making everything happen today so kids like me and Laurel, we can still be living today and speaking.
+
+President Trump ( 25:21 ):
+
+They're doing better than any of us have done. We're doing lousy. We're not doing so well today. They're doing so good. That was fantastic. Thank you. And you're feeling good now?
+
+Ailani Myers ( 25:38 ):
+
+Yes.
+
+President Trump ( 25:38 ):
+
+Are you all better? You're pretty close, right?
+
+Ailani Myers ( 25:41 ):
+
+Yeah.
+
+President Trump ( 25:42 ):
+
+Yeah. I hear you're going to do good. Anybody like to say something? Yes, sir. Go ahead.
+
+Speaker 16 ( 25:48 ):
+
+I've had a brain tumor since I was four months. I'm off all home medicines. I'm a cancer survivor. I've had a brain tumor since I was four months and I'm doing great. I'm 15 now and I'm going to-
+
+President Trump ( 26:00 ):
+
+And you're going to be a football player, offensive lineman. You look fantastic. How about somebody else? I love hearing this. I love hearing you talk because you talk better than any of us, right?
+
+Speaker 16 ( 26:19 ):
+
+Thank you, Mr. president.
+
+President Trump ( 26:19 ):
+
+Well, I want to thank you all for being here. Amazing.
+
+Speaker 16 ( 26:21 ):
+
+We wouldn't miss this.
+
+President Trump ( 26:22 ):
+
+Thank you. But we're doing a lot for you and you're all going to be better very soon. I don't think you're going to need any of the help that we're giving. It's going to be for the future. But I want to thank you for being with us and I'm going to bring them back to a room. We have a room where we have lots of hats and things in the back, and we're going to… Would you like to go back and we'll pick some nice presents?
+
+Laurel ( 26:42 ):
+
+Yes.
+
+Ailani Myers ( 26:43 ):
+
+Yes.
+
+President Trump ( 26:43 ):
+
+We'll get rid of the wonderful people of the media. Do you like the media? They're nice, right? They have good days, right? They do. Actually, they do. Thank you very much. That's beautiful. That's really good.
+
+Carolyn Hendrix ( 26:57 ):
+
+Thank you.
+
+President Trump ( 26:58 ):
+
+And thank you. We're not going to top that, so I wanted just thank you all very much. [inaudible 00:27:02].
+
+( 27:01 ) Thank you very much.
+
+Luckily for you, we deliver. Subscribe to our blog today.
+
+A confirmation email is on it’s way to your inbox.
+
+Copyright Disclaimer
+
+Under Title 17 U.S.C. Section 107, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is permitted by copyright statute that might otherwise be infringing.
+
+Keep reading
+
+Subscribe to The Rev Blog
+
+Sign up to get Rev content delivered straight to your inbox.

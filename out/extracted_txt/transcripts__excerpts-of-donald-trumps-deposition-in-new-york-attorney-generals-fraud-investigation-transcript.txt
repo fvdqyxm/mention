@@ -1,0 +1,1137 @@
+Zef Kota ( 00:04 ):
+
+Good morning. We’re going on the record at 9:38 AM Eastern Daylight Time, on August 10th, 2022. Please note that the microphones are sensitive and may pick up whispering and private conversations. Please mute your phones at this time. Audio and video recording will continue to take place unless all parties agree to go off the record. This is media unit one of the video recorded deposition of Donald J. Trump, taken by counsel in the matter of financial statements and investigation for the State of New York Office of Attorney General. The location of the deposition is 28th Liberty Street, New York, New York. My name is Zef Kota, representing, Veritext, and I am the videographer. The court reporter is Linda Greenstein, from the firm Veritext. I am not authorized to administer an oath, I am not related to any party in this action, nor am I financially interested in the outcome. Counsel and all present including those remotely have been noted for the record. Will the court reporter please swear in the witness and then counsel may proceed.
+
+Linda Greenstein ( 01:24 ):
+
+[inaudible 00:01:25]. Do you swear or affirm that the testimony you are about to give is the truth, the whole truth, and nothing but the truth?
+
+Donald Trump ( 01:29 ):
+
+I do.
+
+Linda Greenstein ( 01:29 ):
+
+Thank you.
+
+Letitia James ( 01:34 ):
+
+Good morning, Mr. Trump.
+
+Donald Trump ( 01:35 ):
+
+Good morning.
+
+Letitia James ( 01:36 ):
+
+My name is Letitia James, and I’m the attorney general for the great state of New York. Before we begin, if everybody could please silence their cell phones, we would appreciate that. I wanted to begin with some preliminary rules, some ground rules if you don’t mind-
+
+Donald Trump ( 01:48 ):
+
+Sure.
+
+Letitia James ( 01:48 ):
+
+…and then I’m going to turn it over to Kevin Wallace, who will conduct this examination. Mr. Trump, you’ve testified under oath many times, is that correct?
+
+Donald Trump ( 01:57 ):
+
+Yes.
+
+Letitia James ( 01:59 ):
+
+Okay. So I take it you are familiar with the ground rules for how testimony proceeds, is that correct?
+
+Donald Trump ( 02:03 ):
+
+Yes.
+
+Letitia James ( 02:04 ):
+
+Okay. So I’ll skip that part of the introduction, is that okay?
+
+Donald Trump ( 02:10 ):
+
+Sure.
+
+Letitia James ( 02:10 ):
+
+Okay. And are you okay right now?
+
+Donald Trump ( 02:12 ):
+
+I am. Thanks.
+
+Letitia James ( 02:12 ):
+
+Okay. Good, good, good. What I will do is explain some differences between the procedures and the civil deposition and the testimony we are taking today. Because this is an investigatory proceeding. You do not have a right to have an attorney with you in this investigation, but I have agreed that your attorney will be present today. However, this examination is not the same as a deposition in ordinary civil litigation, and your attorney’s role will be limited to consultation with you, in order to give you legal advice regarding privileged matters, if any, or your right not to incriminate yourself. Not withstanding any objection by your attorneys, you are still required to respond to any questions unless your attorney specifically directs you not to answer. Anything you say in this examination may be used in a civil proceeding, and that could include a civil enforcement proceeding or a criminal action. Do you understand that?
+
+Donald Trump ( 03:10 ):
+
+I think.
+
+Letitia James ( 03:10 ):
+
+Okay. Is that a yes?
+
+Donald Trump ( 03:15 ):
+
+I don’t know what I did wrong, but the answer is yes, I do understand.
+
+Letitia James ( 03:19 ):
+
+Okay. Thank you. You have the right to refuse to answer any question if a truthful answer to the question would tend to incriminate you. Do you understand that?
+
+Donald Trump ( 03:27 ):
+
+Yes.
+
+Letitia James ( 03:27 ):
+
+Okay. And any willful misstatement by you may constitute perjury. Do you understand that, sir?
+
+Donald Trump ( 03:34 ):
+
+Yes.
+
+Letitia James ( 03:35 ):
+
+Okay. Finally, this investigation is confidential. We request that you not discuss this matter, your testimony here today, and any documents that you have produced or may produce in connection with today’s testimony with anyone other than your attorneys. Do you understand that, sir?
+
+Donald Trump ( 03:54 ):
+
+No. When you say confidential, we’re not allowed to talk about this to the press or?
+
+Letitia James ( 04:00 ):
+
+Correct.
+
+Donald Trump ( 04:03 ):
+
+Oh.
+
+Speaker 1 ( 04:03 ):
+
+I believe, she means the details of what happened in this room, obviously-
+
+Donald Trump ( 04:08 ):
+
+It’s okay. It’s okay with me.
+
+Letitia James ( 04:08 ):
+
+The fact that it happened, yes, but not the details.
+
+Donald Trump ( 04:14 ):
+
+Okay.
+
+Letitia James ( 04:15 ):
+
+Neither you nor anyone acting on your behalf has the right to obtain a copy of the transcript of your testimony here today from the reporter. And neither you nor Veritext are permitted to release copies of the transcript to anyone other than representatives of this office, the Office of the Attorney General. Extensive note-taking or any attempt to create a transcript of the proceedings here by you or your attorney is not authorized, and will not be permitted. Are you taking any medication or drugs of any kind that make it difficult for you to understand or answer any of the questions today, sir?
+
+Donald Trump ( 04:58 ):
+
+No. I had aspirin.
+
+Letitia James ( 04:58 ):
+
+And are you feeling okay today?
+
+Donald Trump ( 04:59 ):
+
+Yes.
+
+Letitia James ( 04:59 ):
+
+And are you sick today?
+
+Donald Trump ( 05:01 ):
+
+No.
+
+Letitia James ( 05:03 ):
+
+Okay. And do you have any conditions that could prevent you from giving full, complete, and truthful answers to any questions today?
+
+Donald Trump ( 05:13 ):
+
+No.
+
+Letitia James ( 05:13 ):
+
+Okay. And is there any other reason why you cannot give full, complete, and accurate testimony here today?
+
+Donald Trump ( 05:23 ):
+
+Well, I’ll be doing this…
+
+Speaker 1 ( 05:23 ):
+
+No.
+
+Donald Trump ( 05:27 ):
+
+No, other than what I’m saying.
+
+Letitia James ( 05:28 ):
+
+Okay. I’m now going to turn it over to Kevin Wallace. Thank you, sir.
+
+Donald Trump ( 05:33 ):
+
+Thank you very much.
+
+Kevin Wallace ( 05:34 ):
+
+Good morning, Mr. Trump.
+
+Donald Trump ( 05:35 ):
+
+Good morning.
+
+Kevin Wallace ( 05:36 ):
+
+As the attorney general mentioned, my name is Kevin Wallace. Sitting next to me is Alex Finkelstein from our office, and sitting next to him is Samantha Stern, who’s a paralegal with our office, they’re going to be assisting me during the day today. I’m going to take a moment just to correct one thing from the read in, is that we go off the record, not when both parties agree, but when the attorney general directs that we are off the record. During these proceedings, the attorney general controls the record. So, Mr. Trump, what did you do to prepare for today’s examination?
+
+Speaker 1 ( 06:10 ):
+
+You can read your statement.
+
+Donald Trump ( 06:12 ):
+
+Very little.
+
+Speaker 1 ( 06:13 ):
+
+Read your statement.
+
+Donald Trump ( 06:15 ):
+
+If you’d like, I could read the statement. But very little.
+
+Kevin Wallace ( 06:18 ):
+
+Well…
+
+Speaker 1 ( 06:21 ):
+
+Read the statement.
+
+Speaker 2 ( 06:21 ):
+
+Excuse me?
+
+Speaker 1 ( 06:21 ):
+
+Read the statement.
+
+Kevin Wallace ( 06:21 ):
+
+Can we go…
+
+Speaker 1 ( 06:21 ):
+
+Yes, he would like to-
+
+Kevin Wallace ( 06:23 ):
+
+I will now use my moment to go off the record.
+
+Speaker 1 ( 06:26 ):
+
+Thank you. Sorry, just read the statement.
+
+Zef Kota ( 06:28 ):
+
+We’re going off the record at 9:44 AM.
+
+( 06:36 ) We’re back on the record at 9:45 AM.
+
+Kevin Wallace ( 06:40 ):
+
+Mr. Trump, I understand you have a statement that you wanted to read into the record.
+
+Donald Trump ( 06:43 ):
+
+Yes.
+
+Kevin Wallace ( 06:45 ):
+
+Would you please, feel free to start at any time.
+
+Donald Trump ( 06:47 ):
+
+Thank you very much.
+
+( 06:50 ) This is the greatest witch hunt in the history of our country. There has never been another president, or perhaps even another politician, who has been persecuted, harassed, and in every other way unfairly treated like President Donald J. Trump. What Letitia James has tried to do the last number of years is a disgrace to the legal system, and affront to the New York State taxpayers, and a violation of the solemn rights and protections afforded by the United States Constitution. She developed a political platform and made a career out of maliciously attacking me and my business, before she even understood, or was elected, or reviewed one of the millions of pages of documents we willingly produced. We willingly produced these documents. James proclaimed that she, “Looks forward to going into the office of attorney general every day, suing me and then going home.” This is during her campaign. She announced that she was obsessed with, “Taking me on.” Taking me on… And that her eyes were set on Trump Tower, “Trump Tower.”
+
+( 08:20 ) She even assured her supporters as an election promise, very strongly that, “We’re going to definitely sue him…” Before she even knew anything about me. “We’re going to be a real pain in his ass. He’s going to know my name personally.” And she claimed I was on an illegitimate, and that it was an illegitimate president, “Illegitimate president.” In her AG speech, she promised to, “Shine a bright light into every dark corner of Trump’s real estate holdings.” Shortly thereafter, she vowed to, “Use every area of the law to investigate President Trump and his business transactions and that of his family as well.”
+
+( 09:11 ) She knows nothing about us. This is when she knew absolutely nothing about us, it was very unfair. This whole thing is very unfair. As a pretense for commencing her bogus investigation, Letitia James relied on the testimony of Michael Cohen, a convicted felon and liar. The Southern District of New York astutely described Cohen as a man who, “Repeatedly used his power and influence for deceptive ends,” by engaging in, “Extensive, deliberate, and serious criminal conduct,” consistent with a, “Pattern of deception that permeated his professional life.” This was in a long many page statement by him.
+
+Donald Trump ( 10:01 ):
+
+It only gets worse. This is the witness, a stone called loser, a real loser that she used to justify her obsessive work, her obsessive investigation of me, even though he got in civil and criminal trouble for representing himself on a taxi cab company that he had and other things, and also others as a lawyer. I once asked, “If you’re innocent, why are you taking the Fifth Amendment?” I was asking that question. Now I know the answer to that question. When your family, your company, and all the people in your orbit have become the targets of an unfounded, politically motivated witch hunt supported by lawyers, prosecutors, and even the fake news media, you really have no choice.
+
+( 11:06 ) We cannot permit a renegade and out of control prosecutor to use this investigation as a means of advancing her political career. New York deserves better and this country deserves better. Being a prosecutor is a very important thing. This is a vindictive and self-serving fishing expedition, the likes of which this country has perhaps never seen before. If there was any question in my mind, the raid in my home two days ago, Mar-a-Lago Palm Beach, Florida by the FBI just two days prior to this deposition, think of it, wiped out any of that uncertainty. I have absolutely no choice because the current administration and many prosecutors in this country have lost all moral and ethical bounds of decency. Anyone in my position not taking the Fifth Amendment would be a fool, an absolute fool.
+
+( 12:12 ) One statement or answer that is ever so slightly off, just ever so slightly, by accident, by mistake, such as it was a sunny, beautiful day, when actually it was slightly overcast, would be met by law enforcement at a level seldom scene in this country, because I’ve experienced it. The United States Constitution exists for this very purpose, and I will utilize it to the fullest extent and defend myself against this malicious attack by this administration, this attorney general’s office, and all other attacks on my family, my business, and our country. Accordingly under the advice of my council and for all of the above reasons, I respectfully decline to answer the questions under the rights and privileges afforded to every citizen under the United States Constitution. This will be my answer to any further questions.
+
+Kevin Wallace ( 13:24 ):
+
+Include among the rights and privileges afforded every citizen under the United States Constitution, does that include the Fifth Amendment right to avoid incrimination?
+
+Speaker 3 ( 13:33 ):
+
+Yeah.
+
+Kevin Wallace ( 13:33 ):
+
+Is that your counsel?
+
+Donald Trump ( 13:35 ):
+
+Yes.
+
+Kevin Wallace ( 13:35 ):
+
+Okay. Okay. I will just note for the record, that was a lengthy statement. Obviously, we disagree with all of the characterizations, but to keep today’s proceedings moving, I’m going to move on to my questioning. So Mr. Trump, I take it you are not going to answer any questions about your preparation today with your counsel. Is that correct?
+
+Speaker 3 ( 13:59 ):
+
+Just read that.
+
+Donald Trump ( 14:03 ):
+
+Should I say this or should I respond to that?
+
+Speaker 3 ( 14:06 ):
+
+Just read that.
+
+Donald Trump ( 14:08 ):
+
+For all of the reasons provided in my answer, which is incorporated herein in its entirety, I decline to answer the question.
+
+Kevin Wallace ( 14:17 ):
+
+Okay. Mr. Trump, the focus of our investigation and what we are primarily going to cover today involves the presentation of your statements of financial condition between 2011 and the present. I take it you are generally familiar with those statements. Is that correct?
+
+Donald Trump ( 14:33 ):
+
+For all of the reasons provided in my answer, which is incorporated herein in its entirety, I decline to answer the question.
+
+Kevin Wallace ( 14:48 ):
+
+Okay. Did you review any of those statements from the period 2011 to 2021 during your preparation for today’s testimony?
+
+Donald Trump ( 14:57 ):
+
+For all of the reasons provided in my answer, which is incorporated here in its entirety, I just decline to answer the question.
+
+Kevin Wallace ( 15:06 ):
+
+Counsel, I think we can all stipulate that if he says same answer, we will all understand it to-
+
+Donald Trump ( 15:10 ):
+
+Right.
+
+Kevin Wallace ( 15:10 ):
+
+… be the same invocation-
+
+Speaker 4 ( 15:11 ):
+
+That’s correct.
+
+Kevin Wallace ( 15:12 ):
+
+… to speed things up. Okay.
+
+Speaker 3 ( 15:13 ):
+
+No problem.
+
+Kevin Wallace ( 15:13 ):
+
+With that note, sir, you’re currently the president of the Trump organization. Is that correct?
+
+Donald Trump ( 15:20 ):
+
+Same answer.
+
+Kevin Wallace ( 15:21 ):
+
+And when I refer to the Trump organization, is it accurate to describe that as the trade name for an umbrella organization that holds assets beneficially owned by you?
+
+Donald Trump ( 15:32 ):
+
+Same answer.
+
+Kevin Wallace ( 15:34 ):
+
+Is it fair to say that the Trump organization sits on top of several hundred different legal entities?
+
+Donald Trump ( 15:40 ):
+
+Same answer.
+
+Kevin Wallace ( 15:42 ):
+
+Are the assets of the Trump organization currently held in irrevocable trust?
+
+Donald Trump ( 15:47 ):
+
+Same answer.
+
+Kevin Wallace ( 15:49 ):
+
+Is that revocable trust the Donald J. Trump revocable trust dated April 7th, 2014?
+
+Donald Trump ( 15:57 ):
+
+Same answer.
+
+Kevin Wallace ( 16:00 ):
+
+And you are the donor of the assets in that trust. Is that correct?
+
+Donald Trump ( 16:03 ):
+
+Same answer.
+
+Kevin Wallace ( 16:05 ):
+
+And you are the sole beneficiary of the assets in that trust, is that correct?
+
+Donald Trump ( 16:08 ):
+
+Same answer.
+
+Kevin Wallace ( 16:10 ):
+
+Why did you form that trust in April, 2014?
+
+Donald Trump ( 16:14 ):
+
+Same answer.
+
+Kevin Wallace ( 16:16 ):
+
+Who were the trustees when the trust was first founded?
+
+Donald Trump ( 16:20 ):
+
+Same answer.
+
+Kevin Wallace ( 16:22 ):
+
+At some point, Allen Weisselberg and your son, Don, Jr., were the trustees. Is that correct?
+
+Donald Trump ( 16:28 ):
+
+Same answer.
+
+Kevin Wallace ( 16:30 ):
+
+Did you ever consider retaining independent trustees to oversee the trust?
+
+Donald Trump ( 16:34 ):
+
+Same answer.
+
+Kevin Wallace ( 16:37 ):
+
+At present, your son, Don Jr, is the sole trustee. Is that correct?
+
+Donald Trump ( 16:41 ):
+
+Same answer.
+
+( 16:44 ) Okay.
+
+Speaker 3 ( 16:48 ):
+
+Thank you.
+
+Kevin Wallace ( 16:54 ):
+
+Mr. Trump, the court reporter has handed you a document. It is a printout of an Excel spreadsheet, so it doesn’t have a document number on it, but I’ll represent to you that it is the supporting spreadsheet for your statement of financial condition for the year June 30th, 2011. Do you recognize the form of this document?
+
+Donald Trump ( 17:16 ):
+
+Same answer.
+
+Kevin Wallace ( 17:18 ):
+
+This is the supporting data spreadsheet that was used to prepare your 2011 statement of financial condition. Is that correct?
+
+Donald Trump ( 17:24 ):
+
+Same answer.
+
+Kevin Wallace ( 17:26 ):
+
+The spreadsheet is used to calculate the valuations contained in the statement of financial condition. Is that correct?
+
+Donald Trump ( 17:31 ):
+
+Same answer.
+
+Kevin Wallace ( 17:33 ):
+
+You reviewed this document with Allen Weisselberg before it was finalized as part of the 2011 statement of financial condition. Is that correct?
+
+Donald Trump ( 17:39 ):
+
+Same answer.
+
+Kevin Wallace ( 17:42 ):
+
+You reviewed this document with Jeff McConney before the 2011 statement of financial condition was issued. Is that correct?
+
+Donald Trump ( 17:50 ):
+
+Same answer.
+
+Kevin Wallace ( 17:51 ):
+
+You reviewed and approved evaluations and evaluation methods contained in this document before it was finalized. Is that correct?
+
+Donald Trump ( 17:56 ):
+
+Same answer.
+
+Kevin Wallace ( 17:58 ):
+
+And you approved the evaluations and evaluation methods contained in this document before it was finalized. Is that correct?
+
+Donald Trump ( 18:05 ):
+
+Same answer.
+
+Kevin Wallace ( 18:11 ):
+
+Evaluations contained in this document reflect false and misleading valuation statements. Is that correct?
+
+Donald Trump ( 18:16 ):
+
+Same answer.
+
+Kevin Wallace ( 18:18 ):
+
+You are aware at the time this was finalized that the statement of financial condition for 2011 contained false and misleading statements. Is that correct??
+
+Donald Trump ( 18:24 ):
+
+Same answer.
+
+Kevin Wallace ( 18:26 ):
+
+In preparing the 2011 statement of financial conditions, Allen Weisselberg and Jeff McConney worked at your direction and followed your instructions and inflated asset valuations on the statement of financial conditions by employing false and misleading assumptions. Is that correct?
+
+Donald Trump ( 18:40 ):
+
+Same answer.
+
+Kevin Wallace ( 18:42 ):
+
+From at least 2005 through the present, you’ve had an ongoing agreement with Mr. Weisselberg and Mr. McConney that they would prepare the statement of financial condition in a manner that included valuations that depended on false misleading assumptions as a means means of inflating reported values. Is that correct?
+
+Donald Trump ( 18:57 ):
+
+Same answer.
+
+Kevin Wallace ( 18:58 ):
+
+From at least 2005 through the present, you have had an ongoing agreement with Mr. Weisselberg and Mr. McConney and others that they would prepare the statement of financial condition in a manner that included intentional overvaluations. Is that correct?
+
+Donald Trump ( 19:09 ):
+
+Same answer.
+
+Kevin Wallace ( 19:11 ):
+
+From at least 2005 through the present, you have had an ongoing agreement with Mr. Weisselberg and Mr. McConney and others that they would prepare the statement of financial condition in a manner that included false and misleading valuations statements. Is that correct?
+
+Donald Trump ( 19:22 ):
+
+Same answer.
+
+Kevin Wallace ( 19:25 ):
+
+Can we go off the record for one second.
+
+Speaker 4 ( 19:30 ):
+
+We’re going off the record at 1:51 PM. Can we just do [inaudible 00:19:34]?
+
+Speaker 3 ( 19:34 ):
+
+We’re at 29, right?
+
+Speaker 4 ( 19:40 ):
+
+We’re back on the record at 1:53 PM.
+
+Kevin Wallace ( 19:45 ):
+
+Mr. Trump, we don’t have a hard copy of the next document, but I’m going to designate the document that is up on the screen as Exhibit 29. This is an electronic copy of
+
+Kevin Wallace ( 20:02 ):
+
+The supporting spreadsheet for your statement of financial condition, the document bears the production number Mazars-NYAG-00161836. Do you recognize the form of this document?
+
+Donald Trump ( 20:22 ):
+
+Same answer.
+
+Kevin Wallace ( 20:24 ):
+
+This is the supporting data spreadsheet for the 2019 statement of financial condition, is that correct?
+
+Donald Trump ( 20:30 ):
+
+Same answer.
+
+Kevin Wallace ( 20:31 ):
+
+This spreadsheet was used to calculate the valuations contained in the statement of financial condition, is that correct?
+
+Donald Trump ( 20:36 ):
+
+Same answer.
+
+Kevin Wallace ( 20:38 ):
+
+You reviewed this document with Allen Weisselberg and your son Don Trump Jr. before it was finalized as part of the 2019 statement of financial condition, is that correct?
+
+Donald Trump ( 20:47 ):
+
+Same answer.
+
+Kevin Wallace ( 20:48 ):
+
+You reviewed and approved the valuations and valuation methods contained in this document before it was finalized, is that correct?
+
+Donald Trump ( 20:54 ):
+
+Same answer.
+
+Kevin Wallace ( 20:56 ):
+
+The 2019 statement of financial condition contained false and misleading valuations and statements, is that correct?
+
+Donald Trump ( 21:02 ):
+
+Same answer.
+
+Kevin Wallace ( 21:04 ):
+
+You knew at the time it was finalized that the year 2019 statement of financial condition contained false and misleading statements, is that correct?
+
+Donald Trump ( 21:11 ):
+
+Same answer.
+
+Kevin Wallace ( 21:13 ):
+
+In preparing the 2019 statement of financial condition, Mr. Weisselberg and Mr. McConney worked at your direction and followed your instructions to inflate asset valuations on the statement of financial condition by employing false and misleading assumptions, is that correct?
+
+Donald Trump ( 21:21 ):
+
+Same answer.
+
+Kevin Wallace ( 21:22 ):
+
+Others in the accounting department also worked with Mr. Weisselberg and Mr. McConney to follow your instructions and inflate asset valuations on the statement of financial condition by employing false or misleading assumptions, is that
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+Mr. Trump, the court reporter has handed you a document that has been designated Exhibit 30. It bears the production number DB-NYAG-248537, has a title, Donald J. Trump, statement of financial condition, June 30th, 2020. This is your statement of financial condition for the year 2020, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+You approved this document before it was issued, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+You reviewed the valuations and valuation methods contained in this document before it was issued, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+We’ll stop there, actually. And let me get the document. Samantha, could you put up… Samantha has put up on the screen a document that bears the production number Mazars-NYAG-00162291. Do you recognize the form of this document?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+This is the supporting data spreadsheet for the 2020 statement of financial condition, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+This spreadsheet was used to calculate the valuations contained in the statement of financial condition, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+You reviewed this document with Allen Weisselberg before it was finalized as part of the 2020 statement of financial condition, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+You reviewed and approved the valuations and valuation methods contained in this document before it was finalized, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+So the 2020 statement of financial condition contained false and misleading valuations and statements, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:28 ):
+
+You knew at the time it was finalized that the 2020 statement of financial condition contained false and misleading statements, is that correct?
+
+Donald Trump ( 21:28 ):
+
+Same answer.
+
+Kevin Wallace ( 21:30 ):
+
+In preparing the 2020 statement of financial condition, Alan Weisselberg, Jeff McConney and others worked at your direction and followed your instructions to inflate asset valuations on the statement of financial condition by employing false or misleading assumptions, is that correct?
+
+Donald Trump ( 21:42 ):
+
+Same answer.
+
+Kevin Wallace ( 21:42 ):
+
+That’s 31, yeah.
+
+Speaker 5 ( 21:42 ):
+
+[inaudible 00:24:39]
+
+Kevin Wallace ( 24:58 ):
+
+Mr. Trump, the court reporter has handed you a document that has been designated as Exhibit 32. It has the production number DB-NYAG-405109. It is entitled Donald J. Trump’s statement of financial condition, June 30th, 2021. This is your June 2021 statement of financial condition, is that correct?
+
+Donald Trump ( 25:24 ):
+
+Same answer.
+
+Kevin Wallace ( 25:26 ):
+
+You approved this document before it was issued, is that correct?
+
+Donald Trump ( 25:29 ):
+
+Same answer.
+
+Kevin Wallace ( 25:30 ):
+
+You reviewed the valuations and valuation methods contained in this document before it was issued, is that correct?
+
+Donald Trump ( 25:35 ):
+
+Same answer.
+
+Kevin Wallace ( 25:40 ):
+
+Sam, would you pull up the next document please? Mr. Trump, Samantha has pulled up onto the screen a document that has the production number TTO-06166407, and we will designate this as Exhibit 33. This is the supporting data spreadsheet for the year 2021 statement of financial condition, is that correct?
+
+Donald Trump ( 26:12 ):
+
+Same answer.
+
+Kevin Wallace ( 26:13 ):
+
+This spreadsheet was used to calculate the evaluations contained in the statement of financial condition, is that correct?
+
+Donald Trump ( 26:18 ):
+
+Same answer.
+
+Kevin Wallace ( 26:19 ):
+
+You reviewed this document with Alan Weisselberg and your son, Don Trump Jr., before it was finalized as part of the 2021 statement of financial condition, is that correct?
+
+Donald Trump ( 26:28 ):
+
+Same answer.
+
+Kevin Wallace ( 26:30 ):
+
+You reviewed and approved the valuations and valuation methods contained in this document before it was finalized, is that correct?
+
+Donald Trump ( 26:36 ):
+
+Same answer.
+
+Kevin Wallace ( 26:39 ):
+
+The 2021 statement of financial condition contained false and misleading valuations and statements, is that correct?
+
+Donald Trump ( 26:45 ):
+
+Same answer.
+
+Kevin Wallace ( 26:46 ):
+
+You knew at the time it was finalized that the 2021 statement of financial condition contained false and misleading statements, is that correct?
+
+Donald Trump ( 26:52 ):
+
+Same answer.
+
+Kevin Wallace ( 26:54 ):
+
+In preparing the 2021 statement of financial condition, Mr. Weisselberg, Mr. McConney and others worked at your direction and followed your instructions to inflate asset valuations on the statement of financial condition by employing false and misleading assumptions, is that correct?
+
+Donald Trump ( 27:09 ):
+
+Same answer.
+
+Kevin Wallace ( 27:11 ):
+
+Can we go off the record?
+
+Speaker 6 ( 27:15 ):
+
+We’re going off the record at 2:00 PM.
+
+Speaker 7 ( 27:18 ):
+
+I’m just going to get some water.
+
+Speaker 6 ( 27:21 ):
+
+We’re back on the record at 2:04 PM.
+
+Kevin Wallace ( 27:25 ):
+
+Mr. Trump, for each year from 2011 to 2021, did you or someone acting at your direction sign… Actually, let’s strike that question. Mr. Trump, for each year from 2011 to 2020, did you or someone acting your direction sign an engagement letter with the Mazars firm to repair the statement of financial condition?
+
+Donald Trump ( 27:56 ):
+
+Same answer.
+
+Kevin Wallace ( 27:58 ):
+
+In the year 2021, did you or someone acting at your direction sign an engagement letter with Whitley Penn to prepare your statement of financial condition?
+
+Donald Trump ( 28:10 ):
+
+Same answer.
+
+Kevin Wallace ( 28:21 ):
+
+For the years 2011 through 2020, did you or someone acting at your direction sign a representation letter to the Mazars firm concerning the accuracy of the statements in the statement of financial condition?
+
+Donald Trump ( 28:37 ):
+
+Same answer.
+
+Kevin Wallace ( 28:38 ):
+
+For the year 2021, did you or someone acting at your direction sign a certification letter attesting to the accuracy of the statement of financial condition for the Whitley Penn firm?
+
+Donald Trump ( 28:55 ):
+
+Same answer.
+
+Kevin Wallace ( 29:14 ):
+
+Do we want to do them? Tab 64.
+
+Speaker 8 ( 30:11 ):
+
+Thank you.
+
+Kevin Wallace ( 30:19 ):
+
+Mr. Trump, the court reporter has handed you a document that has been designated as Exhibit 34. It is a certification to Deutsche Bank from you, Donald J. Trump, dated November 11th, 2014. If you could take a look at the second page of this document. Is that your signature on page two?
+
+Donald Trump ( 30:44 ):
+
+Same answer.
+
+Kevin Wallace ( 31:01 ):
+
+If you look at the first bullet point under point number one, it says attached here too is guarantor statement of financial condition as of June 30th, 2014. Were you aware that this submission of your statement of financial condition was a material term of your loan with Deutsche Bank?
+
+Donald Trump ( 31:35 ):
+
+Same answer.
+
+Kevin Wallace ( 31:35 ):
+
+If you turn to the second page under point 6, it states all of the representations and warranties made by guarantor under Section 9, little i to 9, little four, six and sections…
+
+( 31:56 ) False assumptions. Is that correct?
+
+Donald Trump ( 31:57 ):
+
+Same answer.
+
+Kevin Wallace ( 31:59 ):
+
+You knew at the time the evaluation was submitted to the IRS that the Seven Springs Appraisal incorporated intentionally false assumptions about the development timeline for the site. Is that correct?
+
+Donald Trump ( 32:11 ):
+
+Same answer.
+
+Kevin Wallace ( 32:13 ):
+
+You knew at the time the valuation was submitted to the IRS that the cushion appraisers adopted these assumptions intentionally to inflate the value of the easement donation. Is that correct?
+
+Donald Trump ( 32:23 ):
+
+Same answer.
+
+Kevin Wallace ( 32:25 ):
+
+You knew that inflating the appraised value would increase the tax deduction available to you. Is that correct?
+
+Donald Trump ( 32:30 ):
+
+Same answer.
+
+Kevin Wallace ( 32:32 ):
+
+You knew that your attorney, Sherry Dillon, asked the Cushman & Wakefield appraisers to inflate the value of the easement. Is that correct?
+
+Donald Trump ( 32:40 ):
+
+Same answer.
+
+Kevin Wallace ( 32:41 ):
+
+Did you instruct her to get them to reach a higher value?
+
+Donald Trump ( 32:44 ):
+
+Same answer.
+
+Kevin Wallace ( 32:46 ):
+
+You were aware that approvals you had received from the Town of Bedford… No. Strike that.
+
+( 32:53 ) You were aware of the appraisals you had received from the Town of Bedford and its agencies for the development of the Seven Springs site. Is that correct?
+
+Donald Trump ( 33:01 ):
+
+Same answer.
+
+Kevin Wallace ( 33:02 ):
+
+You are aware of the restrictions that these approvals incorporated. Is that correct?
+
+Donald Trump ( 33:06 ):
+
+Same answer.
+
+Kevin Wallace ( 33:07 ):
+
+You are aware that the approvals restricted the number of lots that could be accessed from the Town of Bedford. Is that correct?
+
+Donald Trump ( 33:13 ):
+
+Same answer.
+
+Kevin Wallace ( 33:14 ):
+
+You knew that the valuation submitted to the IRS incorporate assumptions that failed to acknowledge development restrictions imposed by the Town of Bedford. Is that correct?
+
+Donald Trump ( 33:25 ):
+
+Same answer.
+
+Kevin Wallace ( 33:27 ):
+
+You submitted evaluation on the Seven Springs easement to the IRS knowing that the devaluation depended on an inflated number of lots. Is that correct?
+
+Donald Trump ( 33:36 ):
+
+Same answer.
+
+Kevin Wallace ( 33:38 ):
+
+You knew that Ms. Dillon would seek to conceal communications related to her work on the Seven Springs appraisal. Is that correct?
+
+Donald Trump ( 33:45 ):
+
+Same answer.
+
+Kevin Wallace ( 33:57 ):
+
+Looks like when we were transcribing, I may have talked about approvals from the Town of Bedford. I may have muddled it and said appraisals from the Town of Bedford.
+
+Donald Trump ( 34:05 ):
+
+That’s right.
+
+Kevin Wallace ( 34:06 ):
+
+I meant to say approvals. Okay.
+
+( 34:11 ) Mr. Trump, going back to your Doral loan, is it correct that through the use of the inflated statement of financial condition to obtain a favorable interest rate that you were able to save approximately 6% per annum on interest payments owing on your $125 million in loans from Deutsche Bank?
+
+Donald Trump ( 34:31 ):
+
+Same answer.
+
+Kevin Wallace ( 34:33 ):
+
+Regarding your Chicago property, is it correct that through the use of the inflated statement of financial condition, you were able to save at least 4% per annum in the interest payments on loans from Deutsche Bank originating in 2012 in connection with the Trump International Hotel and Tower Chicago?
+
+Donald Trump ( 34:54 ):
+
+Same answer.
+
+Kevin Wallace ( 34:56 ):
+
+With regards to your old post office property, is it correct that through the use of the inflated statement of financial condition to obtain a favorable interest rate, you were able to save at least 5% per annum in interest payments on the construction loan of up to $170 million from Deutsche Bank?
+
+Donald Trump ( 35:16 ):
+
+Same answer.
+
+Kevin Wallace ( 35:17 ):
+
+Is it correct that absent the $170 million construction loan from Deutsche Bank, you would not have obtained the ground lease on the old post office property or been able to provide the renovation to the property that occurred?
+
+Donald Trump ( 35:29 ):
+
+Same answer.
+
+Kevin Wallace ( 35:38 ):
+
+Next question is about apartments held by your daughter at 502 Park Avenue. Do you know if the below-market rent that she had on her rental apartments at 502 Park Avenue were provided in exchange for work performed as part of her responsibilities at the Trump Organization?
+
+Donald Trump ( 36:01 ):
+
+Same answer.
+
+Kevin Wallace ( 36:02 ):
+
+Do you know if the below-market purchase options that you provided your daughter on 502 Park Avenue Apartments was made in exchange for work performed as part of her job at the Trump Organization?
+
+Donald Trump ( 36:14 ):
+
+Same answer.
+
+Kevin Wallace ( 36:15 ):
+
+Do you know if the benefits from any below-market rents were reflected in any tax forms at the Trump Organization?
+
+Donald Trump ( 36:24 ):
+
+Same answer.
+
+Kevin Wallace ( 36:25 ):
+
+Do you know if the value of any below-market purchase options were reflected as either gifts or compensation on any tax forms at the Trump Organization?
+
+Donald Trump ( 36:37 ):
+
+Same answer.
+
+Kevin Wallace ( 36:41 ):
+
+We can go off the record.
+
+Speaker 8 ( 36:41 ):
+
+Okay.
+
+Speaker 9 ( 36:44 ):
+
+We’re going off the record at 3:12 PM.
+
+Kevin Wallace ( 36:47 ):
+
+While we’re off the record, do any of my…
+
+Speaker 8 ( 36:49 ):
+
+That’s fine.
+
+Speaker 9 ( 36:53 ):
+
+We’re back on the record at 3:12 PM.
+
+Kevin Wallace ( 36:59 ):
+
+Mr. Trump, just back on the record.
+
+Speaker 9 ( 37:02 ):
+
+And we’re… Sorry.
+
+Kevin Wallace ( 37:17 ):
+
+As I was saying, we are back on the record to confirm that we have completed our testimony today. Thank you for your appearance.
+
+Donald Trump ( 37:22 ):
+
+Thank you. Thank you, Kevin. Thank you everybody.
+
+Kevin Wallace ( 37:24 ):
+
+Off the record.
+
+Speaker 9 ( 37:32 ):
+
+Thank you all. We’re going off the record at 3:13 PM and this concludes today’s testimony given by Donald J. Trump.
+
+Luckily for you, we deliver. Subscribe to our blog today.
+
+A confirmation email is on it’s way to your inbox.
+
+Copyright Disclaimer
+
+Under Title 17 U.S.C. Section 107, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is permitted by copyright statute that might otherwise be infringing.
+
+Keep reading
+
+Subscribe to The Rev Blog
+
+Sign up to get Rev content delivered straight to your inbox.

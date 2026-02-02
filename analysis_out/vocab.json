@@ -1,0 +1,2007 @@
+{
+  "vocab_top_n": 20000,
+  "co_vocab_top_n": 6000,
+  "total_unique_tokens": 12870,
+  "top_words": [
+    {
+      "word": "trump",
+      "count": 4804
+    },
+    {
+      "word": "going",
+      "count": 4562
+    },
+    {
+      "word": "people",
+      "count": 3670
+    },
+    {
+      "word": "donald",
+      "count": 3355
+    },
+    {
+      "word": "president",
+      "count": 3235
+    },
+    {
+      "word": "it's",
+      "count": 3075
+    },
+    {
+      "word": "think",
+      "count": 2843
+    },
+    {
+      "word": "we're",
+      "count": 2628
+    },
+    {
+      "word": "speaker",
+      "count": 2473
+    },
+    {
+      "word": "said",
+      "count": 2345
+    },
+    {
+      "word": "country",
+      "count": 2254
+    },
+    {
+      "word": "know",
+      "count": 2180
+    },
+    {
+      "word": "want",
+      "count": 2162
+    },
+    {
+      "word": "like",
+      "count": 2073
+    },
+    {
+      "word": "just",
+      "count": 2003
+    },
+    {
+      "word": "great",
+      "count": 1971
+    },
+    {
+      "word": "don't",
+      "count": 1720
+    },
+    {
+      "word": "they're",
+      "count": 1715
+    },
+    {
+      "word": "right",
+      "count": 1699
+    },
+    {
+      "word": "say",
+      "count": 1687
+    },
+    {
+      "word": "lot",
+      "count": 1687
+    },
+    {
+      "word": "thank",
+      "count": 1676
+    },
+    {
+      "word": "good",
+      "count": 1509
+    },
+    {
+      "word": "that's",
+      "count": 1500
+    },
+    {
+      "word": "got",
+      "count": 1373
+    },
+    {
+      "word": "did",
+      "count": 1342
+    },
+    {
+      "word": "doing",
+      "count": 1167
+    },
+    {
+      "word": "really",
+      "count": 1099
+    },
+    {
+      "word": "years",
+      "count": 1096
+    },
+    {
+      "word": "look",
+      "count": 1041
+    },
+    {
+      "word": "time",
+      "count": 1038
+    },
+    {
+      "word": "way",
+      "count": 1027
+    },
+    {
+      "word": "mr",
+      "count": 1013
+    },
+    {
+      "word": "make",
+      "count": 983
+    },
+    {
+      "word": "i'm",
+      "count": 961
+    },
+    {
+      "word": "big",
+      "count": 920
+    },
+    {
+      "word": "world",
+      "count": 868
+    },
+    {
+      "word": "things",
+      "count": 867
+    },
+    {
+      "word": "biden",
+      "count": 827
+    },
+    {
+      "word": "don",
+      "count": 814
+    },
+    {
+      "word": "thing",
+      "count": 814
+    },
+    {
+      "word": "he's",
+      "count": 776
+    },
+    {
+      "word": "job",
+      "count": 768
+    },
+    {
+      "word": "money",
+      "count": 766
+    },
+    {
+      "word": "come",
+      "count": 749
+    },
+    {
+      "word": "new",
+      "count": 728
+    },
+    {
+      "word": "you're",
+      "count": 720
+    },
+    {
+      "word": "inaudible",
+      "count": 719
+    },
+    {
+      "word": "american",
+      "count": 700
+    },
+    {
+      "word": "sir",
+      "count": 691
+    },
+    {
+      "word": "we've",
+      "count": 681
+    },
+    {
+      "word": "yeah",
+      "count": 655
+    },
+    {
+      "word": "states",
+      "count": 644
+    },
+    {
+      "word": "deal",
+      "count": 630
+    },
+    {
+      "word": "day",
+      "count": 612
+    },
+    {
+      "word": "china",
+      "count": 611
+    },
+    {
+      "word": "actually",
+      "count": 598
+    },
+    {
+      "word": "america",
+      "count": 593
+    },
+    {
+      "word": "coming",
+      "count": 593
+    },
+    {
+      "word": "countries",
+      "count": 585
+    },
+    {
+      "word": "let",
+      "count": 584
+    },
+    {
+      "word": "little",
+      "count": 579
+    },
+    {
+      "word": "mean",
+      "count": 565
+    },
+    {
+      "word": "we'll",
+      "count": 561
+    },
+    {
+      "word": "didn't",
+      "count": 560
+    },
+    {
+      "word": "bad",
+      "count": 558
+    },
+    {
+      "word": "ve",
+      "count": 556
+    },
+    {
+      "word": "border",
+      "count": 543
+    },
+    {
+      "word": "tell",
+      "count": 525
+    },
+    {
+      "word": "tariffs",
+      "count": 525
+    },
+    {
+      "word": "year",
+      "count": 524
+    },
+    {
+      "word": "everybody",
+      "count": 512
+    },
+    {
+      "word": "united",
+      "count": 510
+    },
+    {
+      "word": "happened",
+      "count": 501
+    },
+    {
+      "word": "today",
+      "count": 499
+    },
+    {
+      "word": "came",
+      "count": 494
+    },
+    {
+      "word": "war",
+      "count": 494
+    },
+    {
+      "word": "work",
+      "count": 492
+    },
+    {
+      "word": "history",
+      "count": 483
+    },
+    {
+      "word": "talk",
+      "count": 475
+    },
+    {
+      "word": "energy",
+      "count": 475
+    },
+    {
+      "word": "there's",
+      "count": 469
+    },
+    {
+      "word": "okay",
+      "count": 464
+    },
+    {
+      "word": "need",
+      "count": 459
+    },
+    {
+      "word": "guy",
+      "count": 458
+    },
+    {
+      "word": "billion",
+      "count": 458
+    },
+    {
+      "word": "election",
+      "count": 452
+    },
+    {
+      "word": "happen",
+      "count": 443
+    },
+    {
+      "word": "use",
+      "count": 439
+    },
+    {
+      "word": "ago",
+      "count": 438
+    },
+    {
+      "word": "beautiful",
+      "count": 435
+    },
+    {
+      "word": "talking",
+      "count": 434
+    },
+    {
+      "word": "getting",
+      "count": 430
+    },
+    {
+      "word": "better",
+      "count": 428
+    },
+    {
+      "word": "believe",
+      "count": 423
+    },
+    {
+      "word": "dollars",
+      "count": 419
+    },
+    {
+      "word": "long",
+      "count": 418
+    },
+    {
+      "word": "love",
+      "count": 417
+    },
+    {
+      "word": "ll",
+      "count": 411
+    },
+    {
+      "word": "seen",
+      "count": 410
+    },
+    {
+      "word": "maybe",
+      "count": 403
+    },
+    {
+      "word": "went",
+      "count": 403
+    },
+    {
+      "word": "question",
+      "count": 399
+    },
+    {
+      "word": "working",
+      "count": 397
+    },
+    {
+      "word": "yes",
+      "count": 393
+    },
+    {
+      "word": "took",
+      "count": 393
+    },
+    {
+      "word": "place",
+      "count": 380
+    },
+    {
+      "word": "administration",
+      "count": 380
+    },
+    {
+      "word": "can't",
+      "count": 380
+    },
+    {
+      "word": "million",
+      "count": 378
+    },
+    {
+      "word": "russia",
+      "count": 373
+    },
+    {
+      "word": "won",
+      "count": 373
+    },
+    {
+      "word": "they've",
+      "count": 369
+    },
+    {
+      "word": "number",
+      "count": 362
+    },
+    {
+      "word": "i've",
+      "count": 357
+    },
+    {
+      "word": "important",
+      "count": 354
+    },
+    {
+      "word": "didn",
+      "count": 350
+    },
+    {
+      "word": "probably",
+      "count": 347
+    },
+    {
+      "word": "state",
+      "count": 347
+    },
+    {
+      "word": "military",
+      "count": 342
+    },
+    {
+      "word": "tax",
+      "count": 340
+    },
+    {
+      "word": "different",
+      "count": 335
+    },
+    {
+      "word": "oh",
+      "count": 332
+    },
+    {
+      "word": "remember",
+      "count": 331
+    },
+    {
+      "word": "pay",
+      "count": 331
+    },
+    {
+      "word": "vote",
+      "count": 329
+    },
+    {
+      "word": "person",
+      "count": 328
+    },
+    {
+      "word": "man",
+      "count": 327
+    },
+    {
+      "word": "incredible",
+      "count": 323
+    },
+    {
+      "word": "saying",
+      "count": 321
+    },
+    {
+      "word": "security",
+      "count": 321
+    },
+    {
+      "word": "i'll",
+      "count": 320
+    },
+    {
+      "word": "able",
+      "count": 317
+    },
+    {
+      "word": "crime",
+      "count": 315
+    },
+    {
+      "word": "companies",
+      "count": 314
+    },
+    {
+      "word": "numbers",
+      "count": 313
+    },
+    {
+      "word": "thought",
+      "count": 309
+    },
+    {
+      "word": "left",
+      "count": 306
+    },
+    {
+      "word": "days",
+      "count": 298
+    },
+    {
+      "word": "week",
+      "count": 298
+    },
+    {
+      "word": "making",
+      "count": 297
+    },
+    {
+      "word": "does",
+      "count": 294
+    },
+    {
+      "word": "end",
+      "count": 293
+    },
+    {
+      "word": "sure",
+      "count": 291
+    },
+    {
+      "word": "stop",
+      "count": 289
+    },
+    {
+      "word": "nation",
+      "count": 289
+    },
+    {
+      "word": "inflation",
+      "count": 288
+    },
+    {
+      "word": "government",
+      "count": 288
+    },
+    {
+      "word": "problem",
+      "count": 288
+    },
+    {
+      "word": "times",
+      "count": 282
+    },
+    {
+      "word": "democrats",
+      "count": 281
+    },
+    {
+      "word": "nice",
+      "count": 280
+    },
+    {
+      "word": "business",
+      "count": 280
+    },
+    {
+      "word": "joe",
+      "count": 280
+    },
+    {
+      "word": "months",
+      "count": 279
+    },
+    {
+      "word": "you've",
+      "count": 279
+    },
+    {
+      "word": "ukraine",
+      "count": 278
+    },
+    {
+      "word": "ask",
+      "count": 276
+    },
+    {
+      "word": "jobs",
+      "count": 275
+    },
+    {
+      "word": "gave",
+      "count": 274
+    },
+    {
+      "word": "pretty",
+      "count": 273
+    },
+    {
+      "word": "news",
+      "count": 272
+    },
+    {
+      "word": "office",
+      "count": 271
+    },
+    {
+      "word": "anybody",
+      "count": 271
+    },
+    {
+      "word": "somebody",
+      "count": 271
+    },
+    {
+      "word": "amazing",
+      "count": 271
+    },
+    {
+      "word": "looking",
+      "count": 269
+    },
+    {
+      "word": "called",
+      "count": 269
+    },
+    {
+      "word": "wants",
+      "count": 269
+    },
+    {
+      "word": "prices",
+      "count": 265
+    },
+    {
+      "word": "law",
+      "count": 265
+    },
+    {
+      "word": "heard",
+      "count": 264
+    },
+    {
+      "word": "bit",
+      "count": 263
+    },
+    {
+      "word": "used",
+      "count": 261
+    },
+    {
+      "word": "secretary",
+      "count": 260
+    },
+    {
+      "word": "care",
+      "count": 259
+    },
+    {
+      "word": "millions",
+      "count": 258
+    },
+    {
+      "word": "wanted",
+      "count": 257
+    },
+    {
+      "word": "away",
+      "count": 256
+    },
+    {
+      "word": "hard",
+      "count": 255
+    },
+    {
+      "word": "house",
+      "count": 255
+    },
+    {
+      "word": "trade",
+      "count": 252
+    },
+    {
+      "word": "taking",
+      "count": 251
+    },
+    {
+      "word": "bring",
+      "count": 251
+    },
+    {
+      "word": "fair",
+      "count": 250
+    },
+    {
+      "word": "oil",
+      "count": 250
+    },
+    {
+      "word": "court",
+      "count": 247
+    },
+    {
+      "word": "fact",
+      "count": 246
+    },
+    {
+      "word": "build",
+      "count": 246
+    },
+    {
+      "word": "department",
+      "count": 244
+    },
+    {
+      "word": "hell",
+      "count": 239
+    },
+    {
+      "word": "wouldn't",
+      "count": 239
+    },
+    {
+      "word": "greatest",
+      "count": 238
+    },
+    {
+      "word": "best",
+      "count": 237
+    },
+    {
+      "word": "win",
+      "count": 237
+    },
+    {
+      "word": "what's",
+      "count": 237
+    },
+    {
+      "word": "kaitlan",
+      "count": 234
+    },
+    {
+      "word": "journalists",
+      "count": 234
+    },
+    {
+      "word": "national",
+      "count": 231
+    },
+    {
+      "word": "taken",
+      "count": 231
+    },
+    {
+      "word": "billions",
+      "count": 231
+    },
+    {
+      "word": "saw",
+      "count": 230
+    },
+    {
+      "word": "order",
+      "count": 230
+    },
+    {
+      "word": "strong",
+      "count": 227
+    },
+    {
+      "word": "ahead",
+      "count": 226
+    },
+    {
+      "word": "far",
+      "count": 225
+    },
+    {
+      "word": "biggest",
+      "count": 224
+    },
+    {
+      "word": "leadership",
+      "count": 223
+    },
+    {
+      "word": "couple",
+      "count": 221
+    },
+    {
+      "word": "thousands",
+      "count": 221
+    },
+    {
+      "word": "would've",
+      "count": 221
+    },
+    {
+      "word": "allowed",
+      "count": 220
+    },
+    {
+      "word": "hundreds",
+      "count": 220
+    },
+    {
+      "word": "happening",
+      "count": 219
+    },
+    {
+      "word": "i'd",
+      "count": 219
+    },
+    {
+      "word": "trillion",
+      "count": 217
+    },
+    {
+      "word": "tremendous",
+      "count": 216
+    },
+    {
+      "word": "told",
+      "count": 216
+    },
+    {
+      "word": "run",
+      "count": 215
+    },
+    {
+      "word": "york",
+      "count": 214
+    },
+    {
+      "word": "close",
+      "count": 214
+    },
+    {
+      "word": "worst",
+      "count": 214
+    },
+    {
+      "word": "buy",
+      "count": 211
+    },
+    {
+      "word": "interviewer",
+      "count": 211
+    },
+    {
+      "word": "start",
+      "count": 209
+    },
+    {
+      "word": "help",
+      "count": 209
+    },
+    {
+      "word": "started",
+      "count": 209
+    },
+    {
+      "word": "second",
+      "count": 205
+    },
+    {
+      "word": "americans",
+      "count": 205
+    },
+    {
+      "word": "drug",
+      "count": 205
+    },
+    {
+      "word": "doesn't",
+      "count": 205
+    },
+    {
+      "word": "trying",
+      "count": 204
+    },
+    {
+      "word": "understand",
+      "count": 204
+    },
+    {
+      "word": "case",
+      "count": 204
+    },
+    {
+      "word": "safe",
+      "count": 204
+    },
+    {
+      "word": "weeks",
+      "count": 203
+    },
+    {
+      "word": "economy",
+      "count": 203
+    },
+    {
+      "word": "open",
+      "count": 202
+    },
+    {
+      "word": "building",
+      "count": 201
+    },
+    {
+      "word": "gone",
+      "count": 200
+    },
+    {
+      "word": "horrible",
+      "count": 199
+    },
+    {
+      "word": "steel",
+      "count": 197
+    },
+    {
+      "word": "price",
+      "count": 196
+    },
+    {
+      "word": "having",
+      "count": 194
+    },
+    {
+      "word": "group",
+      "count": 193
+    },
+    {
+      "word": "term",
+      "count": 192
+    },
+    {
+      "word": "hope",
+      "count": 192
+    },
+    {
+      "word": "lawyer",
+      "count": 191
+    },
+    {
+      "word": "real",
+      "count": 191
+    },
+    {
+      "word": "hear",
+      "count": 190
+    },
+    {
+      "word": "sign",
+      "count": 190
+    },
+    {
+      "word": "fantastic",
+      "count": 190
+    },
+    {
+      "word": "smart",
+      "count": 187
+    },
+    {
+      "word": "fake",
+      "count": 186
+    },
+    {
+      "word": "killed",
+      "count": 186
+    },
+    {
+      "word": "let's",
+      "count": 185
+    },
+    {
+      "word": "built",
+      "count": 184
+    },
+    {
+      "word": "th",
+      "count": 183
+    },
+    {
+      "word": "guess",
+      "count": 183
+    },
+    {
+      "word": "nuclear",
+      "count": 183
+    },
+    {
+      "word": "home",
+      "count": 182
+    },
+    {
+      "word": "point",
+      "count": 181
+    },
+    {
+      "word": "happy",
+      "count": 181
+    },
+    {
+      "word": "iran",
+      "count": 181
+    },
+    {
+      "word": "car",
+      "count": 181
+    },
+    {
+      "word": "terrible",
+      "count": 180
+    },
+    {
+      "word": "says",
+      "count": 179
+    },
+    {
+      "word": "guys",
+      "count": 179
+    },
+    {
+      "word": "cars",
+      "count": 179
+    },
+    {
+      "word": "federal",
+      "count": 177
+    },
+    {
+      "word": "mexico",
+      "count": 177
+    },
+    {
+      "word": "governor",
+      "count": 176
+    },
+    {
+      "word": "haven't",
+      "count": 174
+    },
+    {
+      "word": "soon",
+      "count": 171
+    },
+    {
+      "word": "family",
+      "count": 171
+    },
+    {
+      "word": "paying",
+      "count": 171
+    },
+    {
+      "word": "congress",
+      "count": 170
+    },
+    {
+      "word": "criminals",
+      "count": 170
+    },
+    {
+      "word": "lost",
+      "count": 170
+    },
+    {
+      "word": "executive",
+      "count": 170
+    },
+    {
+      "word": "life",
+      "count": 169
+    },
+    {
+      "word": "asked",
+      "count": 168
+    },
+    {
+      "word": "record",
+      "count": 168
+    },
+    {
+      "word": "single",
+      "count": 168
+    },
+    {
+      "word": "cut",
+      "count": 168
+    },
+    {
+      "word": "washington",
+      "count": 167
+    },
+    {
+      "word": "meeting",
+      "count": 167
+    },
+    {
+      "word": "high",
+      "count": 165
+    },
+    {
+      "word": "foreign",
+      "count": 165
+    },
+    {
+      "word": "tariff",
+      "count": 165
+    },
+    {
+      "word": "plants",
+      "count": 165
+    },
+    {
+      "word": "tough",
+      "count": 164
+    },
+    {
+      "word": "quickly",
+      "count": 164
+    },
+    {
+      "word": "reason",
+      "count": 163
+    },
+    {
+      "word": "happens",
+      "count": 162
+    },
+    {
+      "word": "usa",
+      "count": 162
+    },
+    {
+      "word": "proud",
+      "count": 162
+    },
+    {
+      "word": "respect",
+      "count": 160
+    },
+    {
+      "word": "brought",
+      "count": 160
+    },
+    {
+      "word": "young",
+      "count": 160
+    },
+    {
+      "word": "she's",
+      "count": 160
+    },
+    {
+      "word": "crazy",
+      "count": 159
+    },
+    {
+      "word": "cost",
+      "count": 159
+    },
+    {
+      "word": "soldiers",
+      "count": 159
+    },
+    {
+      "word": "cities",
+      "count": 157
+    },
+    {
+      "word": "running",
+      "count": 157
+    },
+    {
+      "word": "old",
+      "count": 156
+    },
+    {
+      "word": "half",
+      "count": 155
+    },
+    {
+      "word": "illegal",
+      "count": 155
+    },
+    {
+      "word": "republican",
+      "count": 154
+    },
+    {
+      "word": "press",
+      "count": 153
+    },
+    {
+      "word": "anymore",
+      "count": 153
+    },
+    {
+      "word": "team",
+      "count": 153
+    },
+    {
+      "word": "story",
+      "count": 152
+    },
+    {
+      "word": "force",
+      "count": 152
+    },
+    {
+      "word": "subscribe",
+      "count": 150
+    },
+    {
+      "word": "blog",
+      "count": 150
+    },
+    {
+      "word": "inbox",
+      "count": 150
+    },
+    {
+      "word": "copyright",
+      "count": 150
+    },
+    {
+      "word": "rev",
+      "count": 150
+    },
+    {
+      "word": "knows",
+      "count": 150
+    },
+    {
+      "word": "political",
+      "count": 149
+    },
+    {
+      "word": "honor",
+      "count": 149
+    },
+    {
+      "word": "drugs",
+      "count": 149
+    },
+    {
+      "word": "including",
+      "count": 149
+    },
+    {
+      "word": "electric",
+      "count": 149
+    },
+    {
+      "word": "set",
+      "count": 148
+    },
+    {
+      "word": "sense",
+      "count": 148
+    },
+    {
+      "word": "power",
+      "count": 148
+    },
+    {
+      "word": "course",
+      "count": 147
+    },
+    {
+      "word": "idea",
+      "count": 147
+    },
+    {
+      "word": "room",
+      "count": 147
+    },
+    {
+      "word": "europe",
+      "count": 147
+    },
+    {
+      "word": "possible",
+      "count": 146
+    },
+    {
+      "word": "talked",
+      "count": 146
+    },
+    {
+      "word": "white",
+      "count": 145
+    },
+    {
+      "word": "certain",
+      "count": 145
+    },
+    {
+      "word": "knew",
+      "count": 145
+    },
+    {
+      "word": "you'll",
+      "count": 145
+    },
+    {
+      "word": "democrat",
+      "count": 144
+    },
+    {
+      "word": "lives",
+      "count": 144
+    },
+    {
+      "word": "questions",
+      "count": 143
+    },
+    {
+      "word": "word",
+      "count": 143
+    },
+    {
+      "word": "free",
+      "count": 143
+    },
+    {
+      "word": "middle",
+      "count": 143
+    },
+    {
+      "word": "ones",
+      "count": 142
+    },
+    {
+      "word": "leave",
+      "count": 142
+    },
+    {
+      "word": "peace",
+      "count": 142
+    },
+    {
+      "word": "social",
+      "count": 141
+    },
+    {
+      "word": "comes",
+      "count": 141
+    },
+    {
+      "word": "massive",
+      "count": 141
+    },
+    {
+      "word": "feel",
+      "count": 141
+    },
+    {
+      "word": "venezuela",
+      "count": 141
+    },
+    {
+      "word": "putin",
+      "count": 141
+    },
+    {
+      "word": "farmers",
+      "count": 141
+    },
+    {
+      "word": "radical",
+      "count": 140
+    },
+    {
+      "word": "paid",
+      "count": 140
+    },
+    {
+      "word": "period",
+      "count": 139
+    },
+    {
+      "word": "city",
+      "count": 139
+    },
+    {
+      "word": "true",
+      "count": 139
+    },
+    {
+      "word": "cases",
+      "count": 139
+    },
+    {
+      "word": "workers",
+      "count": 139
+    },
+    {
+      "word": "police",
+      "count": 139
+    },
+    {
+      "word": "stand",
+      "count": 138
+    },
+    {
+      "word": "night",
+      "count": 137
+    },
+    {
+      "word": "seven",
+      "count": 137
+    },
+    {
+      "word": "level",
+      "count": 137
+    },
+    {
+      "word": "charge",
+      "count": 136
+    },
+    {
+      "word": "kind",
+      "count": 136
+    },
+    {
+      "word": "given",
+      "count": 135
+    },
+    {
+      "word": "involved",
+      "count": 134
+    },
+    {
+      "word": "borders",
+      "count": 134
+    },
+    {
+      "word": "points",
+      "count": 134
+    },
+    {
+      "word": "water",
+      "count": 133
+    },
+    {
+      "word": "wars",
+      "count": 133
+    },
+    {
+      "word": "kamala",
+      "count": 133
+    },
+    {
+      "word": "situation",
+      "count": 132
+    },
+    {
+      "word": "stuff",
+      "count": 132
+    },
+    {
+      "word": "they'll",
+      "count": 132
+    },
+    {
+      "word": "woman",
+      "count": 131
+    },
+    {
+      "word": "appreciate",
+      "count": 131
+    },
+    {
+      "word": "goes",
+      "count": 131
+    },
+    {
+      "word": "totally",
+      "count": 131
+    },
+    {
+      "word": "stupid",
+      "count": 131
+    },
+    {
+      "word": "save",
+      "count": 131
+    },
+    {
+      "word": "stopped",
+      "count": 131
+    },
+    {
+      "word": "send",
+      "count": 131
+    },
+    {
+      "word": "longer",
+      "count": 130
+    },
+    {
+      "word": "won't",
+      "count": 130
+    },
+    {
+      "word": "means",
+      "count": 129
+    },
+    {
+      "word": "hit",
+      "count": 129
+    },
+    {
+      "word": "policy",
+      "count": 129
+    },
+    {
+      "word": "children",
+      "count": 128
+    },
+    {
+      "word": "women",
+      "count": 127
+    },
+    {
+      "word": "speak",
+      "count": 127
+    },
+    {
+      "word": "enforcement",
+      "count": 127
+    },
+    {
+      "word": "lose",
+      "count": 127
+    },
+    {
+      "word": "israel",
+      "count": 127
+    },
+    {
+      "word": "yesterday",
+      "count": 127
+    },
+    {
+      "word": "laura",
+      "count": 126
+    },
+    {
+      "word": "process",
+      "count": 126
+    },
+    {
+      "word": "support",
+      "count": 126
+    },
+    {
+      "word": "audience",
+      "count": 126
+    },
+    {
+      "word": "scott",
+      "count": 126
+    },
+    {
+      "word": "couldn't",
+      "count": 126
+    },
+    {
+      "word": "general",
+      "count": 125
+    },
+    {
+      "word": "company",
+      "count": 125
+    },
+    {
+      "word": "leading",
+      "count": 125
+    },
+    {
+      "word": "worked",
+      "count": 124
+    },
+    {
+      "word": "it'll",
+      "count": 124
+    },
+    {
+      "word": "small",
+      "count": 123
+    },
+    {
+      "word": "taxes",
+      "count": 123
+    },
+    {
+      "word": "allow",
+      "count": 123
+    },
+    {
+      "word": "media",
+      "count": 123
+    },
+    {
+      "word": "change",
+      "count": 123
+    },
+    {
+      "word": "wasn't",
+      "count": 123
+    },
+    {
+      "word": "ended",
+      "count": 122
+    },
+    {
+      "word": "places",
+      "count": 122
+    },
+    {
+      "word": "speech",
+      "count": 122
+    },
+    {
+      "word": "iowa",
+      "count": 122
+    },
+    {
+      "word": "month",
+      "count": 121
+    },
+    {
+      "word": "sort",
+      "count": 121
+    },
+    {
+      "word": "land",
+      "count": 121
+    },
+    {
+      "word": "dead",
+      "count": 121
+    },
+    {
+      "word": "wouldn",
+      "count": 120
+    },
+    {
+      "word": "worse",
+      "count": 120
+    },
+    {
+      "word": "wall",
+      "count": 119
+    },
+    {
+      "word": "bringing",
+      "count": 119
+    },
+    {
+      "word": "wrong",
+      "count": 118
+    },
+    {
+      "word": "act",
+      "count": 118
+    },
+    {
+      "word": "words",
+      "count": 117
+    },
+    {
+      "word": "control",
+      "count": 117
+    },
+    {
+      "word": "low",
+      "count": 117
+    },
+    {
+      "word": "lower",
+      "count": 117
+    },
+    {
+      "word": "canada",
+      "count": 117
+    },
+    {
+      "word": "table",
+      "count": 117
+    },
+    {
+      "word": "stay",
+      "count": 116
+    },
+    {
+      "word": "ready",
+      "count": 115
+    },
+    {
+      "word": "straight",
+      "count": 115
+    },
+    {
+      "word": "disaster",
+      "count": 115
+    },
+    {
+      "word": "answer",
+      "count": 114
+    },
+    {
+      "word": "absolutely",
+      "count": 113
+    },
+    {
+      "word": "deliver",
+      "count": 113
+    },
+    {
+      "word": "largest",
+      "count": 113
+    },
+    {
+      "word": "signed",
+      "count": 113
+    },
+    {
+      "word": "industry",
+      "count": 112
+    },
+    {
+      "word": "thanks",
+      "count": 112
+    },
+    {
+      "word": "texas",
+      "count": 112
+    },
+    {
+      "word": "deals",
+      "count": 112
+    },
+    {
+      "word": "market",
+      "count": 112
+    },
+    {
+      "word": "prime",
+      "count": 112
+    },
+    {
+      "word": "pete",
+      "count": 112
+    },
+    {
+      "word": "powerful",
+      "count": 111
+    },
+    {
+      "word": "mike",
+      "count": 111
+    },
+    {
+      "word": "terms",
+      "count": 110
+    },
+    {
+      "word": "doesn",
+      "count": 110
+    },
+    {
+      "word": "auto",
+      "count": 110
+    },
+    {
+      "word": "hostages",
+      "count": 110
+    },
+    {
+      "word": "research",
+      "count": 109
+    },
+    {
+      "word": "read",
+      "count": 108
+    },
+    {
+      "word": "giving",
+      "count": 108
+    },
+    {
+      "word": "relationship",
+      "count": 108
+    },
+    {
+      "word": "ingraham",
+      "count": 108
+    },
+    {
+      "word": "public",
+      "count": 107
+    },
+    {
+      "word": "agree",
+      "count": 107
+    },
+    {
+      "word": "republicans",
+      "count": 107
+    },
+    {
+      "word": "badly",
+      "count": 107
+    },
+    {
+      "word": "rich",
+      "count": 107
+    },
+    {
+      "word": "chicago",
+      "count": 107
+    },
+    {
+      "word": "nato",
+      "count": 107
+    },
+    {
+      "word": "head",
+      "count": 106
+    },
+    {
+      "word": "party",
+      "count": 106
+    },
+    {
+      "word": "looked",
+      "count": 106
+    },
+    {
+      "word": "crowd",
+      "count": 106
+    },
+    {
+      "word": "votes",
+      "count": 106
+    },
+    {
+      "word": "putting",
+      "count": 106
+    },
+    {
+      "word": "pennsylvania",
+      "count": 106
+    },
+    {
+      "word": "obviously",
+      "count": 105
+    },
+    {
+      "word": "justice",
+      "count": 105
+    },
+    {
+      "word": "sent",
+      "count": 105
+    },
+    {
+      "word": "protect",
+      "count": 105
+    },
+    {
+      "word": "saved",
+      "count": 105
+    },
+    {
+      "word": "cuts",
+      "count": 105
+    },
+    {
+      "word": "criminal",
+      "count": 105
+    },
+    {
+      "word": "minister",
+      "count": 105
+    },
+    {
+      "word": "fight",
+      "count": 104
+    },
+    {
+      "word": "dangerous",
+      "count": 104
+    },
+    {
+      "word": "businesses",
+      "count": 104
+    },
+    {
+      "word": "south",
+      "count": 104
+    },
+    {
+      "word": "families",
+      "count": 103
+    },
+    {
+      "word": "xi",
+      "count": 103
+    },
+    {
+      "word": "example",
+      "count": 103
+    },
+    {
+      "word": "healthcare",
+      "count": 103
+    },
+    {
+      "word": "comment",
+      "count": 102
+    },
+    {
+      "word": "dr",
+      "count": 102
+    },
+    {
+      "word": "continue",
+      "count": 102
+    },
+    {
+      "word": "issue",
+      "count": 102
+    },
+    {
+      "word": "preident",
+      "count": 102
+    },
+    {
+      "word": "supposed",
+      "count": 101
+    },
+    {
+      "word": "reporting",
+      "count": 101
+    }
+  ]
+}

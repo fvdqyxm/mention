@@ -1,0 +1,24 @@
+event_ticker,event_title,market_ticker,market_title,target_word,market_p,model_p,edge,yes_bid,yes_ask,volume
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-DRIL,"Will Trump say ""Drill Baby Drill"" before Feb 2, 2026?",will,0.055,1.0,0.945,5,6,4608
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-CRYP,"Will Trump say ""Crypto / Bitcoin"" before Feb 2, 2026?",will,0.095,1.0,0.905,8,11,9637
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-PENG,"Will Trump say ""Penguin"" before Feb 2, 2026?",will,0.105,1.0,0.895,9,12,8841
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-MARI,"Will Trump say ""Marijuana / Weed / Cannabis"" before Feb 2, 2026?",will,0.11,1.0,0.89,10,12,7887
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-ANTI,"Will Trump say ""Antifa"" before Feb 2, 2026?",will,0.115,1.0,0.885,9,14,12165
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-GOLD,"Will Trump say ""Golden Dome"" before Feb 2, 2026?",will,0.175,1.0,0.825,12,23,5078
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-INSU,"Will Trump say ""Insurrection Act"" before Feb 2, 2026?",will,0.215,1.0,0.785,19,24,3933
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-OLYM,"Will Trump say ""Olympics"" before Feb 2, 2026?",will,0.235,1.0,0.765,20,27,3265
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-TDS,"Will Trump say ""TDS / Trump Derangement Syndrome"" before Feb 2, 2026?",will,0.24,1.0,0.76,16,32,4809
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-EPST,"Will Trump say ""Epstein"" before Feb 2, 2026?",will,0.26,1.0,0.74,21,31,15681
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-COMM,"Will Trump say ""Communist / Communism"" before Feb 2, 2026?",will,0.26,1.0,0.74,7,45,2904
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-PAID,"Will Trump say ""Paid Agitator / Professional Agitator"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,7371
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-MENT,"Will Trump say ""Mental Institution"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,16964
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-MELA,"Will Trump say ""Melania"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,5603
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-TRAN,"Will Trump say ""Transgender"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,14594
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-IQ,"Will Trump say ""IQ"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,12467
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-RIGG,"Will Trump say ""Rigged Election / Stolen Election"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,6176
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-FAKE,"Will Trump say ""Fake News"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,8751
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-SOMA,"Will Trump say ""Somalia / Somali / Somalian"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,3877
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-COOK,"Will Trump say ""Cookie"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,48097
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-BARA,"Will Trump say ""Barack Hussein Obama"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,23476
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-SLEE,"Will Trump say ""Sleepy Joe"" before Feb 2, 2026?",will,0.5,1.0,0.5,0,100,37684
+KXTRUMPSAY-26FEB02,What will Trump say this week?,KXTRUMPSAY-26FEB02-PRED,"Will Trump say ""Predict / Prediction"" before Feb 2, 2026?",will,0.935,1.0,0.065,93,94,11840

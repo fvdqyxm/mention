@@ -1,0 +1,925 @@
+Speaker 2 ( 00:12 ):
+
+Mr. Sauer, good morning. Before you get started, can I just get a couple of things on the record? Our jurisdiction was challenged by an amicus, but from your reply brief, you are not questioning our collateral order jurisdiction.
+
+Mr. Sauer ( 00:35 ):
+
+Correct. We defend the collateral order jurisdiction. That’s correct, Your Honor.
+
+Speaker 2 ( 00:35 ):
+
+Then also you have either abandoned or not made the Fifth Amendment double jeopardy argument before us.
+
+Mr. Sauer ( 00:46 ):
+
+We have framed the double jeopardy argument as arising principally from the impeachment judgment clause. So we haven’t argued that if you go straight to the double jeopardy clause, that that alone would result in reversal, focusing on the impeachment judgment clause. Now that incorporates principles of double jeopardy, but we haven’t said a straightforward directly under the double jeopardy clause in this court at this time.
+
+Speaker 2 ( 01:05 ):
+
+Go ahead then.
+
+Speaker 3 ( 01:06 ):
+
+Well, before that occurs then I do want to speak to you a little bit more about jurisdiction, because we still have to satisfy ourselves that we have the jurisdiction. So even though you believe that there’s interlocutory jurisdiction with respect to the collateral order doctrine, how do you place that in line with Midland Asphalt case, which specifically says in a criminal case your jurisdiction needs to stem from the Constitution or be explicit as well in statutory law?
+
+Mr. Sauer ( 01:38 ):
+
+We have three responses to that, if I may, Your Honor. One is of course that if you look at the language of Midland Asphalt, what Justice Scalia is discussing in that case is particularly right, a situation where the right is one, the legal and practical value of which would be destroyed if it were not violated before trial. These claims of absolute immunity fall right in the heartland of that description of that right. That’s been reinforced by the Supreme Court.
+
+Speaker 3 ( 02:02 ):
+
+But how do you deal with explicitly stating that because we don’t have an explicit communication here with respect to anything in the Constitution or statute?
+
+Mr. Sauer ( 02:11 ):
+
+Yeah, I respectfully disagree with that. The doctrine of presidential immunity arises directly from article two, section one, in the executive vesting clause, and it’s reinforced by the plain language of the impeachment judgment clause, which specifically refers to trial. Remember what Midland Asphalt is talking about is situation where the right not to be tried is at stake and it distinguishes that from the right, the remedy for which is a dismissal of an indictment. So when you’re talking about the right not to be tried, we have the clearest and most explicit reference to trial of any of the clauses in which the Supreme Court has found interlocutory jurisdiction.
+
+Speaker 3 ( 02:41 ):
+
+But there have been other circuits that have indicated on the issue of immunity, Midland Asphalt still applies.
+
+Mr. Sauer ( 02:48 ):
+
+Yeah, not presidential immunity with respect this court.
+
+Speaker 3 ( 02:50 ):
+
+That’s what you’re making your distinction.
+
+Mr. Sauer ( 02:51 ):
+
+Right. Well, what I would say is this court’s decision in Cisneros explicitly says right there, and it says most separation of powers claims may not be subject to interlocutory view, but there are some that may. Then it goes on to say presidential immunity arising from the separation of powers citing Clinton against Jones. So Cisneros, I think expressly contemplates that there’d be interlocutory jurisdiction in this sort of claim. That’s further reinforced by the court’s subsequent decisions in Rose and Rostenkowski situations where the court said, look, there’s a speech and debate claim and there’s also another claim that, it isn’t derived directly from the Constitution, but it’s closely akin or analogous to such a claim.
+
+Speaker 3 ( 03:30 ):
+
+Again about explicit, because in the double jeopardy trial scenario, you have twice put in jeopardy, so you cannot be tried again in that regard. Then in the speech and debate it says, shall not be questioned. So the language was explicit. You’re not giving me anything that says explicitly in the references that you cite.
+
+Mr. Sauer ( 03:51 ):
+
+I have two responses to that. One is the plain language of the impeachment judgment, Columbus, which says that only the party convicted shall be subject to indictment, trial, judgment and punishment according to law, so right there-
+
+Speaker 3 ( 04:00 ):
+
+But that doesn’t take the negative inference correct?
+
+Mr. Sauer ( 04:03 ):
+
+The plain language supports that we agreed from the very beginning that it is the natural and ordinary meaning, the impeachment judgment clause. So that is an argument that that is explicit. Also point out that this court in rose, in Rostenkowski, in Cisneros expressly held this is not a magic words requirement. In other words, it isn’t that it’s got to say right there in the text of the Constitution or a statute that this is a right not to be tried. It’s that the right once formulated has to explicitly include the right not to be tried. That’s why what actually the language that’s previously in Midland Asphalt is heavily emphasized by Justice Scalia is the situation where there’s interlocutory appeal and it’s a right, the legal and practical value of which is destroyed if it’s not vindicated before trial. There’s similar language in Cisneros. I’d also point out that the government also has not challenged the court’s jurisdiction. It has conceded.
+
+Speaker 3 ( 04:57 ):
+
+We have to be absolutely secured in our own jurisdiction.
+
+Mr. Sauer ( 04:57 ):
+
+Yeah.
+
+Speaker 2 ( 04:57 ):
+
+Has the Supreme Court itself referred to the Midland Asphalt as a suggestion?
+
+Mr. Sauer ( 05:03 ):
+
+Yeah, I’m not aware of that, but I think-
+
+Speaker 2 ( 05:04 ):
+
+In digital equipment.
+
+Mr. Sauer ( 05:06 ):
+
+Gotcha. Yes, Your Honor. I believe Your Honor is correct about that. I think that’s an excellent point and that’s reinforced by this court’s case law in Cisneros, Rose and Rostenkowski. Turning to the merits, if I may, Your Honor, to authorize the prosecution of a president for his official acts would open a Pandora’s box from which this nation may never recover. Could George W. Bush be prosecuted for obstruction of an official proceeding for allegedly giving false information to Congress to induce the nation to go to war in Iraq under false pretenses? Could President Obama be potentially charged with murder for allegedly authorizing drone strikes, targeting US citizens located abroad? Could President-
+
+Speaker 1 ( 05:50 ):
+
+Can I explore the implications of what you’re arguing? I understand your position to be that a president is immune from criminal prosecution for any official act that he takes as president, even if that action is taken for an unlawful or unconstitutional purpose. Is that correct?
+
+Mr. Sauer ( 06:10 ):
+
+With an important exception, which is that if the president is impeached and convicted by the United States Senate in a proceeding that reflects widespread political consensus, that would authorize the prosecution under the plain language of the judgment clause. So yes, with that exception.
+
+Speaker 1 ( 06:25 ):
+
+So, it seems to me that there are a lot of things that might not go through that process because it’s quite a cumbersome process that requires the action of a whole branch of government that has a lot of different people involved. So in your view, could a president sell pardons or sell military secrets? Those are official acts, right? It’s an official act to grant a pardon. It’s an official act to communicate with the foreign government. Such a president would not be subject to criminal prosecution?
+
+Mr. Sauer ( 07:00 ):
+
+The sale of pardons example is an excellent example because there were allegations about a sale of a pardon essentially when it came to President Clinton’s pardon of Mark Rich. The US DOJ carefully considered, for the very reasons we’ve emphasized in our brief, decided not to prosecute President Clinton with that because it raised concerns about whether or not a president can be prosecuted for his official acts. There’s actually an op-ed in the National Review from Andrew McCarthy.
+
+Speaker 1 ( 07:22 ):
+
+But your position is that he can’t be prosecuted for that unless he’s impeached.
+
+Mr. Sauer ( 07:26 ):
+
+Yes, as long as it’s an official act. Certain cases purely private conduct under Clinton against Jones, he’d be subject to prosecution for that so long as he’s not in office. But as long as it’s an official act-
+
+Speaker 1 ( 07:35 ):
+
+Could a president order SEAL Team Six to assassinate a political rival? That’s an official act in order to SEAL Team Six.
+
+Mr. Sauer ( 07:43 ):
+
+He would have to be and would speedily be impeached and convicted before the criminal prosecution.
+
+Speaker 1 ( 07:49 ):
+
+But if weren’t, there would be no criminal prosecution, no criminal liability for that?
+
+Mr. Sauer ( 07:54 ):
+
+Chief Justice’s opinion in Marbury against Madison, and our Constitutional convention, and the plain language of the impeachment judgment clause all clearly presuppose that what the founders were concerned about was not-
+
+Speaker 1 ( 08:06 ):
+
+I asked you a yes or no question, could a president who ordered SEAL Team Six to assassinate a political rival, who was not impeached, would he be subject to criminal prosecution?
+
+Mr. Sauer ( 08:19 ):
+
+If he were impeached and convicted first?
+
+Speaker 1 ( 08:21 ):
+
+So your answer is no.
+
+Mr. Sauer ( 08:24 ):
+
+My answer is qualified yes. There’s a political process that have to occur under the structure of our constitution, which would require impeachment and conviction by the Senate. In these exceptional cases, as the OLC memo itself points out from the Department of Justice, you’d expect a speedy impeachment and conviction. But what the founders are much more worried about than using criminal prosecution to discipline presidents was what James Madison calls in Federalist number 47, the newfangled and artificial treasons. They were much more concerned about the abuse of the criminal process for political purposes to disable the presidency from factions and political opponents. Of course, that’s exactly what we see in this case.
+
+Speaker 1 ( 08:59 ):
+
+I’ve asked you a series of hypotheticals about criminal actions that could be taken by a president and could be considered official acts, and have asked you, would such a president be subject to criminal prosecution if he’s not impeached or convicted. And your answer, your yes or no answer, is no.
+
+Mr. Sauer ( 09:19 ):
+
+I believe I said qualified yes if he’s impeached or convicted first.
+
+Speaker 1 ( 09:24 ):
+
+Okay, so he’s not impeached or convicted. Let’s put that aside. You’re saying a president could sell pardons, could sell military secrets, could order SEAL Team Six to assassinate a political rival.
+
+Mr. Sauer ( 09:36 ):
+
+Sale of military secrets strikes me as something that might not be held to be an official act. The sale of pardons is something that’s come up historically and was not prosecuted.
+
+Speaker 1 ( 09:43 ):
+
+But your brief says that communicating with an executive branch agency is an official act and communicating with a foreign government is an official act. That’s what presidents do.
+
+Mr. Sauer ( 09:53 ):
+
+Those are very strange attempts at potential official acts. If you could, Chief Justice Marshall said in Marbury against Madison, he said arising directly under article two section one, that the president’s official acts are “never examinable by the courts”. He says it like four different times on pages 164 to 166.
+
+Speaker 1 ( 10:13 ):
+
+Let me ask you about that then, counsel, because your position is, as I understand it, if a president is impeached and convicted by Congress, then he is subject to criminal prosecution. Correct?
+
+Mr. Sauer ( 10:30 ):
+
+That would be a necessary [inaudible 00:10:33] to enable prosecution.
+
+Speaker 1 ( 10:34 ):
+
+Is that a yes?
+
+Mr. Sauer ( 10:35 ):
+
+Yes.
+
+Speaker 1 ( 10:36 ):
+
+Okay. So therefore he’s not completely an absolutely immune because under the procedure that you concede he can be prosecuted if there’s an impeachment and conviction by the Senate.
+
+Mr. Sauer ( 10:51 ):
+
+Very, very formidable structural check against the astonishing radical action of prosecuting a former president’s official acts.
+
+Speaker 1 ( 10:57 ):
+
+Correct. But you’re conceding that presidents can be criminally prosecuted under certain circumstances.
+
+Mr. Sauer ( 11:03 ):
+
+Specifically if they’re impeached or convicted. I think that’s the command of the impeachment judgment clause.
+
+Speaker 1 ( 11:08 ):
+
+Isn’t that also a concession that a president can be criminally prosecuted for an official act because presidents can be impeached for official acts?
+
+Mr. Sauer ( 11:19 ):
+
+Under those unique circumstances.
+
+Speaker 1 ( 11:20 ):
+
+Correct. But given that you’re conceding that presidents can be criminally prosecuted under certain circumstances, doesn’t that narrow the issues before us to can a president be prosecuted without first being impeached and convicted? All of your other arguments seem to fall away, your separation of powers arguments fall away, your policy arguments fall away if you concede that a president can be criminally prosecuted under some circumstances.
+
+Mr. Sauer ( 11:54 ):
+
+I disagree with that. The Constitution and the article two, section one of the executive vesting clause, as interpreted very clearly by Chief Justice Marshall in Marbury against Madison, says article three, courts lack of jurisdiction to engage in examination of the president’s official acts. That’s been reaffirmed-
+
+Speaker 1 ( 12:09 ):
+
+You just conceded that that article III Courts can do so if he’s been impeached and convicted.
+
+Mr. Sauer ( 12:14 ):
+
+The constitution makes a carefully balanced, explicit exception to that principle in the impeachment judgment clause. So, the problem for the separation of powers, the Constitution does this in many other situations where it engages in a balancing. What the framers were most concerned about was not the notion that the president would never be prosecuted for things that outrageous political opponents. What they were concerned about was politically motivated prosecutions, but they didn’t say the president can never be prosecuted. They set up the separation of powers and they created a very narrow exception that would allow prosecution in those cases.
+
+Speaker 1 ( 12:45 ):
+
+But once you concede that there’s not this absolute immunity, that the judiciary can hear criminal prosecutions under any circumstances, you’re saying there’s one specific circumstance, then that means that there isn’t this absolute immunity that you claim.
+
+Mr. Sauer ( 13:03 ):
+
+I’m not aware of any case or constitutional doctrine that would say the Constitution sets up a very strong principle and it creates a very narrow exception and therefore the exception just makes the principle vanish. I just disagree with-
+
+Speaker 1 ( 13:15 ):
+
+That’s not what I’m asking you. I’m saying that you are coming before us and saying that there is this absolute immunity, that it’s grounded in the separation of powers, that the judiciary can never sit in judgment on what the president is doing. But you are conceding that that’s not true because under some circumstances the judiciary can do that. That’s all I’m saying.
+
+Mr. Sauer ( 13:38 ):
+
+I think that [inaudible 00:13:40], which is there’s a very strong principle in the separation of powers that pivots all three courts from sitting in judgment over a presidential official acts. There’s a very narrow exception for conviction after impeachment.
+
+Speaker 1 ( 13:50 ):
+
+I understand. I understand-
+
+Mr. Sauer ( 13:51 ):
+
+That’s the position.
+
+Speaker 1 ( 13:52 ):
+
+It just seems to me that once you concede that presidents can be prosecuted under some circumstances, your separation of powers argument falls away and the issues before us are narrowed to, are you correct in your interpretation of the impeachment judgment clause? Does the impeachment judgment clause actually say what you say it says? That’s all that really we need to decide.
+
+Mr. Sauer ( 14:18 ):
+
+I respectfully disagree with that. I respectfully disagree with that. There is a strong principle, it’s reinforced by Chief Justice Marshall in Marbury against Madison. He did not say, we can never sit in judgment over a president’s official acts, but because it could be again impeached and convicted, therefore we can do it whenever we want to. He said the exact opposite. He says they are never examinable by the courts.
+
+Speaker 3 ( 14:36 ):
+
+So are we answering the larger question about whether there’s presidential immunity from criminal prosecution for official acts, or are we looking to a standard on a motion to dismiss, which says, look to the allegations, take those as true, and then look to whether or not we should be looking at official acts in that lens?
+
+Mr. Sauer ( 14:55 ):
+
+Actually, Both. Threshold question based on the district court judgment is essentially there’s no such thing as criminal immunity for a former president, and therefore the district court never reached the second issue, which is if you actually look at the face of the indictment, are these all official acts? We have strong arguments on both of those things. The notion that criminal immunity for a president doesn’t exist is a shocking holding. It would authorize, for example, the indictment of President Biden in the Western district of Texas after he leaves office for mismanaging the border allegedly, and let a Texas jury and Texas judge sit in judgment over the validity of the tax respect to court.
+
+Speaker 3 ( 15:29 ):
+
+But it’s also indicated earlier that when there were pardons or when people were not prosecuted, not everybody goes through an impeachment proceeding before they actually get prosecuted because that’s within the discretion of the prosecutor.
+
+Mr. Sauer ( 15:39 ):
+
+Only for subordinate officers. So as the OLC memo points out very clearly, the founders, the framers actually in the Constitutional convention, clearly contemplated that that sequence that I’ve described would be mandatory. He would have to be impeached and convicted first before you could go on to-
+
+Speaker 3 ( 15:55 ):
+
+But impeachment also only deals with certain crimes, bribery, treason, high crimes and misdemeanors.
+
+Mr. Sauer ( 16:01 ):
+
+Yeah. If you look actually at what is said in the Federalist number 65 by Hamilton about that, high crimes and misdemeanors basically cover anything that the US Senate makes a political judgment justifies removing him from office and authorizing prosecution.
+
+Speaker 3 ( 16:15 ):
+
+But a prosecutor is impartial. Does not make political judgments, assumingly, to charge.
+
+Mr. Sauer ( 16:20 ):
+
+I think that that has no basis in the context of the current prosecution where the current incumbent of presidency is prosecuting his number one political opponent and his greatest electoral threat in this particular case.
+
+Speaker 3 ( 16:32 ):
+
+I’m asking you from the standpoint of what the impeachment judgment clause is designed to do, that it limits itself to certain facts. Then therefore, and if convicted as you indicated, impeached and convicted thereafter, could be a prosecution. But not everybody goes through that process. Of course, it’s limited to the certain actors in that regard, but not everybody has to go through that process. Prosecutors later on can come into information and evidence after they’ve investigated to make their determinations about what they’d like to criminally prosecute. So, you’re not always confined to whatever would be in the impeachment judgment clause.
+
+Mr. Sauer ( 17:10 ):
+
+Whatever the practice has been with respect to subordinate officers, the evidence from the founding generation is clear is you cannot do that with respect to the president. This is one example of many that’s reinforced in the Supreme Court’s case law, the uniqueness of the presidency and the person who occupies the office of the presidency. So for example, you get repeated statements in Nixon against Fitzgerald, it’s reaffirmed in Trump against Mazars, reaffirmed in Trump against Vance and so forth about the unique nature of that particular office. Therefore it’s-
+
+Speaker 3 ( 17:35 ):
+
+Even under Clinton where there’s a deal cut under President Nixon where there’s a pardon given, there’s an assumption that you could be prosecuted because why enter into those particular acts.
+
+Mr. Sauer ( 17:48 ):
+
+Those examples are Purely private conduct. For example, Clinton gets Jones makes very clear that the stuff that President Clinton cut an indictment deal about by admitting to certain wrongdoing in exchange for not being indicted was purely private conduct. Nobody has contended that the president’s immune for prosecution for purely private conduct. It’s a question is can he be indicted for official acts. You referred to the pardon of President Nixon. We have two things to say about that. President Nixon was accused of a wide range of purely private conduct and he was facing potential indictment for that at the time the pardon was issued.
+
+Speaker 3 ( 18:19 ):
+
+Back to purely private conduct, if we go to the indictment, they’re alleging that this is private conduct, is subject to fraud, not official acts. So why don’t you speak to that since you said that we have to look at the broader question as well as the indictment.
+
+Mr. Sauer ( 18:34 ):
+
+Yes, Your Honor. So the allegations of the indictment allege only official acts. The only way to even characterize them as private acts is to turn to the alleged motive or purpose for that. So their whole theory, their characterization of the language and the indictment is we’re alleging purely private conduct because it was engaged in for particular purposes. That’s foreclosed by a very long and strong line of Supreme Court presences-
+
+Speaker 3 ( 18:58 ):
+
+Does the [inaudible 00:18:59] case fit here that
+
+Speaker 3 ( 19:00 ):
+
+… we, this circuit distinguish office seeker versus office holder in terms of how you’re committing the acts.
+
+Mr. Sauer ( 19:07 ):
+
+This Blassingame strongly reinforces what has been said in Supreme Court cases, in Stump against Sparkman, going back to, for example, Marbury against Madison where it’s the nature of the act itself. I understand the Blassingame opinion to reinforce that by saying it’s an objective, they use the word objective multiple times, objective context specific assessment.
+
+( 19:25 ) It does not turn on the purpose or motive that was strongly pushed in Blassingame and this court properly rejected. That’s consistent with Nixon against Fitzgerald, Bradley against Fisher, Spalding against Vilas, Judge Han’s opinion in Gregg [inaudible 00:19:37]. I mean it’s the strongest principle of all in this context.
+
+Speaker 3 ( 19:41 ):
+
+[inaudible 00:19:41] concern to my colleagues because I’ve taken up your time, but we’ll give you what you need. With respect to the actual indictment, it does not gloss over what … and put it in terms as you’re describing. So if we look at the face of the indictment as to what’s charged, when it’s gone through a grand jury process, unlike the impeachment judgment clause, how do we look at those particular acts as described because we have to take those at face value?
+
+Mr. Sauer ( 20:08 ):
+
+There’s clear guidance on this from Nixon against Fitzgerald where Nixon against Fitzgerald, the allegation was President Nixon had unlawfully terminated a whistleblower essentially. And that whistleblower came into court and says, this is not subject to immunity because it was unlawful. And the court said, we’re not looking at that granular level of detail and we’re not considering most importantly the alleged motive for these acts.
+
+( 20:29 ) It said that the level of specificity to consider it is conducting the business of the Air Force. Similar here, if you look at the indictment, there’s five classes of conduct that are alleged, many of which are just obviously, obviously official conduct, meeting with the US Department of Justice about who should be the cabinet level officer running that is at the court land of the appointments power.
+
+Speaker 3 ( 20:48 ):
+
+You said, many of which. So not-
+
+Mr. Sauer ( 20:50 ):
+
+Really all of which. I mean our condition’s all versus there’s one exception because there’s allegations about the Ellipse speech and under Blassingame the contention was made that he should be remanded for that. But if you look at the other public standards, for example, President Trump’s tweets, the second circuit held at Knight First Amendment center, that it was based on overwhelming evidence.
+
+( 21:07 ) That’s an official channel. His Twitter account during the presidency was an official channel of government communication and under the objective test and Blassingame, all of those tweets are obviously immune. So also with meetings with the Department of Justice, meeting with members of Congress, that falls right within the heartland of article two, section three, which authorized the president to communicate with Congress about the matters that he views as expedient.
+
+Speaker 2 ( 21:28 ):
+
+Let me ask you, first of all, I don’t believe you were counsel then, but what about the two concessions made in the first impeachment proceeding and then in Trump v. Vance that impeachment should be stated and wait until he’s out of office when he would be subject to criminal liability.
+
+Mr. Sauer ( 21:55 ):
+
+As to Trump against Vance was purely private conduct that involved a subpoena, criminal subpoena for tax records that long predated President Trump’s time in office. So it was purely private conduct, a concession that he could be subject to prosecution is also correct.
+
+( 22:08 ) As for the impeachment brief for example, that they’ve cited in their briefs, what that says is we have a judicial process in this country, period. We have an investigative process in this country to which no former officer is immune. It did not say that it could never be raised in immunity defense. It said criminal process can go forward.
+
+Speaker 1 ( 22:25 ):
+
+I’m sorry, there’s a quote in the congressional record in which your counsel, I’m sorry, your client said, “Through counsel, no former office holder is immune from investigation and prosecution.”
+
+Mr. Sauer ( 22:35 ):
+
+Investigation is what … there’s no immune to. Well, that may be true of subordinate officers, but as to the principal officer, the president, he is immune unless he is impeached and convicted. Again, it comes back to the point we made-
+
+Speaker 1 ( 22:47 ):
+
+He was president at the time and his position was that no former office holder is immune. And in fact the argument was there’s no need to vote for impeachment because we have this backstop which is criminal prosecution and it seems that many senators relied on that voting to acquit.
+
+Mr. Sauer ( 23:07 ):
+
+[inaudible 00:23:07] relies on speculation. I think [inaudible 00:23:10] statement. And I think the court I think lacks the ability to intuit what motivated senators votes in the impeachment process. What the Constitution says is it must be impeachment-
+
+Speaker 1 ( 23:21 ):
+
+I think the question that Judge Henderson is asking you was, you took the position or your client did during the impeachment proceedings that there would be an option for criminal prosecution later and it’s in the congressional record. And I guess the question is what has changed or why have you changed your position?
+
+Mr. Sauer ( 23:39 ):
+
+I would agree with that characterization of the statements in the congressional record, I believe there was a distinction between the judicial process and the investigative process. That was in the quote that I just read. In addition to that, whatever concession may or may not have been made, there would not have a ratio to counter effect in this proceeding.
+
+( 23:54 ) These are very different proceedings. And again, the notion that no one is immune from the judicial process and the judicial process should go forward is fully consistent with the notion that defenses including presidential immunity, which again is rooted in the separation of powers, could be raised in those processes. So the notion that there could be a criminal process and then defenses like this could be raised in that process is I think pretty straightforward.
+
+( 24:18 ) There’s no concession that there’s no such thing as criminal immunity. There’s no concession in those proceedings that what the district court in this case did that can very kind of [inaudible 00:24:26] that no president is criminally immune from prosecution is just, I think it’s not there in the congressional record.
+
+Speaker 2 ( 24:35 ):
+
+Let me go back to Marbury versus Madison and you isolated that one sentence. Isn’t it true that the progeny of Marbury versus Madison has distinguished between discretionary official acts and ministerial by which they mean imposed by law? And it’s the latter one in which he can be held liable and I want you to address both USB Johnson and the Commonwealth of Virginia because the first one deals with the speech and debate clause and the Supreme Court said in essence, lop off all of the evidence dealing with the speech and debate.
+
+( 25:25 ) He can still be prosecuted. That is that congressman or I think it was conspiracy to defraud the US or something, and then in the Commonwealth of Virginia you had the judge who had been charged with a crime under which you could not discriminate in picking jurors based on rape.
+
+( 25:52 ) My reading of that case is that the language that you isolate in your reply brief that it could just as easily be done, that is the choosing of the jury, a ministerial act by someone on the street, to me that means when you have a duty that is imposed by law, picking a jury they said was ministerial imposed by law, whether you are the man on the street, whether you’re the president, whether in that case you’re the judge, you can be held criminally liable.
+
+( 26:29 ) And that’s how I read, if not Marbury, the progeny that is you can’t stop an official act. You have to say was it discretionary official act or was it a ministerial.
+
+Mr. Sauer ( 26:44 ):
+
+I agree with that characterization of Marbury. I think that distinction is President Marbury itself, and I think what I respond to that is to say first of all that extension has never been extended up to the president and for good reason because for over 200 years the courts probably can’t sit in judgment over the president’s official acts under any circumstances. So for example, Mississippi against Johnson-
+
+Speaker 2 ( 27:03 ):
+
+No. We don’t have any criminal [inaudible 00:27:07].
+
+Mr. Sauer ( 27:06 ):
+
+That’s correct. It’s never arisen until this case. That is absolutely correct, but if you look at every civil context, what they’ve said … Keep in mind that what Chief Justice Marshall says is never examinable, never examinable. So there would be no judicial proceeding where you could say the president did this and we’re going to sit in judgment directly over that.
+
+( 27:23 ) That’s reinforced by Mississippi against Johnson, by Swan against Clinton from this court more recently where the courts hold that we can’t even enjoin or even really enter a declaratory judgment directly against the president for his official acts. Whereas the distinction between ministerial and discretionary has been held totally with respect to subordinate officers and that goes all the way back to Marbury.
+
+( 27:45 ) However, if you look at the indictment in this case, nothing that’s alleged against President Trump could remotely be described as ministerial. I’m not aware the government has ever argued that if you’re talking about responding to widespread allegations of fraud, abuse and misfeasance in a presidential election, trying to find how to respond to that in the manner that’s in the national interest, matters of that nature, not ministerial at all. So even if that distinction goes all the way up to the president, so to speak, it wouldn’t save the indictment here.
+
+Speaker 2 ( 28:12 ):
+
+Why isn’t it ministerial and his constitutional duty to take care that the laws be faithfully executed requires him to follow those laws, every one of them?
+
+Mr. Sauer ( 28:25 ):
+
+Yeah. I mean, I would say that the take care clause carrying out one’s duties in the take care clause are inherently discretionary. An example of a ministerial act, for example in Marbury against Madison is like delivering a seal when you’re requested because there’s a separate statute, right? What they emphasize is there’s a separate statute. The Secretary of State had these two hats on.
+
+( 28:45 ) He was on one hand a direct agent of the president in that could never be examined by the courts. On the other hand, the original statute had opposed all these purely ministerial duties that had to do with record keeping and delivering documents. Like if you’ve got a land deed that’s got a seal on it and a person asks for it, where there’s no discretion at all. When you’re talking about the take care clause, there’s no statute that could impose on the president a mandatory duty to engage.
+
+( 29:12 ) I mean, the notion that when the president’s meeting with Department of Justice, for example, saying, hey, we should investigate and enforce federal fraud statutes, the notion that that’s ministerial strikes me as insupportable.
+
+Speaker 2 ( 29:25 ):
+
+Well, I think you’re missing what I’m asking, which is I think it’s paradoxical to say that his constitutional duty to take care that the laws be faithfully executed allows him to violate criminal laws. Now we’re at the motion to dismiss stage. The government has charged the specific criminal laws. We have to assume they’re true.
+
+Mr. Sauer ( 30:01 ):
+
+I mean, my response to that I think would be to emphasize what Chief Justice Marshall said in Marbury, which is that they can never be exampled by courts, that naturally includes a criminal proceeding.
+
+Speaker 2 ( 30:09 ):
+
+But I thought you agreed with me that we’ve gotten beyond Marbury in the sense that official act has been subdivided into discretionary and duty bound or ministerial. And in the ministerial or duty bound, at least with respect to even legislators and judges, they have been held criminally liable and that’s in the face at least with respect to the legislators of an explicit constitutional privilege.
+
+Mr. Sauer ( 30:44 ):
+
+I don’t view United States against Johnson and even ex parte Virginia as resting on the ministerial versus discretionary distinction. I think what Johnson says is it doesn’t say, Hey, when you were doing these other things, they were ministerial. What it says is these were not legislative acts, right?
+
+( 30:57 ) And so it draws a distinction between legislative and non-GI legislative acts. So also I think that’s the right reading of ex parte Virginia. They go on to say judicial act in there. The argument that picking a jury, I don’t even believe they use the word to my recollection, ministerial, they say-
+
+Speaker 2 ( 31:11 ):
+
+Because they were criminal acts, they were criminal acts. Picking the jury based on race is a criminal act and whatever Johnson did, I think it was the very same statute fraud against the United States that is before us today.
+
+Mr. Sauer ( 31:29 ):
+
+[inaudible 00:31:30] would say that the distinction in those cases is between, in the judicial case, Johnson, sorry, legislative, sorry, the legislative case Johnson is between legislative acts and non-legislative acts. The distinction in ex parte Virginia is between judicial acts and non-judicial acts. That phrase is used in here. The distinction is between presidential acts and non-presidential acts, and everything that’s alleged in the indictment is a presidential act. Your Honor, I see … Go ahead.
+
+Speaker 1 ( 31:59 ):
+
+May I? There are a number of precedents or cases in which the Supreme Court has reviewed actions by the president, the seminal case of Youngstown Sheet and Tube where the Supreme Court reviewed Harry Truman’s seizure of the steel mills during the Korean War. There’s also the case of Little, Barreme where, Little versus Barreme, where Chief Justice Marshall reviewed the actions of President Adams when he sees certain vessels.
+
+( 32:26 ) Trump versus Hawaii was reviewing President Trump’s order restricting the entry into the United States of nationalists from certain foreign countries. How does that square with your position, that judiciary can never review executive action?
+
+Mr. Sauer ( 32:41 ):
+
+All those cases fall squarely within the well-established exception and ex parte Young where the judiciary is allowed and does frequently issue declaratory judgments, injunctions, judgments against subordinate officers. Even when they-
+
+Speaker 1 ( 32:55 ):
+
+These are presidents. These are presidents. Harry Truman was the president when he seized the steel mill. How does that comport with your theory?
+
+Mr. Sauer ( 33:02 ):
+
+[inaudible 00:33:02] in that case was an injunction against the Secretary of Congress, not against the president. This court has reaffirmed very recently that you cannot issue an injunction directly against the president. The court has no jurisdiction to do that, cannot enter. It strongly indicates in Udall against Roberts that the court can’t even enter a declarative junction.
+
+Speaker 1 ( 33:17 ):
+
+The court can review presidential action if on paper they direct their judgment to a subordinate officer. Is that what you’re saying? And because these are presidential actions.
+
+Mr. Sauer ( 33:27 ):
+
+The court can definitely enjoin the actions of subordinate officers that violate the constitution that is ex parte Young. All the cases fall within-
+
+Speaker 1 ( 33:34 ):
+
+I understand but I’m asking you a different question because these are presidential decisions, presidential actions, and you’re saying that the court can review presidential actions as long as when they issue the judgment, they issue it to a [inaudible 00:33:46].
+
+Mr. Sauer ( 33:48 ):
+
+In direct context, they can’t directly sit in judgment over over the president’s official acts. It’s been established for over 200 years.
+
+Speaker 3 ( 33:54 ):
+
+You’re using the impeachment judgment clause essentially as a negative implication with respect to that the civilian officer or president, of course has to be impeached and convicted and then nevertheless thereafter. If there is an acquittal, how are you using it in that regard? Because sometimes, and particularly in this case, the acquittal can arise from lack of jurisdiction, not actually trying the merits of the case.
+
+Mr. Sauer ( 34:21 ):
+
+The impeachment judgment clause does distinguish between those sorts of merits related acquittals and not merits related acquittals. Frankly, the same sort of thing comes up in just criminal prosecutions under the double jeopardy clause where a determination that the defendant is acquitted does not necessarily reflect an actual determination that they’re not factually guilty.
+
+( 34:41 ) And in fact, this is emphasized in the OLC memo that they themselves address that actually that determination often reflects things that are distinct from the merits. So that doesn’t, I think, in any way undermine the sort of double jeopardy force, so to speak, of the impeachment judgment clause.
+
+Speaker 3 ( 34:56 ):
+
+And one of the briefs indicated that Jack Smith is improperly appointed. Do you have a position there?
+
+Mr. Sauer ( 35:02 ):
+
+It’s a very persuasive brief, but I can see we have not raised it in this case. I think it raises very powerful questions, but we haven’t raised it in this case at this time.
+
+Speaker 2 ( 35:10 ):
+
+Let me ask you just about the effect of Blassingame. If we say we can’t determine if these acts are official or private, I want to stay away from that, I’m going to say ministerial or discretionary and Blassingame characterized it in terms of office seeker versus office holder.
+
+( 35:37 ) What is your position about, would we have to remand it for the district judge to decide in the first instance whether these various, the four points that the defense has made against imposing criminal liability hinge on whether the acts are ministerial, discretionary, official, private, however you want to characterize it?
+
+Mr. Sauer ( 36:08 ):
+
+I used the phrase from Clinton against Jones, which says, purely private conduct is what can be subject to judicial process after a president leaves office. In response to your question, our principal position is you can look at this indictment and it alleges official acts and it can be ordered to be dismissed.
+
+( 36:24 ) We acknowledge though that the district court didn’t reach that issue, but Blassingame did remand and the court absolutely has the discretion to remand to the district court for the application of the doctrine of criminal immunity in the first instance. And we admit that that would be a natural thing for the court to do.
+
+Speaker 2 ( 36:38 ):
+
+To the specific acts?
+
+Mr. Sauer ( 36:40 ):
+
+Correct, yeah. In other words, if the court holds that there is presidential immunity, which it should then remand to the district court to say, okay, go through the indictment, or else hold factual findings and so forth to decide how it applies the conduct alleged in this case, we acknowledge that that would be … the court has the discretion to do that, and that would be a natural course. And if there are no further questions.
+
+Speaker 1 ( 37:00 ):
+
+I have one more question. So under the framework established in or discussed in Nixon versus Fitzgerald, we’re supposed to conduct a balancing test where we balance the need for the asserted immunity versus other public interests. And I see you as trying to represent a need for the executive to have this immunity to facilitate executive functions, the ability to act without hesitation, to be fearless, to make decisions without being inhibited by the fear of criminal prosecution.
+
+( 37:38 ) But it seems to me that there are some other article two interests here that are countervailing. For example, under article two, there’s an executive vesting clause, and so there is an interest of the executive branch as an institution to have constitutional executive
+
+Speaker 1 ( 38:00 ):
+
+… power vest in a newly elected president. There’s also an executive interest as an institution in law enforcement in enforcing criminal laws. And so it seems to me if we’re weighing executive interests versus public interests, public interests and things like the integrity of an election, that President Trump’s position is not fully aligned with the institutional interests of the executive branch and in this balancing test that weakens the executive power that he’s trying to assert.
+
+Mr. Sauer ( 38:39 ):
+
+I say three things in response to that. First of all, Nixon against Fitzgerald emphasizes that the most compelling consideration when one considers what it describes as policy considerations rooted are in the separation of powers is the rendering of the executive branch official, unduly cautious. Unduly cautious in the exercise of highly controversial and sensitive decisions that come up all the time. If a president has to look over his shoulder or her shoulder every time he or she has to make a controversial decision and worry after I leave office, “Am I going to jail for this when my political opponents take power?”, that inevitably dampens the ability of the president too.
+
+Speaker 1 ( 39:13 ):
+
+No, I understand that that’s your position, but I guess I’m asking you what about other Article II interests? That’s one interest, but there are other Article II interests in play here too and they seem to be countervailing. The interest in executive vesting, the interest in law enforcement, those are also executive branch interests. And how should that affect the analysis?
+
+Mr. Sauer ( 39:35 ):
+
+No, to the extent the court conducts a balancing of principal positions, she can go back to Marbury versus Madison and adopt a categorical rule, which is also referenced in Nixon against Fitzgerald. But to the extent the court reaches the balancing of policy considerations, those are decisively outweighed by the sort of republic shattering consequences of subjecting our chief executives in an endless cycle to prosecution once they leave office. The founders were very much against that. They were deeply concerned with that. You see that in Hamilton’s writings in Federalist 65, 69 and 77. You see it reflected in Madison’s concern about newfangled and artificial treason in Federalist 47, and that is the original meaning of the Constitution.
+
+Speaker 2 ( 40:17 ):
+
+It just occurred to me. Do you think we should take any cognizance of the fact that when they wrote that, George Washington was the president? I mean, a very, very strong executive, the Congress was brand new, everything else was brand new and things have balanced out. I mean, we’ve got a strong congress, we’ve got a strong judiciary and we’ve got a strong president.
+
+Mr. Sauer ( 40:48 ):
+
+I think that if you look at the writings, the founders, they were definitely looking past the presidency of George Washington. Obviously, an iconic figure. Looking past the presidency of George Washington future presidencies. And they correctly anticipated that the nation might… What they’re deeply concerned about was that the nation would devolve into factions. Factionalism did not govern the presidency of George Washington because of his moral authority. However, immediately when you got to Adams and Jefferson, you immediately devolve into factions. They correctly anticipated and were deliberately looking past that presidency to the future of the republic, a tradition that stood for 234 years until last year when it was shattered by the indictment of President Trump.
+
+( 41:25 ) And if the court has no further questions, we would ask the court to reverse. And if the court rules against us in any respect, we renew our request that the court stay its mandate to allow us to seek further review both end bank and/or Supreme Court review.
+
+Speaker 2 ( 41:40 ):
+
+Right. And you get that five minutes [inaudible 00:41:41].
+
+Mr. Sauer ( 41:41 ):
+
+Thank you, your Honor.
+
+Speaker 2 ( 41:42 ):
+
+Okay. Mr. Pierce?
+
+Speaker 4 ( 41:49 ):
+
+Good morning, and may it please the court. Never in our nation’s history until this case as a president claimed that immunity from criminal prosecution extends beyond his timed office. The president has a unique constitutional role, but he is not above the law. Separation of power’s principles, constitutional text, history, precedent, and other immunity doctrines all points to the conclusion that a former president enjoys no immunity from criminal prosecution. At a minimum, this case, in which the defendant is alleged to have conspired to overturn the results of a presidential election, is not the place to recognize some novel form of criminal immunity.
+
+( 42:33 ) Now I want to start with jurisdiction as Judge Childs raised. It is our view that the court has and should entertain both claims before it. With respect to the immunity claim, I think this court’s decision in Cisneros 10 years after Midland Asphalt did allude to a type of separation of powers claim that would involving presidential immunity. I think Judge Henderson pointed out the Supreme Court itself has acknowledged that this idea of an explicit guarantee is more of a suggestion than some sort of statutory prescription.
+
+Speaker 3 ( 43:09 ):
+
+But there’s been no cases since then that have actually used that word suggestion, to follow up on that line of. Thank you.
+
+Speaker 4 ( 43:17 ):
+
+Within the Supreme Court, I don’t believe there have been cases, but certainly this court in Cisneros as well as in cases also post Midland Asphalt like Rose, Rostenkowski, and Durenberger have recognized that this type of a separation of powers claim when you’re talking about immunity is something for which a appellate jurisdiction on a collateral order theory is available.
+
+Speaker 3 ( 43:39 ):
+
+And there are also other circuits, I think it’s 1st, 2nd, and 10th that keep following that line of thinking with respect to Midlands Asphalt requires an explicit constitutional or statutory language that says you cannot be tried.
+
+Speaker 4 ( 43:54 ):
+
+So two responses. One, I think in cases like Cincinnati, this court has spoken otherwise. But nonetheless, I think the only one there is the 1st Circuit’s decision in Joseph where it was the case of a judge raising an immunity defense to a criminal prosecution. As this court acknowledged in both, I believe, Rostenkowski and Durenberger, that’s in some tension with… Or it didn’t acknowledge that, but the court there talked about Clayborne and Hastings, which are 9th Circuit and 11th Circuit cases. I think Judge Easterbrook in his shock opinion noted that when it deals with a personal immunity like that, it’s different than the kind of transactional immunities that were considered in the 10th and the 2nd Circuit cases.
+
+( 44:37 ) And at the end of the day, sort of a small point of common ground between us and the defendant, we do think that with respect to jurisdiction, there is a little bit of a different inquiry with respect to a president. We don’t think that carries over to the merits in the least. And I think United States versus Nixon is sort of the perfect example of that. There, the court said it would be unseemly to hold the president, to require the president to go into contempt. Nonetheless, reaching the merits of course rejected President Nixon’s absolute executive privilege claim and required that-
+
+Speaker 3 ( 45:10 ):
+
+You don’t see a distinction on the civil versus criminal context? Because the cases I’m referring to are criminal cases.
+
+Speaker 4 ( 45:16 ):
+
+So I don’t. Rose said as much here when talking about civil and criminal with respect to speech or debate. And again, I mean, I know this Nixon versus Fitzgerald is a civil case, and we strongly disagree that it should be applied here for many of the reasons that Judge Pan set out. But I do think with respect to the immunity, again given the language in Rose, that would supply basis for this court to entertain the immunity claim.
+
+Speaker 1 ( 45:42 ):
+
+But why aren’t you taking the position that we should dismiss this appeal because it’s interlocutory? Doesn’t that advance your interests?
+
+Speaker 4 ( 45:51 ):
+
+Our interests are twofold. One as in United States versus Nixon, it is doing justice. And then a second is indeed to move promptly to satisfy and vindicate the public’s and the defendant’s interest in a prompt resolution of this trial. But doing justice means getting the law right. And it’s our view that even if a dismissal on jurisdiction might move this case faster, actually empirically that’s hard to know, we just don’t think that’s the right analysis here on either immunity or the second claim.
+
+Speaker 1 ( 46:20 ):
+
+So we have a line of cases including Kramer versus Gates, and American Hospital Association versus Azar. It says that we can assume hypothetical statutory jurisdiction and reach the merits of a case. Statutory jurisdiction being distinct from Article III jurisdiction, which we could never assume because that implicates the power of the court to act. So if we had discretion to reach the merits versus just dismissing this case under Midland Asphalt, which I think is a strong precedent, which suggests that this appeal is interlocutory and does not fall into the collateral order doctrine, how should we determine how to exercise that jurisdiction about whether or not we should reach the merits?
+
+Speaker 4 ( 47:10 ):
+
+So I think in the American Hospital’s Decision, the 2020 decision, the court said the formulation was something like, “We’re doubtful as to our jurisdiction,” but nonetheless invoking the line of cases you’ve just described went on to decide the merits. We would urge the courts to do the same here, even if it entertains doubts with respect to the jurisdiction. Yes, hypothetical statutory jurisdiction is available under the law of the circuit. The court should use that to reach the merit.
+
+Speaker 2 ( 47:38 ):
+
+But doesn’t that lead to a hypothetical decision and an advisory opinion?
+
+Speaker 4 ( 47:42 ):
+
+No, I think that… So we disagree-
+
+Speaker 2 ( 47:44 ):
+
+But the Supreme Court has said that.
+
+Speaker 4 ( 47:45 ):
+
+No, I don’t think the Supreme Court has said that. I mean, so Steel Co. is kind of the leading supreme court decision and then some courts, including this court, has devised a hypothetical statutory jurisdiction doctrine. Now, if this court were to dismiss for lack of jurisdiction and then say, “Nonetheless, as an alternative holding, here’s how we would come out on the merits,” that I think would be improper. And that is what I understand the American oversight brief to be suggesting at footnote 11 on page 20 of its brief. That I don’t think is something the court could do. I understand the hypothetical statutory jurisdiction piece to allow the court to say, “You know what? This is hard. There might be arguments on both sides. We assume hypothetical statutory jurisdiction, we move forward, we decide the merits.” Now-
+
+Speaker 2 ( 48:34 ):
+
+Let me ask you about Marbury versus Madison. What’s your interpretation of its progeny, or even the case itself?
+
+Speaker 4 ( 48:45 ):
+
+So our interpretation is much closer in line with what I think I heard Judge Pan setting out and similar to yours, it certainly does not erect a unreviewable power for the presidency. I think sort of the prime example of that is the Steel Seizure Case, the Youngstown case. That was President Truman closing the steel mills, that was the court coming in and reviewing that. We see that all the way through to the present, and so it’s hard to see any world in which the court just says, “We can’t intervene here.” I accept the Judge Henderson, the distinction between ministerial and discretionary acts. Compliance with the law is not some sort of discretionary call, right? It is something that I fully endorse or agree with the idea of the paradox of a president on the one hand, having the Article II take care responsibility, and on the other hand, seeing compliance with the law as optional.
+
+Speaker 2 ( 49:47 ):
+
+Let me [inaudible 00:49:47] and ask you, how do we write an opinion that would stop the floodgates? Your predecessors in their OLC opinions recognize that criminal liability would be unavoidably political.
+
+Speaker 4 ( 50:08 ):
+
+So a couple of responses. For one, of course, that was with respect to a sitting president. I think the analysis is extraordinarily different with respect to a former president, which OLC in that very same… I’m sorry.
+
+Speaker 2 ( 50:29 ):
+
+But with respect to being necessarily political.
+
+Speaker 4 ( 50:31 ):
+
+Well, I think there is a political process which is impeachment and we can talk about that. But there is a legal process which is decidedly not political, and that is a process which has the kinds of safeguards that a couple of members of the court here have already referred to. We’re talking about prosecutors who follow strict codes and who are presumed to act with regularity, grand jurors, petit jury eventually, and Article III courts standing above it.
+
+( 51:00 ) But I also want to push back a little bit against this idea of a floodgate. At least since the Watergate era 50 years ago, has there been widespread societal recognition including by presidents and the executive branch that a former president is subject to criminal prosecution. And Nixon was not about private conduct. Nixon was about, among other things, using the CIA to try to interfere with an FBI investigation. He then accepts a pardon understanding that after having resigned, right? So again, I think that also undermines this impeachment first argument.
+
+( 51:35 ) After Nixon, we then see a series of independent and special prosecutors investigating a range of different types of conduct. You saw Independent Counsel Lawrence Walsh in the Iran Contra affair. That’s an example that the defendant invokes in his reply brief. In chapter 27 of that report, the independent counsel assumes that President Reagan is subject to prosecution and says, “But we didn’t get there evidentiary, not that we thought there was some sort of immunity.” And that has continued through to the present. And so this notion that we’re all of a sudden going to see a floodgate, I think the… Again, the careful investigations in the Clinton era didn’t result in any charges. The fact that this investigation did, doesn’t reflect that we are going to see a sea change of vindictive tit-for-tat prosecutions in the future. I think it reflects the fundamentally unprecedented nature of the criminal charges here.
+
+( 52:34 ) Never before has there been allegations that a sitting president has with private individuals and using the levers of power sought to fundamentally subvert the democratic republic and the electoral system. And frankly, if that kind of fact pattern arises again, I think it would be awfully scary if there weren’t some sort of mechanism by which to reach that criminally.
+
+Speaker 3 ( 52:57 ):
+
+In your brief, you raised some sort of lesser immunity potentially applying. You want to speak to that?
+
+Speaker 4 ( 53:03 ):
+
+I do. We don’t think that’s comes into play here. I think the point was, in some sort of more challenging cases, it might be that where a president is operating under extraordinary time pressure has to make a very difficult kind of national security type of decision. Do we order the drone strike under these circumstances? A president will often have a cadre of lawyers to advise him or her. The lawyers say, “Madam President, we’ll get you a memo in two months.” That’s not going to be enough in that situation. If there were a drone strike, civilians were killed, that theoretically could be subject to some sort of prosecution as murder. I think that might be the kind of place in which the court would properly recognize some kind of immunity. But that is of course nothing like what we’ve got here. I sort of take the former officials brief discussing the vesting clause to talk about the nature of charges when they focus on, again, subverting the electoral process. At a minimum, there should be no type of immunity that covers that.
+
+Speaker 1 ( 54:16 ):
+
+So are you saying it should be a case by case balancing in each case whether there’s immunity? Or how does this work as a legal standard?
+
+Speaker 4 ( 54:23 ):
+
+So we think that it should just be as the district court held finding… There is a balancing under Fitzgerald, right? That’s our view. You start with this question, what are the burdens against the presidency and what are the interests to be furthered? The answer to that question under Fitzgerald, we think that the burdens that my friend talks about on the other side are overstated. I’m happy to just describe why we think the public’s interest on an ongoing criminal prosecution means that there should be an across the board rule that a former president is indeed subject to criminal prosecution.
+
+( 55:01 ) What I’m describing in response to Judge Child’s questions is, in a particular case, might there be some extraordinary circumstance where a former president could invoke an immunity? Maybe. I don’t think the court has to reach that there. I think the court could write an opinion that reserves and says, “Based on the nature of the allegations, which we take as true, there is no reason to recognize that here.” And so I don’t think it needs to be a case by case analysis, but I think the court can reserve that type of question to the extent it gives one pause about a president in future situation.
+
+Speaker 3 ( 55:36 ):
+
+To that end, can you answer the question I posed earlier to your opposing counsel about, are we to look at the broader question that was dealt with by Judge Chutkin with respect to presidential immunity, absolute immunity for no criminal prosecution of official acts versus looking at this indictment and accepting as true the allegations that it brought there? Or both?
+
+Speaker 4 ( 56:03 ):
+
+So we have a strong preference that the court adopts the former view and looks at the question in the way as the district court did, which is to say, “Based on questions of separation of powers, of constitutional texts, history precedent, is there in fact immunity for a former president?” We think the answer to that is no for of course all of the reasons we put in the brief, and I’m happy to sort of address here. Candidly, I think if the court gets to that second question, there are some hard questions about the nature of official acts. And frankly, as I think Judge Pan’s hypothetical described, I mean, what kind of world are we living in if, as I understood my friend on the other side to say here, a president orders his SEAL team to assassinate a political rival and resigns, for example, before an impeachment? Not a criminal act. President sells a pardon, resigns, or is not impeached?
+
+Speaker 4 ( 57:01 ):
+
+… not a crime. I think that is extraordinarily frightening future and that is the kind of… We’re talking about a balancing and a weighing of the interest, I think that should weigh extraordinarily heavily in the court’s consideration.
+
+Speaker 2 ( 57:13 ):
+
+Let me ask you about the effect of blasting game. How does it either bind us? How is it persuasive for us?
+
+Speaker 4 ( 57:25 ):
+
+So I think it formally has no application at all, because of course, very early on, in the opinion, the court says, we’re not dealing with any questions of immunity in the criminal context. I tend to agree with my friend on the other side, that in many respects it does reinforce the nature of the Fitzgerald civil outer perimeter standard. It says you don’t look at intent or you don’t look at purpose. Context plays a more important role than often the content of communications. I think that the significant change, of course, is the acknowledgement of looking at a president, whether that president is acting in his or her role as office seeker or office holder. But again, to go back to my response to Judge Childs’s question, although that would change the nature of whether certain may change the nature of whether certain things are or are not official acts in the indictment, we just think that’s entirely the wrong paradigm to use.
+
+( 58:22 ) We think under Fitzgerald, in fact, that would be inconsistent with Fitzgerald’s reasoning and also just irreconcilable with the nature of how criminal law works. I mean, to say that we’re not going to take account of motive or intent. There are plenty of acts that every day… I mean, for example, if I were to encourage someone not to testify at trial because I wanted to go on a hike with that person, it’s not a crime. If I were to encourage someone to skip their trial testimony because their testimony was going to incriminate me. It’s the same underlying act and now when you map that on to the presidential context, you come up with some of the frightening hypotheticals where, as long as something is plausibly official, even if it involves assassinating a prominent critic or a business rival, that would seem to then be exempt, potentially, from criminal prosecution. We certainly wouldn’t concede that, if that’s the world we need to live in, I think we would advance plenty of arguments below, but those arguments themselves would create satellite litigation that are an additional reason not to go down this route.
+
+Speaker 3 ( 59:39 ):
+
+But looking and thinking about your answer about potentially not looking at motive and intent, when there is a criminal prosecution, that mens rea and that intent is part of the actual statute charged criminally?
+
+Speaker 4 ( 59:53 ):
+
+Yes, precisely. And that’s why it wouldn’t make sense to then come in and use this non-motive intent. As I understand, how Fitzgerald Outer Perimeter standard might work, it could say, those types of official acts, official conduct, that is something from which the president is immune. You don’t ever get to that second question of, “Well, did that person act then with mens rea? Can we prove it beyond a reasonable doubt.” Because it is at least, under a theory where it’s not available at trial, then there’s no way to reach that conduct.
+
+Speaker 3 ( 01:00:26 ):
+
+When we’re looking at this indictment though, back to Judge Henderson’s question about the use of blasting game. Some of the acts are same or similar and there was direct discussion of it in that opinion as determining whether it was office seeker versus office holder. So do we use blasting game at least for that?
+
+Speaker 4 ( 01:00:45 ):
+
+So if this court decides the case the way the district court did, then I don’t think blasting game has any role to play at all, because there is no question of whether, was this act official or were these sets of allegations official? The question is based on a Fitzgerald analysis, history precedent, et cetera, is there any quantum of immunity for a former president? We think the answer to that question is no. There’s no reason, as the district court also found, to turn to the indictment and consider this outer perimeter, this civil outer perimeter standard.
+
+Speaker 2 ( 01:01:21 ):
+
+How about if we don’t decide it the way the district court did?
+
+Speaker 4 ( 01:01:26 ):
+
+If you don’t, I mean, I suppose that the law would-
+
+Speaker 2 ( 01:01:27 ):
+
+I mean, on the blasting game.
+
+Speaker 4 ( 01:01:30 ):
+
+So there are a lot of different ways this court could not decide it that way. I think, to pick up on my response to Judge Childs, we certainly stand by our view in the brief that some substantial number of allegations would fall outside of an outer perimeter and that, I think, is enough to affirm. I think either parties are urging the court at that point to then send of course the case back to the district court. I think that then would create a series of challenging questions that I mentioned earlier. What are the evidentiary theories under which that evidence could potentially come in, but it would be our strong view and we would want, if the court followed that route, which we urge the court not to, to make clear that immunity is an on-off switch, right? This is the immunity appeal. If the court says, “We affirm, we send it back, there’s no immunity,” then other things become evidentiary questions or questions really of jury instructions in which any appeal is then an appeal from a final judgment, if any final judgment.
+
+Speaker 3 ( 01:02:33 ):
+
+And the immunity defense is never lost?
+
+Speaker 4 ( 01:02:37 ):
+
+Well I don’t think it’s immunity at that point. I think this court will, in what I’ve just described, will have said there is no immunity. There may be some types of other challenges as evidence comes in at trial, but again, I think that would lead to this extraordinarily complicated litigation that is not the top line reason, but certainly, among the reasons why the court should not go down that path
+
+Speaker 1 ( 01:02:59 ):
+
+Since President Trump concedes that a president can be criminally prosecuted under some circumstances. He says that that is true, only if he is first impeached and convicted by Congress. Do you agree that this appeal largely boils down to whether he’s correct in his interpretation of the impeachment judgment clause? That is, if he’s correct, that the impeachment judgment clause includes this impeachment first rule, then he wins. And if he’s wrong, if we think the impeachment judgment clause does not contain an impeachment first rule, then he loses.
+
+Speaker 4 ( 01:03:39 ):
+
+So I think that’s basically right. I mean the defendant’s theory over the course of this litigation has evolved a bit and I think now, before this court, I understand the argument to be principally, sort of the principle submission, to be as you’ve just described, what we call in our brief, the conditioned precedent argument. That there is only liability, criminal liability, for a former president if that president has been impeached and convicted. And that is wrong for textual, structural, historical reasons and a host of practical ones, one of which I’ll start with again, just amplify the point. It would mean that if a former president engages in assassination, selling pardons, these kinds of things and then isn’t impeached and convicted, there is no accountability for that individual and that is frightening.
+
+( 01:04:32 ) Now, to go back to some of the textual and historical and structural, my friend on the other side sort of suggests this is what the founders were talking about and this is what they were worried about. I think that’s entirely an inaccurate representation of the founding era history. There’s basically no discussion of the impeachment judgment clause, which I take the defendant’s principled textual arguments to be. What the impeachment judgment clause did was two things, as the district court described. Right, it constrained the sanctions that Congress could place on an impeached and convicted officer, not only a president, any kind of officer, to removal or disqualification, and then it made clear that that impeachment did not impose some sort of preclusive bar on subsequent criminal prosecution.
+
+( 01:05:19 ) You would think that if there was this kind of impeachment first requirement, impeachment and conviction first, you might actually find something somewhere in the sources, the framing, the convention in Philadelphia, the ratification discussions, early history. There is nothing of that. We’ve cited certain things in our brief from James Wilson, from Edmund Pendleton from Representative Dana that say this justice story. I don’t hear the defendant to offer anything other than, “Well, Hamilton…” All that Hamilton was describing was the undisputed point here that a sitting president can’t be subject to criminal prosecution until that sitting president is no longer in office. Whether the removal from office is through impeachment and conviction or simply the end of the term.
+
+( 01:06:07 ) Now, on structural point as well that I just want to quickly make the district court made this, which is if this rule were right, if the conditioned precedent rule were correct, it would pose significant separation of powers problem of its own. It would basically mean that the executive branch would only be able to prosecute someone if Congress had acted. And there are all sorts of reasons why, of course, Congress won’t act. For one, they’ve never believed that it was required and also, in certain instances, they may decide that they don’t have jurisdiction. Many of the members of Congress seem to hold that view with respect to the defendant’s second impeachment. Thank you very much.
+
+Speaker 2 ( 01:07:01 ):
+
+Yeah, go ahead.
+
+Mr. Sauer ( 01:07:02 ):
+
+Thank you, your honor. And in my limited time remaining, I just want to make three points to the court in response to the opposing counsel’s argument there. One is, that the opposing counsel used the phrase, “above the law,” saying that an immunity doctrine for criminal immunity would place the president above the law. I would just direct the court’s attention to what the Supreme Court said at Nixon against Fitzgerald in the context of civil immunity. They describe the allegation that immunity sets the official above the law as, “rhetorically chilling, but wholly unjustified.” The US Constitution, the separation of powers, the executive vesting clause, the impeachment judgment clause, these are the foundational and fundamental law of our country and the president’s immunity is determined on that. So that is more rhetoric than reality, is what the Supreme Court said in Nixon against Fitzgerald.
+
+( 01:07:45 ) I’d also point out that when it comes to the question of whether or not the indictment alleges solely official acts, the indictment does not allege that President Trump did anything wrong after he left office. So it focuses solely on acts that he took while he was in office and that’s a telling indication that we’re dealing with official acts here.
+
+( 01:08:02 ) And then finally, I would address Judge Henderson, your question about the floodgates, and I tie that to what my opposing counsel said about a so-called frightening future. The frightening future that he alleges where presidents are very, very seldom if ever prosecuted because they have to be impeached and convicted first, is the one we’ve lived under for the last 235 years. That’s not a frightening future, that’s our republic. What he is forecasting, is a situation where the floodgates will be opened. We are in a situation where we have the prosecution of the chief political opponent who’s winning in every poll, [inaudible 01:08:36] presidential election, upcoming next year and is being prosecuted by the administration that he’s seeking to replace. That is the frightening future that is tailor-made to launch cycles of recrimination that will shake our republic for the future.
+
+Speaker 3 ( 01:08:48 ):
+
+If you have the impeachment judgment clause, as you indicate, indicate impeachment, then conviction, but then the president either resigns, is removed and then later on, is prosecuted for a different crime. Can that happen or is there immunity there?
+
+Mr. Sauer ( 01:09:04 ):
+
+I’m not sure I understand the hypothetical. Could you say it again? I apologize.
+
+Speaker 3 ( 01:09:08 ):
+
+Just indicating that if you’re resting on that there must be impeachment and conviction and it’s for one set of crimes, but then later on, the president either removes is removed from office or resigns and later on, there’s a prosecution for something different. Is there immunity for that later crime?
+
+Mr. Sauer ( 01:09:27 ):
+
+Yes. I think that’s the better reason. Obviously, it’s not presented in this case because we have a close match between the conduct, the underlying conduct, or transaction occurrence that’s alleged in the articles of impeachment, of which there was an acquittal. An acquittal, right, which is the strongest case for double jeopardy and between the facts alleged in the indictment. But if there were unrelated prosecution-
+
+Speaker 3 ( 01:09:45 ):
+
+[inaudible 01:09:45] question is because you just made a statement about, he’s only being prosecuted for crimes while in office and so that’s why I’m asking about leaving office and then thereafter I’m being prosecuted for something different.
+
+Mr. Sauer ( 01:10:01 ):
+
+The plain text of the Constitution, the best reading would be he has to be impeached and convicted for the thing that he’s subsequently prosecuted. So if he were impeached, convicted and removed from office and they charged him with another official act that was unrelated to the impeachment, I think that what chief justice Marshall says in Marbury would still govern. I think that’s, obviously, it’s not presented in this case. The court doesn’t have to decide it, but that’d be my answer.
+
+Speaker 1 ( 01:10:21 ):
+
+So I just want to confirm. Your position is, if President Trump had been convicted after his impeachment trial on incitement of insurrection, if he’d been convicted, then this prosecution would be entirely proper?
+
+Mr. Sauer ( 01:10:38 ):
+
+I would say, that if he were impeached and convicted for the same and similar conduct, then that would authorize a subsequent prosecution. Obviously, we have many other issues with this prosecution, so I don’t-
+
+Speaker 1 ( 01:10:47 ):
+
+Is that a yes? Because I think you said in your brief that that impeachment for incitement of insurrection is based on the same or related conduct as that which is in the indictment.
+
+Mr. Sauer ( 01:10:58 ):
+
+Yes, yes. Yeah, I agree with that.
+
+Speaker 1 ( 01:10:59 ):
+
+So, if he had been convicted by the Senate, then this prosecution would be entirely proper. Correct?
+
+Mr. Sauer ( 01:11:07 ):
+
+I would not phrase it that way because there’s lots of other problems with this prosecution that we’ve raised in extensive plays to the district court. He could be prosecuted-
+
+Speaker 1 ( 01:11:13 ):
+
+Under the impeachment judgment clause, if he had been convicted by the Senate when he was impeached for incitement of insurrection on same or related conduct as what’s in the indictment, then this prosecution would be properly brought?
+
+Mr. Sauer ( 01:11:30 ):
+
+A prosecution could be properly brought. This prosecution, which has tons of other problems with it. I just want to be very clear about that. I’m not making any confession that this prosecution is [inaudible 01:11:40].
+
+Speaker 1 ( 01:11:39 ):
+
+All right. Let me try one more time. Under your interpretation of the impeachment judgment clause, if President Trump had been convicted when he was previously impeached on same or related conduct as that which is in this indictment, the government could properly prosecute him for that same or related conduct, yes or no?
+
+Mr. Sauer ( 01:12:01 ):
+
+Potentially, provided they qualified with all kinds of other legal documents that are violated in this case. So I admit that. [inaudible 01:12:08].
+
+Speaker 1 ( 01:12:08 ):
+
+I am only asking you, under your interpretation of the impeachment judgment clause, is that proper, is that allowed?
+
+Mr. Sauer ( 01:12:17 ):
+
+And I stand on my prior answer. I think we agree…
+
+Speaker 1 ( 01:12:21 ):
+
+I understand there might be other reasons why you would challenge this prosecution. I’m saying, based on your interpretation of the clause, this prosecution would be properly brought?
+
+Mr. Sauer ( 01:12:31 ):
+
+I would not say, this prosecution. Be very clear about that.
+
+Speaker 1 ( 01:12:34 ):
+
+But it’s a prosecution based on same or related conduct.
+
+Mr. Sauer ( 01:12:38 ):
+
+This prosecution, which has many other issues related to it. What I would say is that, the impeachment judgment clause authorizes the prosecution of a president who’s been impeached and convicted by the Senate, which President Trump was not.
+
+Speaker 1 ( 01:12:51 ):
+
+All right, let’s make it a hypothetical. Say a president was impeached and convicted on a charge of incitement of insurrection that is under the same allegations as a criminal indictment. He’s convicted, then the government could bring a prosecution for the same or related conduct. Correct?
+
+Mr. Sauer ( 01:13:08 ):
+
+Don’t disagree with that.
+
+Speaker 1 ( 01:13:09 ):
+
+Okay.
+
+Mr. Sauer ( 01:13:09 ):
+
+[inaudible 01:13:10] correctly.
+
+Speaker 1 ( 01:13:10 ):
+
+And then, that means that the conducts, that same or related, even if it’s official, he could be prosecuted for it. Correct?
+
+Mr. Sauer ( 01:13:20 ):
+
+[inaudible 01:13:21] impeached or convicted.
+
+Speaker 1 ( 01:13:23 ):
+
+Correct. Okay, thank you.
+
+Speaker 3 ( 01:13:24 ):
+
+But my question goes to after the fact, and the reason I state that, even though you’re challenging that these actions are only occurring while president, the district court’s decision was that there is no presidential immunity from prosecution for official acts. It doesn’t put a timeframe in there. And so that’s why I’m going to, beyond your investigation, your prosecution might not come until later, after the president has left office. So are you telling us that we are limited to a timeframe in answering this question?
+
+Mr. Sauer ( 01:13:55 ):
+
+I think the timeframe is set forth by chief justice and [inaudible 01:13:59] says, never examinable by the courts. So unless there is that one gate keeping incident that has to occur, which is impeachment and conviction, the official acts, the court has no jurisdiction to review them under the separation of powers and the executive vesting clause.
+
+Speaker 3 ( 01:14:14 ):
+
+But that also assumes that an impeachment proceeding occurred if there is not one. Because we discussed earlier that not all officials go through that process.
+
+Mr. Sauer ( 01:14:24 ):
+
+Absolutely.
+
+Speaker 3 ( 01:14:24 ):
+
+That’s a judgment call as to whether that process would even be brought.
+
+Mr. Sauer ( 01:14:28 ):
+
+I would say we have two arguments that reinforce each other. So if there’s no impeachment ever and no conviction, then the official acts are immune, period. Further, the impeachment judgment clause incorporates a doctrine of double jeopardy that prohibits it, especially in the case of acquittal. So those are reinforcing doctrines that are set forth in the constitution. If there are no further questions, we’d ask the court to reverse.
+
+Speaker 1 ( 01:14:53 ):
+
+All right.
+
+Luckily for you, we deliver. Subscribe to our blog today.
+
+A confirmation email is on it’s way to your inbox.
+
+Copyright Disclaimer
+
+Under Title 17 U.S.C. Section 107, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is permitted by copyright statute that might otherwise be infringing.
+
+Keep reading
+
+Subscribe to The Rev Blog
+
+Sign up to get Rev content delivered straight to your inbox.

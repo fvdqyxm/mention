@@ -1,0 +1,2023 @@
+Justice Jackson ( 00:00 ):
+
+Lincoln.
+
+General Sauer ( 13:42 ):
+
+Not only that, but then it was uphill by the [inaudible 00:13:48].
+
+( 13:48 ) Those regulatory tariffs at the border are forward-facing tariffs [inaudible 00:14:46].
+
+Speaker 1 ( 19:42 ):
+
+That refers to raising revenue. So it has a lot of verbs. It has a lot of verbs to raising revenue. [inaudible 00:19:47].
+
+General Sauer ( 21:05 ):
+
+Start with grammatical structure of the statute, then refer to the other statutes. Regulate importation [inaudible 00:21:10].
+
+Justice Sotomayor ( 21:11 ):
+
+Should we think that it's natural then to think that regulate importation includes taxing importations?
+
+General Sauer ( 21:54 ):
+
+Because that is how-
+
+Justice Sotomayor ( 21:55 ):
+
+It's in the conjunctive, importations and exportations. If they can't do it with respect to exportations, why are we permitting them to do it with respect to importations?
+
+General Sauer ( 22:09 ):
+
+Because as this court has recognized, going back to Gibbons against Ogden, and going through McGoldrick and Board of Trustees, when you're regulating imports, tariffing is a core application of that. So in other words, if you're saying go regulate trading and securities, that-
+
+Justice Sotomayor ( 22:24 ):
+
+So why is that Congress-
+
+General Sauer ( 22:24 ):
+
+… come with a tariffing connotation.
+
+Justice Sotomayor ( 22:25 ):
+
+Why is it that Congress has always used regulate and tax together in the code? Are you telling us that with respect to its use of regulate in other statutes, the taxing reference is superfluous? They didn't need to do that?
+
+General Sauer ( 22:44 ):
+
+I'm not sure what other statutes use regulate and tax together, but this statute has a specific historical pedigree going back to its enactment during World War I in 1917, where the phrase regulate importation is evoking an inherent power to tariff. That became established in the 19th century, in cases like Hamilton against Dillin and so forth. And that history is, I think, set forth in Professor Bamzai's amicus brief.
+
+Justice Sotomayor ( 23:05 ):
+
+Counsel.
+
+Chief Justice Roberts ( 23:07 ):
+
+Some time ago, you dismissed the applicability of the major questions doctrine, and I want you to explain that a little bit more. I mean, it seems that it might be directly applicable. You have a claimed source in IEEPA that had never before been used to justify tariffs. No one has argued that it does until this particular case. Congress uses tariffs in other provisions, but not here. And yet, and correct me on this if I'm not right about it, the justification is being used for a power to impose tariffs on any product from any country in any amount for any length of time. That seems like… I'm not suggesting it's not there, but it does seem like that's major authority, and the basis for the claim seems to be a misfit. So why doesn't it apply again?
+
+General Sauer ( 24:05 ):
+
+Well, we agree that it's a major power, but it's in the context of a statute that is explicitly conferring major powers. That the point of the statute is to confer major powers to address major questions, which are emergencies. So it'd be unusual to, say, look at the statute and say, "We're not going to find a major power here."
+
+Chief Justice Roberts ( 24:20 ):
+
+Well, but the exercise of the power is to impose tariffs, right? And the statute doesn't use the word tariffs.
+
+General Sauer ( 24:27 ):
+
+But it uses the word regulate importation. And historically, a core central application of that, a big piece of that, has always been to tariff. If you had asked the founders, "How do you regulate imports," they would say, "Of course, we tariff. That's what we do." So it'd be very unusual to say, "We're giving you power to regulate importation," and say, "but you cannot impose regulatory tariffs." That'd be almost a contradiction. And all the historical sources we cite in our brief relate to that particular historical pedigree. And as I was referring to earlier, there's a specific pedigree of regulate importation here in the specific context of the Presidents Polk and Lincoln and President McKinley asserting the authority to impose tariffs in wartime that was then codified in TWEA and then recodified for peacetime in TWEA in 1933, and then carried over into IEEPA. So there's that as well.
+
+( 25:11 ) But more importantly, if you look at the sort of triggering conditions that members of this court have identified for the major questions doctrine, there's a series of them, and we think they really… All of them don't apply here. For example, the notion that the power is unheralded. You refer to the fact that IEEPA has never been asserted to invoke tariffs, but of course the immediately predecessor statute, the tariffs that President Nixon imposed on that were upheld under this very language. So I would say this is… And it was recodified in IEEPA two years later, so this is kind of the opposite of unheralded power. It's also heralded because there's this longstanding delegation, a tradition of very broad delegations of the foreign commerce power going back to the founding… going back to-
+
+Chief Justice Roberts ( 25:48 ):
+
+Well, you have foreign commerce part, but… And I think this is a question for the other side as well. It's two-facing. Yes, of course, tariffs in dealings with foreign powers, but the vehicle is imposition of taxes on Americans, and that has always been the core power of Congress. So to have the president's foreign affairs power trump that basic power for Congress seems, to me, to at least neutralize between the two powers, the executive power and the legislative power.
+
+General Sauer ( 26:24 ):
+
+Let me say two things in response to that. First, the notion that the taxes are all borne by Americans and are not borne by foreign producers whose goods are imported this is empirically… There's no basis for that in the record. It's actually a mix-
+
+Chief Justice Roberts ( 26:37 ):
+
+Well, who pays the tariffs? If a tariff is imposed on automobiles, who pays them?
+
+General Sauer ( 26:45 ):
+
+Typically, there'd be a… Regardless who the importer of record is, there'd be a contract that would go along the sort of line of transfer that would allocate the tariff, and there'd be different… Sometimes the foreign producer would pay them. Sometimes the importer would bear the cost. The importer could be an American, could be a foreign company. A lot of times it's a wholly-owned American subsidiary of a foreign corporation. So it gets allocated. The empirical estimates range from like 30% to 80% of how much is borne by Americans.
+
+Chief Justice Roberts ( 27:10 ):
+
+It's been suggested that the tariffs are responsible for significant reduction in our deficit. I would say that's raising revenue domestically.
+
+General Sauer ( 27:17 ):
+
+There certainly is an incidental and collateral effect of the tariffs that they do raise revenue, but it's very important that they are regulatory tariffs, not revenue raising tariffs. And the way you can see this… I think if you look at this policy, this policy is by far the most effective if nobody ever pays the tariffs. And I say two policies, right? So if you look at the trade deficit emergency, if nobody ever pays the tariffs, and instead Americans direct their consumption towards American producers and stimulate the rebuilding of our hollowed-out manufacturing base, then the policy is by far the most effective. So a tariff, a regulatory tariff-
+
+Justice Sotomayor ( 27:49 ):
+
+Why not do what the statute permits, bar importation of products altogether? That would be the most effective way to do it.
+
+General Sauer ( 28:00 ):
+
+The question-
+
+Justice Sotomayor ( 28:01 ):
+
+You follow the statute. The statute says the president can do that. What it doesn't say is the president can raise revenue.
+
+General Sauer ( 28:10 ):
+
+What it says… He can regulate importation. And going back-
+
+Justice Sotomayor ( 28:13 ):
+
+Regulated by quotas-
+
+General Sauer ( 28:13 ):
+
+… hundreds of years, the way you regulated [inaudible 00:28:15] tariff.
+
+Justice Sotomayor ( 28:15 ):
+
+… causing it, subjecting some countries and not others to importation bans. Has a lot of verbs, but none of them include generating revenue, as a side effect or directly.
+
+General Sauer ( 28:35 ):
+
+Let me address that verb point, if I may, because think about the canonical example, a statute that refers to a list of swords, knives, daggers, dirks, and pikes. There, you look at that list of things, and you say, "Aha, those are all weapons. Therefore, a pike is a spear, not a fish," in that particular context. Now look at this list of verbs: block, prohibit, compel, direct, and so forth. You don't look at that naturally as an ordinary reader and say, "Oh, look, they're all not revenue raising." What you say is they're all very broad, powerful actions of the-
+
+Justice Jackson ( 29:04 ):
+
+General, the verbs that are in the statute are actually doing something. I mean, they're in the statute for a reason. And as I understand it, Congress actually explained to us in its Senate report and House report when it enacted the 1941 amendments to TWEA what it was doing. It said that what we are doing is authorizing the president in the Senate report, quote, "to control or freeze property transactions where a foreign interest is involved." There's similar language about controlling, freezing control in the House report. So I appreciate that generally, you can look at these words, and you can imagine that they mean certain things, but here we have evidence that Congress was actually trying to do a particular thing with respect to the authority that it was presenting to the president, and that thing was not raising revenue.
+
+General Sauer ( 29:59 ):
+
+I think that the powers that Congress was conferring on the president are best understood through the plain text of the statutes, which includes regulate importation.
+
+Justice Jackson ( 30:06 ):
+
+No, I know, but some of us care about the legislative history. And so the plain text of the statute has certain verbs in it. It also has regulate commerce, as you say. And when I look at the legislative history, it appears as though Congress was trying to give the president the authority to, quote, control or freeze property transactions where a foreign interest is involved. And in the TWEA context, that makes perfect sense, because we're talking about a wartime dynamic. And what is happening is the president needs the authority to prevent trading with the enemy in the midst of a war, and that seems to be the focus of this statute. So I guess I'm concerned about just taking a particular word here and there and saying that the general view of it might include raising revenue, when in fact, it looks as though the aim of this was really to give the president a certain kind of
+
+Justice Jackson ( 31:00 ):
+
+Authority to freeze the assets of the enemy.
+
+General Sauer ( 31:03 ):
+
+And let me say two things in response to that. First, as the notion that this is a revenue-raising tactic or power, it is not. We are asserting a regulatory power. It's a delegation of power to regulate foreign commerce. The way to control imports traditionally has been to tariff them. They say, well you can impose quotas. Well quotas are essentially economically equivalent to tariffs. So the question is why would you be able to quota under-regulate but not tariff under-regulate, when the tariffs are themselves regulatory? And let me turn back to the question I was… The response I was giving justice to illustrate that.
+
+Justice Jackson ( 31:32 ):
+
+Could the answer be that in other places where Congress wants that particular form of regulation to be used, they say impose duties, they say you can tax Mr. President. Here they don't say that.
+
+General Sauer ( 31:49 ):
+
+I'd say two things in response to that. That's the very argument that this court rejected in Algonquin. That the fact that these other specific statutes, do you say it-
+
+Justice Jackson ( 31:56 ):
+
+If we disagree with you-
+
+General Sauer ( 31:57 ):
+
+… a certain way you have to [inaudible 00:31:58]?
+
+Justice Jackson ( 31:57 ):
+
+If we disagree with you that Algonquin is a similar context, do you have another statute or another circumstance?
+
+General Sauer ( 32:03 ):
+
+And again, not to cite Algonquin again, but obviously we discussed the phrase adjust imports, and they said, "No, the natural way to do that is to tariff them." And they specifically said, "It makes no sense at all to authorize quotas," which was conceded that that statute did authorize, but not tariffs because those are equivalent.
+
+Justice Barrett ( 32:20 ):
+
+But it said just by any means necessary, which kind of beefs up the adjust. And also, and this is actually, I just don't know the answer to this question, so maybe you can help and maybe the other side can help as well. Algonquin was very careful to always call it a license and a licensing fee. And in the oral argument that came up too, the distinction between a tariff and a licensing fee. And I can understand how in some contexts it would be very difficult. You would press on it and you would say, well if this license fee is raising revenue, then it actually functions as a tariff. But what is the significance of that? Because in IEEPA, it also says, it refers particularly to licenses. It says you can license, and license would be a way of giving permission. That's actually the language also used in the Civil War one and what is it?
+
+General Sauer ( 33:11 ):
+
+Handles it against a tariff. Exactly. Yes, it does.
+
+Justice Barrett ( 33:13 ):
+
+It was a license, it was a license fee. And that's a way to grant permission that you wouldn't otherwise have to trade and import and let it through. So tell me what the distinction is between licenses and fees and if it matters?
+
+General Sauer ( 33:25 ):
+
+It's hard for me to see one because what President Lincoln said is, "Okay, we're going to allow imports from hostile foreign powers," basically rebellious Confederate states of cotton subject to a license, "But you got to pay .4 cents a pound on cotton when you do it. That's the condition." And that is so nearly equivalent to a tariff that says you can bring these goods to our country, but you got to pay an ad valorem assessment on it. And of course they have in their briefs conceded that quotas apply, that licensing may apply. There is the language in the beginning of 1701 that talks about instruments or other methods, instruments, licenses or other methods.
+
+Justice Barrett ( 34:01 ):
+
+But if that was true, why couldn't you just call this a license? And it's also true that in the cotton example, the court said, "The exaction itself was not properly a tax, but a bonus required as a conditioned precedent for engaging in the trade." So it seems like it was a little squirrely about how it was proceeding. And if there really is no distinction, why couldn't you just call it a license here?
+
+General Sauer ( 34:22 ):
+
+Very briefly, the other two cases, the Polk case and then the President McKinley case talk about duties. So I see an equivalence there. Mr. Chief Justice.
+
+Chief Justice ( 34:30 ):
+
+Thank you Counsel. Justice Thomas, anything further?
+
+Justice Thomas ( 34:33 ):
+
+The other side is going to argue, make an argue on delegation, I believe. Would you anticipate that and give us your understanding of the delegation argument?
+
+General Sauer ( 34:45 ):
+
+Yes, justice Thomas, I'd say a couple of things in response to that. First of all, this court has stated that the non-delegation doctrine does not apply with anything like the same force as it does in the domestic context, in the foreign context. And that again, to cite Dames & Moore again, Dames & Moore cites Youngstown, and Youngstown and footnote two of Justice Jackson's opinion. He goes into detail about this. He addresses Curtis Wright. He says there's a lot of broad dicta in Curtis Wright, but the holding of Curtis Wright, the ratio decidendi is that the domestic non-delegation doctrine does not apply with the same force in the foreign context.
+
+( 35:19 ) And he used that phrase, does not apply. He says, "The strict limitations on delegation that apply in the internal context do not apply in the external context." And so we rely on that line of cases. And further reasons I talked about earlier, where you're talking about a situation where the president has his own inherent authority to address foreign arising emergencies and Congress is conferring tools on him that expand his ability and his capacity to do so. We are in the area of Youngstown zone one
+
+Justice Thomas ( 35:44 ):
+
+A few times, you have alluded to the history as being important in interpreting the statute, and also that this language comes from the Trading with the Enemies Act, and that has its own pedigree. Could you just sketch out this direct line that you were alluding to as a basis for interpreting the current emergency statute as you would like it interpreted?
+
+General Sauer ( 36:12 ):
+
+Yes. Justice Thomas, and turning back to the response I was giving to Justice Barrett earlier, there is, I think it's very well set out in Professor [inaudible 00:36:19] Amicus brief. There is this history of presidents using a tariffing power or a tariff equivalent power, very, very close to tariffing power, in wartime to tariff trading with enemies. And when the Trading with the Enemy Act was enacted in 1917, it was deliberately evoking that. And when it brings in the power to regulate importation, it's essentially codifying for inherent power the president's already recognized to have.
+
+( 36:44 ) And then in 1933, when that power is expanded to an area where he wouldn't inherently have it, the peacetime context, that codification, the meaning of that remains the same. The regulated importation language that's brought in from TWEA and then ultimately to IEEPA in 1977, is carrying within that connotation. And that's reinforced by all the cases we cite in our brief where there's been extremely broad delegations of the power to tariff specifically and the power to regulate foreign commerce more generally, going back to the time of the founding, which ties to your question about non-delegation.
+
+Justice Thomas ( 37:13 ):
+
+That's it.
+
+Chief Justice ( 37:14 ):
+
+Justice Alito?
+
+Justice Alito ( 37:19 ):
+
+The court of the CCPA said things in Yoshida that are helpful to your position, but it also said some other things. It said that future search charges, quote, "must of course comply with Section 122 of the Trade Act of 1974." And it said that the Trading with the Enemy Act did not authorize the president to quote, "fix rates of duty at will without regard to statutory rates prescribed by Congress." So do you think that Congress, to the extent Congress had that decision in mind and relied on it, do you think it also relied on those statements in the opinion?
+
+General Sauer ( 38:05 ):
+
+Not in the same way because those statements are read into other provisions of TWEA that Congress did not enact in IEEPA. They may still be there in TWEA, but those are limitations that it wouldn't make sense to do. And I think the significance of Yoshida is at a higher level. Keep in mind that their principal position is no tariffs at all. Regulated importation just doesn't carry a connotation of the power to tariff. And we say we've got historical sources going back to Gibbons against Ogden that say the opposite, but more fundamentally, everyone knew that at the time IEEPA was enacted, that regulated importation had just very visibly and very prominently been upheld to include a sweeping global tariff.
+
+Justice Alito ( 38:38 ):
+
+Thank you.
+
+Chief Justice ( 38:40 ):
+
+Justice Sotomayor.
+
+Justice Sotomayor ( 38:41 ):
+
+I'd like to go back to Justice Barrett's question on the word license as used in IEEPA. It's not used as a verb. It's used as a noun. By, "The President may under such regulations as he may prescribe, by means of instructions, licenses or otherwise." Then do what the verbs permit him to do. By license, he can nullify, void, prevent or prohibit any acquisition, et cetera. So license is not being used as a verb that through licensing he can raise revenue. He can only use licenses to accomplish the verbs. So I don't understand how we can treat licensing as equivalent to revenue raising. As used in IEEPA, the license is only to accomplish what B permits.
+
+General Sauer ( 39:36 ):
+
+In Hamilton against Dillon, once you had the license then you had to pay the fees.
+
+Justice Sotomayor ( 39:41 ):
+
+But that's the point I'm making.
+
+General Sauer ( 39:43 ):
+
+Licensing fees to get in [inaudible 00:39:44].
+
+Justice Sotomayor ( 39:44 ):
+
+Which is that the only use of license here is a noun. You can license to accomplish the powers that B gives the president.
+
+General Sauer ( 39:52 ):
+
+Let me be clear, we rely on the phrase regulate importation. We're not saying that-
+
+Justice Sotomayor ( 39:55 ):
+
+Exactly.
+
+General Sauer ( 39:56 ):
+
+… executive order-
+
+Justice Sotomayor ( 39:56 ):
+
+You're not relying on licenses for that reason.
+
+General Sauer ( 39:59 ):
+
+No, I only cite that language, that introductory language about instruments, licenses or otherwise-
+
+Justice Sotomayor ( 40:04 ):
+
+You can't rely on-
+
+General Sauer ( 40:04 ):
+
+… as another layer of breadth in this particular section.
+
+Justice Sotomayor ( 40:06 ):
+
+Counsel, would you listen to my question? You're not relying on license for the reason I just said because it is a noun, not the verb. You're relying on regulate, correct?
+
+General Sauer ( 40:18 ):
+
+Yes. We're relying on regulate importation.
+
+Justice Sotomayor ( 40:20 ):
+
+And despite the fact that no other president in the history of IEEPA, has ever has used tariffs as a power under IEEPA.
+
+General Sauer ( 40:33 ):
+
+Well President Nixon did so-
+
+Justice Sotomayor ( 40:35 ):
+
+Under predecessor, and we have all the limitations of that. All right. Number two; whenever Congress intends to permit taxing and regulate, it uses the word tax and regulate in every other statute, correct?
+
+General Sauer ( 40:53 ):
+
+I don't concede that. I mean, two very visible examples again are TWEA and Section 122-
+
+Justice Sotomayor ( 40:58 ):
+
+We're back to the question here. Okay, thank you Counsel.
+
+Chief Justice ( 41:04 ):
+
+Justice Sotomayor.
+
+Justice Kagan ( 41:06 ):
+
+No, she's Justice Sotomayor. She just finished.
+
+Chief Justice ( 41:10 ):
+
+Justice Kagan.
+
+Justice Kagan ( 41:14 ):
+
+General Sauer.
+
+Justice Sotomayor ( 41:15 ):
+
+And they're friends?
+
+Justice Kagan ( 41:18 ):
+
+I want to take you back to Justice Thomas's question about non-delegation and if I understood your answer correctly, it was really similar to the answer that you started off with when you talked with Justice Thomas about the major questions doctrine, which is sort of everything's different because the president has independent constitutional powers in this area, and so that if one does not think that with respect to tariffs, if one thinks that a tariff is a taxing power, is a regulation of foreign commerce that is really delegated by the Constitution to Congress, that argument does not sound so well.
+
+( 41:57 ) And in fact, when you look at JW Hampton, which gives rise to the non-delegation test that we usually use, JW Hampton is a tariffs case. And the court did not say, oh we need some special new principle here, some stricter rule because we're dealing with tariffs in which presidents are directly concerned as a matter of foreign relations. It enunciated the test we use for all non-delegations. So how does that fit with your theory?
+
+General Sauer ( 42:26 ):
+
+Eight years later in Curtis Wright, the court held the non-delegation doctrine for domestic affairs does not apply with the same force as it does in [inaudible 00:42:34].
+
+Justice Sotomayor ( 42:34 ):
+
+But not with respect to tariffs, not with respect to quintessential taxing powers which are given by the Constitution to Congress.
+
+General Sauer ( 42:41 ):
+
+I think justices of this court have recognized in their opinions that one of the reasons that the non-delegation doctrine, that intelligible principle test hasn't packed as much punch as Justice Kavanaugh said. One of his opinions as it might otherwise have done is it did arise in the foreign affairs context because there, the court has historically been very, very comfortable with very broad delegations. Chicago and Southern Airlines and other cases from the 1930s, shortly after JW Hampton talked about being very large delegations of the foreign commerce power being very effective. And of course this goes back to the very dawn of the republic in 1790 for example. Congress conferred on President Washington, basically the entire Indian commerce power. He said, "Go get licenses to do commerce with the Indians," and they'll be subject to whatever rules and regulations President Washington can make.
+
+( 43:23 ) So I do think there is a profound consistency between the announcement of the intelligible principle test in JW Hampton and then the subsequent recognition by this court in Curtiss-Wright, that the non-delegation doctrine doesn't apply to the same force in this content.
+
+Justice Kagan ( 43:38 ):
+
+In consumer's research, just last year, we had a tax before us and the question was, was this a delegation issue? It was of course a much smaller tax which dealt with many fewer taxpayers. Notwithstanding that, we said, "If there's no ceiling on this tax," we sort of assumed that if there were no ceiling on this tax, it would raise a delegation problem. And most of the opinion was given over to showing that there in fact was a ceiling on the tax, not a quantitative one but a qualitative one. But how does your argument fit with the idea that a tax with no ceiling, a tax that can be anything, that he or the president wants there and agency wants, would raise a pretty deep delegation problem.
+
+General Sauer ( 44:29 ):
+
+First of all, I can't say enough. It is a regulatory tariff, not a tax. And that I think ties to my response to that which is that this is a totally different context. This is IEEPA, a statute that Congress carefully crafted to grant the president admittedly broad powers to address foreign arising emergencies. It's outward facing to foreign affairs, where there's the broadest level of deference to the political branches that this court has recognized in many cases, and it imposed not a floor or limit on the amount of a tariff that could be imposed very naturally, because for example, this court said in loving quoting Alexander Hamilton in the Federalist number 23, it's impossible to foresee either what exigencies may arise or what tools may be needed to address those, the means that may be required to address those exigencies.
+
+( 45:12 ) Instead, Congress grant very powers but they're confined to a particular domain. This domain is, any property in which any foreign government or any national thereof has any interest. So the sort of discipline, if one were to apply, we say you shouldn't, but if you were to apply the non-delegation doctrine, the domestic facing non-delegation doctrine in this context, there's a significant limitation there where you have a lot of parts-
+
+Justice Kagan ( 45:36 ):
+
+My last question really does have to do with that point, which is how or whether this is confined. Because if you look at Title 19, which is loaded with tariffs and duties of various kinds, all of them have real constraints on them. They are, you can't go over X percent or it can't last more than one year. And of course the way you interpret this statute, it has none of those constraints. And the question arises why it is that any president ever would look to the tariffs in Title 19, if sub silentio, if you will. This statute gives the president the opportunity to blow past those limits.
+
+General Sauer ( 46:20 ):
+
+This statute has its own constraints. They're constraints that are appropriate for the context which is internationally arising emergencies. They're carefully crafted by Congress to address that, and they are admittedly different. They're in Section 1701. The president has to make a formal declaration of a national emergency which subjects him to particularly intensive oversight by Congress, repeat natural lapsing, repeat review reports and so forth. It says you have to consult with Congress to the maximum that's possible.
+
+Justice Kagan ( 46:46 ):
+
+I mean, you yourself think that the declaration of emergency is unreviewable and even if it's not unreviewable, it's of course the kind of determination that this court would grant considerable deference to the president on. So that doesn't seem like much of a constraint.
+
+General Sauer ( 47:01 ):
+
+But it is-
+
+Justice Kagan ( 47:01 ):
+
+And in fact, we've had cases recently which deals with the president's emergency powers and it turns out we're in emergencies everything all the time about half the world.
+
+General Sauer ( 47:11 ):
+
+Well this particular emergency is particularly existential as executive order 14-257 says, and of course no one disputes the existential nature of the Fennel crisis, which we had an agreement last week to create progress on, which illustrates the effectiveness of the terrorist tool here. But the point I would make in response to that is, even if there's limited judicial review, which is very natural in the foreign affairs context, this court has always granted the president the presumption that he's acting in good faith. There are real hurdles there, very significant. It's got to be an unusual, extraordinary threat that arises in whole or substantial part outside the United States. So it's entirely foreign facing into the national security economy or foreign policy of the United States. So there are those.
+
+( 47:51 ) Then there's 1701B, which talks about how it can be used for this and for no other purpose. Then there are limitations in section 1702B. Then there is the limitations I was referring to earlier about what he can actually do. He can do a heck of a lot, but only when he's dealing with property in which foreigners have an interest, and that's a pretty narrow domain. That's quite a silo, so to speak. And then of course overarching it all, there's congressional oversight, and you may say congressional oversight may not have much bite, but Congress didn't think so. Congress crafted this compromise. It balanced the never-ending tension when it drafted IEEPA, it had his eyes open. As the dissent below says, its eyes open looking at the problem of sweeping emergency powers for an executive who may use them in a way that's excessive versus the need to address unforeseeable orders.
+
+Justice Kagan ( 48:35 ):
+
+Thank you, General.
+
+Chief Justice ( 48:36 ):
+
+Justice Gorsuch.
+
+Justice Gorsuch ( 48:39 ):
+
+General, just a few questions following up on the major questions, discussions you've had. You say that we shouldn't be so concerned in the area of foreign affairs because of the president's inherent powers. That's the gist of it as I understand it, why we should disregard both major questions and non-delegation. So could Congress delegate to the president the power to regulate commerce with foreign nations as he sees fit to lay and collect duties as he sees fit?
+
+General Sauer ( 49:09 ):
+
+We don't assert that here. That would be a much harder case. Now, in 1790-
+
+Justice Gorsuch ( 49:14 ):
+
+Isn't that the logic of your view though?
+
+General Sauer ( 49:16 ):
+
+I don't think so, because we're dealing with a statute that was a carefully crafted compromise. It does have all the limitations that I just talked about. It has broad powers [inaudible 00:49:23]-
+
+Justice Gorsuch ( 49:23 ):
+
+You're saying we shouldn't be concerned with… I want to explain to me how you draw the line because you say we shouldn't be concerned because this is foreign affairs and the president has inherent authority and so delegation off the books, more or less.
+
+General Sauer ( 49:38 ):
+
+Or at least [inaudible 00:49:38].
+
+Justice Gorsuch ( 49:38 ):
+
+And if that's true, what would prohibit Congress from just abdicating all responsibility to regulate foreign commerce, for that matter, declare war to the president?
+
+General Sauer ( 49:49 ):
+
+We don't contend that he could do that. If it did-
+
+Justice Gorsuch ( 49:51 ):
+
+Why not?
+
+General Sauer ( 49:52 ):
+
+Well because we're dealing with a statute again that has a whole statue of limitations.
+
+Justice Gorsuch ( 49:54 ):
+
+I'm not asking about the statute. General, I'm not asking about the statute. I'm asking for your theory of the constitution and why the major questions and non-delegation, what bite it would have in that case?
+
+General Sauer ( 50:05 ):
+
+Yes, I would say by then you would move from the area where there's enormous deference to the president, actually both the political branches, where here there's inherent authority and pile on top of that, there's a broad delegation.
+
+Justice Gorsuch ( 50:14 ):
+
+You're saying there's inherent authority in foreign affairs, all foreign affairs. So regulate commerce duties and tariffs and war. It's inherent authority all the way down you say. Fine. Congress decides tomorrow, well we're tired of this legislating business, we're just going to hand it all off to the president. What would stop Congress from doing that?
+
+General Sauer ( 50:35 ):
+
+That would be different than a situation where there are meets and bounds so to speak. It would be a wholesale application.
+
+Justice Gorsuch ( 50:41 ):
+
+You say we are not here to judge meets and bounds when the foreign affair, that's what I'm struggling with. You'd have to have some test, and if it isn't the intelligible principle test or something more with more bite than that, you're saying is something less. Well, what is that less?
+
+General Sauer ( 50:56 ):
+
+I think what the court has said in its opinions is just that it applies with much less force, more limited application in this context. So perhaps the right to approach it is a very, very deferential application of the intelligible principle test, that that sort of wholesale abdication of [inaudible 00:51:11].
+
+Justice Gorsuch ( 51:10 ):
+
+All right. So now you're admitting there is some non-delegation principle at play here and therefore major questions as well. Is that right?
+
+General Sauer ( 51:17 ):
+
+Still very limited. Very, very deferential limited. And again, the phrase that Justice Jackson uses, it just does not apply, at least-
+
+Justice Gorsuch ( 51:24 ):
+
+I know, but that's where you started off and now you've retreated from that as I understand it.
+
+General Sauer ( 51:28 ):
+
+Well, I think as our front line position is a stronger position, but if the court doesn't accept it, then if there is a highly deferential-
+
+Justice Gorsuch ( 51:34 ):
+
+Can you give me a reason to accept it though? That's what I'm struggling and waiting for. What's the reason to accept the notion that Congress can hand off the power to declare war to the president?
+
+General Sauer ( 51:43 ):
+
+Well, we don't contend that. Again, that would be-
+
+Justice Gorsuch ( 51:45 ):
+
+Well, you do, you say it's unreviewable or there's no manageable standard, nothing to be done. And now I think you… Tell me if I'm wrong, you backed off that position?
+
+General Sauer ( 51:56 ):
+
+Maybe that's fair to say.
+
+Justice Gorsuch ( 51:57 ):
+
+Okay. All right. Thank you.
+
+General Sauer ( 51:58 ):
+
+Because that would be think an abdication. That would really be an abdication, not a delegation.
+
+Justice Gorsuch ( 52:01 ):
+
+I'm delighted to hear that. All right, and then I wanted to return to something Justice Sotomayor asked under this statute. Okay? So now we're in the statute. It's a major question though. Could the president impose a 50% tariff on gas-powered cars and auto parts to deal with the unusual and extraordinary threat from abroad of climate change?
+
+General Sauer ( 52:25 ):
+
+It's very likely that that could be done. Very likely.
+
+Justice Gorsuch ( 52:28 ):
+
+I think that has to be the logic of your view.
+
+General Sauer ( 52:32 ):
+
+In other words, obviously this administration would say that's a hoax, it's not a real crisis.
+
+Justice Gorsuch ( 52:35 ):
+
+I'm sure you would.
+
+General Sauer ( 52:37 ):
+
+Yes, but that'd be a question for Congress under our interpretation, not for the courts.
+
+Justice Gorsuch ( 52:40 ):
+
+All right. And then on this inherent authority idea. I understand the president's inherent authority in wartime and a lot of your examples of regulating commerce and maybe your best one, Hamilton during the Civil War, they occurred during wartime when the president's commander-in-chief power is clearly in play. Does the president have inherent authority over tariffs in peacetime?
+
+General Sauer ( 53:07 ):
+
+No, we do not contend that.
+
+Justice Gorsuch ( 53:09 ):
+
+Okay.
+
+General Sauer ( 53:09 ):
+
+In fact, I'd cite them if I may, I'd point the court to two cases. They are Loving against United States and then Masary that cited in Loving. Those are situations. For example, Loving against United States, the president had broad Article 2 inherent authority. There it was the commander in chief power, but this court held, he does not have an inherent authority to do the power that was delegated to him, which is the power to identify aggravators that make you eligible for the death penalty in court-martial trials. And yet this court said, we're not going to see a delegation problem here even though it's really a wholesale delegation which would otherwise be legislative authority. It would be kind of like a small version of what you're hypothetical, it would be an abdication.
+
+( 53:45 ) But because you're in a foreign affairs context or they're commander-in-chief military context where the president has his own delegation of authority, he doesn't have the power to do this, but because of his background inherent authority, the court said, this is a situation where we're not going to see a delegation problem when there clearly would've been a delegation problem in the domestic context And those cases I think are powerful here.
+
+Justice Gorsuch ( 54:03 ):
+
+General, if I can cut through those words, I think you're saying that no, the president doesn't have inherent authority over tariffs in peacetime.
+
+General Sauer ( 54:12 ):
+
+Absolutely. We do not assert that. We say that Congress can delegate that to him and when Congress does so, as it does when it uses the phrase, regulate importation.
+
+Justice Gorsuch ( 54:21 ):
+
+I follow all of that.
+
+General Sauer ( 54:23 ):
+
+I agree.
+
+Justice Gorsuch ( 54:25 ):
+
+Okay. You emphasize that Congress can always take back its powers. You mentioned that a couple of times. But don't we have a serious retrieval problem here? Because once Congress delegates by a bare majority and the president signs it, and of course every president will sign a law that gives him more authority, Congress can't that back without a supermajority. Even then, it's going to be veto proof. What president's ever going to give that power back? Pretty rare president. So how should that inform our view of delegations and major questions?
+
+General Sauer ( 55:02 ):
+
+I would look at the balance that Congress struck, because what Congress did initially, it had a two-house legislative veto-
+
+Justice Gorsuch ( 55:06 ):
+
+And we struck that down.
+
+General Sauer ( 55:09 ):
+
+… in which [inaudible 00:55:09]. And then Congress went back to the statute and amended it. It took out the legislative veto and left it in the joint resolution but still left the President with all those [inaudible 00:55:16].
+
+Justice Gorsuch ( 55:17 ):
+
+That's what Congress did.
+
+General Sauer ( 55:18 ):
+
+Yes.
+
+Justice Gorsuch ( 55:19 ):
+
+Fair enough. As a practical matter in the real world, it can never get that power back.
+
+General Sauer ( 55:24 ):
+
+I disagree because in January 2023, Congress voted to terminate one of the biggest IEEPA emergencies ever, the Covid emergency and the President went along with that. So what the statute reflects is there's going to be the ability for a sort of political consensus against a declared emergency, unless [inaudible 00:55:39].
+
+Justice Gorsuch ( 55:38 ):
+
+What happens when the president simply vetoes legislation to try to take these powers back?
+
+General Sauer ( 55:44 ):
+
+Well, he has the authority to veto legislation to terminate a national emergency, for example. I mean, he retains, the powers in the background because IEEPA is still on the books. But if he declares an emergency and Congress doesn't like it and passes a joint resolution, yes he can absolutely veto that. Congress-
+
+Justice Gorsuch ( 55:56 ):
+
+Yeah. So Congress, as a practical matter, can't get this power back once it's handed it over to the president. It's a one-way ratchet toward the gradual but continual accretion of power in the executive branch and away from the people's elected representatives.
+
+General Sauer ( 56:11 ):
+
+I disagree with that. In the recent historical counterexample of Congress's termination of the Covid emergency demonstrates that the political oversight-
+
+Justice Gorsuch ( 56:19 ):
+
+With the president's assent.
+
+General Sauer ( 56:20 ):
+
+… is [inaudible 00:56:21] into that which is meaningful.
+
+Justice Gorsuch ( 56:21 ):
+
+With the president's assent in fact.
+
+General Sauer ( 56:23 ):
+
+Once he lost it by a veto-proof majority in the Senate, I think the position moved. I think he realized, and that's the political process working. There was a political consensus-
+
+Justice Gorsuch ( 56:30 ):
+
+Yeah, it takes a supermajority.
+
+General Sauer ( 56:31 ):
+
+… against [inaudible 00:56:32].
+
+Justice Gorsuch ( 56:31 ):
+
+A veto-proof majority to get it back. Yeah. Okay. One other question. Do you think tariffs are always foreign affairs?
+
+General Sauer ( 56:42 ):
+
+I do think they would… I can't think of a situation where they're not foreign-facing. If you're talking about tariffs on imports. Maybe there are other tariff contexts that I'm not aware of. But yes, they typically would involve a foreign affairs thing. However, as in Gibbons against Ogden, if they are revenue-raising tariffs, they would not raise the same sort of foreign affairs issues as regulatory tariffs, which are imposed not for the purpose of raising revenue, but to induce foreign powers to change their behaviors.
+
+Justice Gorsuch ( 57:07 ):
+
+So revenue-raising tariffs are not foreign affairs, but regulatory tariffs are?
+
+General Sauer ( 57:12 ):
+
+I don't think a revenue-raising tariff would be foreign affairs to the same degree at least. I think it has a foreign application obviously, but I don't think it would raise the same issues.
+
+Justice Gorsuch ( 57:19 ):
+
+Okay, thank you, General.
+
+Chief Justice ( 57:21 ):
+
+Justice Kavanaugh.
+
+Justice Kavanaugh ( 57:22 ):
+
+Figuring out what regulate importation means is obviously central here, and for major question purposes, I think the way we think about that kind of question is does the specific authority power, major power, now asserted pursuant to that general statutory authorization? Was that the kind of power that would've been understood by people, by Congress, at the time the general statute was passed, as distinct from being a novel kind of use of that general authority to do something different? Unheralded is the word in our cases. Okay.
+
+( 58:08 ) One problem you have is that President since IEEPA have not done this. Your primary answer or one of your many answers to that is the Nixon example. And that's a good example for you because Nixon relied on regulate importation to impose a worldwide tariff. Good example. What is our understanding of Congress in 1977, vis-a-vis that Nixon example, when Congress re-enacts or enacts the regulate importation language into IEEPA?
+
+General Sauer ( 58:40 ):
+
+Congress at that time was fully aware that a court of appeals with exclusive jurisdiction had interpreted that very phrase very visibly, very prominently to include the power to tariff and then re-enacted it without change. The court addressed a lesser situation in Algonquin, when it came to Section 122, and the court said, president Nixon interpreted this to include a tariffing-like power. And then Congress a few months later re-enacted the language without change and that's powerful evidence of congressional acquiescence. So that immediately historical background is very powerful and it's buttressed of course by sources going back to the founding where we say the phrase regulate importation, a quintessential application of that is the power to tariff. That's how you regulate importation.
+
+Justice Kavanaugh ( 59:22 ):
+
+This may require some speculation on your part, economic philosophy, et cetera, but I'll ask it. Why do you think President's Clinton, Bush, Obama, have not used IEEPA to impose tariffs on… Because there have been trade disputes and certainly President Bush stealing ports and the like, why do you think IEEPA has not been used?
+
+General Sauer ( 59:48 ):
+
+If you look at those 69 emergencies, in fact you go through them one at a time, which we had our team do, it's really hard to find one where you look at that emergency and you say, oh, tariffs is the natural tool you would use to address that emergency. So for example, the Blood Diamond emergency, tariffing these sort of criminal organizations in Africa that are financing terrorism to the sale of diamonds, you don't really tariff them. Or you take the Iranian hostage crisis. President Carter didn't say, oh, you've seized all of our embassy personnel, you're holding them hostage, we're going to tariff you. Right? And if you go through those emergencies, there are two emergencies though where tariffs are the obvious natural tool for a president to use. One is the Nixon balance, payments deficit problem and the other is this particular emergency.
+
+( 01:00:28 ) And also there's political reasons.
+
+Justice Kavanaugh ( 01:00:29 ):
+
+But I think the question-
+
+General Sauer ( 01:00:30 ):
+
+And once it gets solved, I think that it's no question that President Trump is by far the most comfortable with the tariffs as a tool, both of economic and foreign policy than many of the other presidents may have been. I mean, there are presidents like President Bush who probably wouldn't have nationally selected that particular tool or method, but if you go through all 69 of those intervening emergencies, what they have not done at least, is they have not identified where they say, oh, here's one where terrorists would've been the obvious tool but the president didn't use it.
+
+Justice Kavanaugh ( 01:00:59 ):
+
+Algonquin, as you've mentioned many times is obviously very important here for us to understand exactly what's going on in Algonquin. The phrase there is different. Adjust imports. And they really, the other side, your friend on the other side, really relies on the difference in language. And I just want you to give your best answer to why regulate importation encompasses tariffs when adjust… We held that adjust imports would encompass monetary exactions?
+
+General Sauer ( 01:01:33 ):
+
+Three answers, if I may. Adjust is narrower than regulate. And so therefore the writer in close the last.
+
+Justice Kavanaugh ( 01:01:40 ):
+
+So it follows.
+
+General Sauer ( 01:01:40 ):
+
+Second answer. Adjust is the Second Black's law dictionary definition of regulate. The Black's law, there are original plain meaning dictionary definition, says adjust by rule mode or rule method or established mode. So there's just a plain meaning link there, regulate, adjust as a kind of regulation.
+
+General Sauer ( 01:02:00 ):
+
+And then I think far more importantly, regulate importation. I can't emphasize enough. Going back to the time of the founding, going back to the time of the founding, has been understood that the manner in which you regulate importation, the natural way to do that is to tariff. So it'd be textually astonishing given that historical pedigree going back to Gibbons, going back to Madison's letter to Cabell, and all the historical sources cited in our briefs, it'd be kind of astonishing to say, hey, President, you can regulate imports, but we're not saying this explicitly, but you do not have the power to tariff when the tariffing is in many ways the quintessential way of regulating importation. So that historical pedigree sort of gives freighted meaning to that two-word phrase.
+
+Justice Kavanaugh ( 01:02:41 ):
+
+And last, you had some discussion about license fee versus tariffs, if there's a distinction. I mean the counsel in the oral argument in Algonquin said they're all monies exacted on import. So in that sense it certainly is a tariff and hence all the incidents and the economic effect of a tariff. But we can't rely on what the counsel said in Algonquin. Isn't there a difference of sorts, at least, between a tariff and a license fee? You answered this I think briefly before, but I want to make sure because I think this could be an important point because I want to know Algonquin to decide this case. So give your best shot on that.
+
+General Sauer ( 01:03:20 ):
+
+I agree that there is, maybe there's a formal distinction. But as a practical matter, I think what counsel was probably arguing there is that there really isn't much of an important distinction. And I would point to the passage in Algonquin where the Court says, look, they've conceded that this includes the power to quota, and since quotas are a quantitative method, it would make no sense for Congress not to grant the qualitative method. And all the more so here, if there's a concession, as they do in some of the [inaudible 01:03:45]-
+
+Justice Kavanaugh ( 01:03:45 ):
+
+One time the Court said monetary methods, i.e. license fees, and the next page said monetary exactions, i.e license fees and duties. It's important to be consistent.
+
+General Sauer ( 01:03:55 ):
+
+I think the Court bought the argument, correctly, that there's really not a lot of daylight between those two. As a practical matter, certainly almost no daylight. And so then the question that Algonquin said-
+
+Justice Kavanaugh ( 01:04:01 ):
+
+When you say almost no daylight, just…
+
+General Sauer ( 01:04:05 ):
+
+I mean I would say that they're economic equivalents. Legally, they're pretty much the same. So I really don't see a big distinction there. And of course the logic of Algonquin was quantitative methods are quotas are allowed, therefore would make no sense at all to interpret this not to include the qualitative or the monetary exaction methods. Well, if we're talking about a distinction between regulated importation, including licenses that could come with fees but not tariffs, that logic applies all the more so, which it makes no sense.
+
+Justice Kavanaugh ( 01:04:34 ):
+
+Thank you.
+
+Chief Justice Roberts ( 01:04:34 ):
+
+Justice Barrett.
+
+Justice Barrett ( 01:04:34 ):
+
+Well, I think in Algonquin, there was a formal distinction that mattered because at that oral argument, counsel pointed out that the uniformity clause would kick in and the constitutional uniformity requirement would apply to tariffs if it was that way, and speculated that the reason that the government may have set it up as a licensing scheme with licensing fees was to avoid that. So I do think there are some distinctions. But keeping that in mind, if you say that there really is as a practical matter, no difference, this is kind of what I'm hung up on in license that maybe you can help. So in IEEPA, Justice Sotomayor is right, license is used as a noun, but it's one of the means necessary. So in Algonquin, it was by any means necessary, adjust. Here the statute says the President may under such regulations as he may prescribe by means of instructions, licenses, or otherwise, regulate importation, which is the key part for our purposes.
+
+( 01:05:33 ) So the means it specifies are instructions, licenses, or otherwise. So I think one argument might be that it would've been natural for Congress to put the President may by means of instructions, licenses, tariffs, or otherwise. Within a generous thing, I think you have to rely on the or otherwise picking up more. Or if there really is no practical difference between licenses and tariffs, why aren't you making the argument or why didn't the President structure this as a licensing fee scheme? How do I understand that language? Or am I just misunderstanding it and this language is totally irrelevant?
+
+General Sauer ( 01:06:13 ):
+
+I think that, here's the way I'd respond to that. I think that language powerfully reinforces our position as the way you've laid it out right there because first of all, regulate importation, we say, and based on extensive historical pedigree, the core application of that is tariffing. To list tariffing again would've been essentially redundant, unnecessary, especially if you look at the specific historical background of TWEA where TWEA was enacting a tariffing power or a licensing-like power that was described as again, duties and tariffs equivalently.
+
+Justice Barrett ( 01:06:42 ):
+
+Okay, but I don't understand because I think you have to put together A1 and then B. So I think what you would be saying is he may prescribe by means of tariffs tariffs.
+
+General Sauer ( 01:06:55 ):
+
+I think what you're saying is by means of instruments, licenses, or otherwise.
+
+Justice Barrett ( 01:07:02 ):
+
+By instructions, licenses, or otherwise impose tariffs.
+
+General Sauer ( 01:07:03 ):
+
+Yeah, instructions, licenses, otherwise.
+
+Justice Barrett ( 01:07:03 ):
+
+Okay.
+
+General Sauer ( 01:07:04 ):
+
+That otherwise, I mean if you say instructions, licenses, or otherwise, and we're asserting a power that's very, very similar to licensing-
+
+Justice Barrett ( 01:07:11 ):
+
+To licensing.
+
+General Sauer ( 01:07:13 ):
+
+Otherwise naturally carries that with it. But that's not our principal position. Our principal position's regulate importation means that, and so you don't need to say it again. However, if Congress has authorized them to do it by licenses that could come with fees that are economically equivalent to tariffs and then it says otherwise-
+
+Justice Barrett ( 01:07:28 ):
+
+And tariffs would be the neighbor.
+
+General Sauer ( 01:07:28 ):
+
+That just reinforces the same conclusion that we get by using the phrase regulate importation.
+
+Justice Barrett ( 01:07:31 ):
+
+Okay. Then a question just to follow up on Justice Gorsuch's thing about how can Congress ever get this delegation back, you said, well, listen, you point to the Congress's ability to terminate emergencies, which it's done. But if Congress ever wanted to get the tariffing power back, it would have to have a veto-proof majority because regardless of the emergency. So if Congress wanted to reject the… Let's say that we adopt your interpretation of the statute. If Congress said, whoa, we don't like that, that gives a president too much authority under IEEPA, it's going to have a very hard time pulling the tariff power out of IEEPA. Correct?
+
+General Sauer ( 01:08:07 ):
+
+I don't know if it'd be a hard time. Certainly would have to have a statutory amendment-
+
+Justice Barrett ( 01:08:09 ):
+
+Well, veto-proof majority.
+
+General Sauer ( 01:08:10 ):
+
+Which should be the true of any case where this Court definitively interprets a statute. Yes. I think that the Congress would have to pass a statutory-
+
+Justice Barrett ( 01:08:15 ):
+
+But definitively interpreting a statute that grants presidential power makes it particularly hard to get the President to not want to veto something, which as Justice Gorsuch is pointing out, has him lose power. All right, I want to ask you a question about unusual and extraordinary threats which we have not talked about yet. And I specifically want to talk about the reciprocal tariffs. These are imposed on, I mean these are kind of across the board. And so is it your contention that every country needed to be tariffed because of threats to the defense and industrial base? I mean Spain, France? I mean I could see it with some countries, but explain to me why as many countries needed to be subject to the reciprocal tariff policy as are.
+
+General Sauer ( 01:09:02 ):
+
+Yeah. Executive Order 14257 spells out the nature of the emergency and basically says that there's this sort of lack of reciprocity, this asymmetric treatment of our trade with respect to foreign countries' trade that does run across the board. This is a global problem. I think that puts in context the argument they make that this power to tariff is so broad because you're applying to every country in the world. That conflates the nature of the tool tariffing, which they're challenging here, with the nature of the declared emergency, which they haven't disputed. They haven't disputed, for example, that the President has correctly identified that virtually every major trading partner has this longstanding asymmetric unfair treatment of our trade. So the argument, this power is so broad, this power is so broad, is really based on a conflation of two different things. One is the power. Right?
+
+( 01:09:48 ) Imagine this. Imagine that, for example, President Reagan had wanted to convince South Africa to change its apartheid policies and he had imposed tariffs on them. No one would bat an eyelash and say, "Well, that's too broad. That's too broad. That can't be an IEEPA." The power to tariff is a, sort of fits naturally with all those powers to block, prohibit, and seize and so forth. Well, they're saying this is so broad because the emergency is so broad. But of course that's a presidential determination, and there's all kinds of basis for it. And also keep in mind that the emergency is not like just the asymmetric treatment, it's the impact of the asymmetric, the underlying conditions, the hollowing out of our manufacturing base, the vulnerability of our supply chains, and of course our defense industrial base's vulnerability of key imports.
+
+Chief Justice Roberts ( 01:10:29 ):
+
+Justice Jackson.
+
+Justice Jackson ( 01:10:30 ):
+
+So as I understand your response to Justice Barrett in that last question, you're saying that the power to tariff fits naturally with the power to block and seize. That was your example. But I guess I'm trying to understand then your argument from the text of the actual statute because the statute, unlike what you suggested to Justice Kagan, is focused on the actual actions that the President can take. In response to Justice Kagan, I understood you to say that Congress was giving the President broad authority to act and it was within a particular domain, which is the domain of emergencies with respect to foreign power. But the President could basically do a lot of things. But when I read the statute, it is telling the President exactly what he can do, investigate, block during the pendency of an investigation, regulate, direct, and compel, nullify, void, prevent, or prohibit. I guess what is a little concerning to me is that your argument suggests that we should see the word impose, the phrase impose tariffs in that same series of things that the President could do. We don't see that word. And instead you take regulate and say that must mean that. So I guess I'm getting back to Justice Barrett's maybe original question, which was where else in the code has Congress used the word regulate to sub in for imposed tariffs?
+
+General Sauer ( 01:11:58 ):
+
+TWEA. And then this Court's opinions of course have used regulate and import or have pointed out that duties are the natural way to regulate foreign commerce [inaudible 01:12:07]-
+
+Justice Jackson ( 01:12:07 ):
+
+But you're saying we should not have expected to see the same level of granularity with respect to the President's authority to impose tariffs as we see here, investigate, block, direct, and compel, nullify, et cetera.
+
+General Sauer ( 01:12:21 ):
+
+I think it'd be very unusual for Congress to spell out all the ways that you can regulate in that section.
+
+Justice Jackson ( 01:12:26 ):
+
+So regulate becomes a big catch-all the rest of the other things.
+
+General Sauer ( 01:12:29 ):
+
+Well, I mean we have a concession of that from the other side that regulate at least includes qualitative methods, quantitative methods, quotas, licenses. We can see that regulate, there's a lot in regulate that's not spelled out there. And our point is you don't need to spell out tariffs because that's like of all of them, the most natural, the most quintessential method of regulating imports.
+
+Justice Jackson ( 01:12:46 ):
+
+And yet, many, many presidents have not used regulate in this way to impose tariffs. I understand you point to President Nixon, we have licenses from Lincoln, but no one else.
+
+General Sauer ( 01:12:57 ):
+
+As I said to Justice Kavanaugh, presidents who are faced with international crises to which tariffing is the natural response, that's President Nixon and President Trump, have invoked this authority. And also frankly, President Trump invoked this authority in May of 2019 as well.
+
+Justice Jackson ( 01:13:11 ):
+
+Can I ask you one question?
+
+General Sauer ( 01:13:12 ):
+
+So it's more historically attested than they can see.
+
+Justice Jackson ( 01:13:14 ):
+
+Let me just ask one more question about the unusual threat. So in your conversation with Justice Gorsuch that we had the climate change tariff hypo, and you indicated that there would be challengers to the notion that that was an unusual and extraordinary threat. And I'm just wondering, under your position, would they be able to make a legal challenge? Are you saying the Court would not be able to review that [inaudible 01:13:43]?
+
+General Sauer ( 01:13:42 ):
+
+On that particular hypothetical, I think I said that'd be a question for Congress.
+
+Justice Jackson ( 01:13:45 ):
+
+So not a court?
+
+General Sauer ( 01:13:47 ):
+
+Yeah. In other words, that wouldn't be the sort of thing that courts would want to wade into. Is this really an emergency? That would not be, probably very unlikely. That'd be a situation where at least there'd be very, very, very deferential judicial review of that kind of determination.
+
+Justice Jackson ( 01:13:59 ):
+
+No, I'm asking you…
+
+General Sauer ( 01:14:00 ):
+
+But people may dispute that.
+
+Justice Jackson ( 01:14:00 ):
+
+Right. Those are two different things. Is there no judicial review or is there deferential judicial review?
+
+General Sauer ( 01:14:05 ):
+
+Our front line, I mean Trump against Hawaii, our front line position is that it falls within Dalton against Specter. It's committed to the President's discretion when he makes his determination of a national emergency. But the Court doesn't have to decide that because whatever review is very, very deferential and it's easily satisfied here.
+
+Justice Jackson ( 01:14:18 ):
+
+Thank you.
+
+Chief Justice Roberts ( 01:14:20 ):
+
+Thank you, Counsel. Mr. Katyal.
+
+Neal Katyal ( 01:14:29 ):
+
+Thank you, Mr. Chief Justice, and may it please the Court. Tariffs are taxes. They take dollars from Americans' pockets and deposit them in the US Treasury. Our founders gave that taxing power to Congress alone. Yet here the President bypassed Congress and imposed one of the largest tax increases in our lifetimes. Many doctrines explain why this is illegal, like the presumption that Congress speaks clearly when it imposes taxes and duties and the major questions doctrine, but it comes down to common sense. It's simply implausible that in enacting IEEPA, Congress handed the President the power to overhaul the entire tariff system and the American economy in the process, allowing him to set and reset tariffs on any and every product from any and every country at any and all times. And as Justices Gorsuch and Barrett just said, this is a one-way ratchet. We will never get this power back if the government wins this case. What president wouldn't veto legislation to rein this power in and pull out the tariff power?
+
+( 01:15:30 ) IEEPA is a sanction statute. It's not a tax statute where Congress gave away the store. Congress knows exactly how to delegate its tariff powers. Every time for 238 years, it's done so explicitly, always with real limits. IEEPA looks nothing like those laws. It uses regulate, which Congress has used hundreds of times, never once to include tariffs, and it lacks the limits of every other tariff statute. And that is why even though presidents have used IEEPA to impose economic sanctions thousands of times, no president in IEEPA's 50-year lifetime has ever tried to impose tariffs. And the President bypassed statutes that do address tariffs like Section 122 for large and serious trade deficits, but that imposes a clear guardrail, 15% cap, 150 day limit. This is Youngstown at its lowest ebb. If the government wins, another president could declare a climate emergency and impose huge tariffs without fines or without floors or ceilings, as Justice Gorsuch said. My friend's answer, this administration would declare it a hoax. The next president may not quite say that. This is an open-ended power to junk the tariff laws and is certainly not conveyed by the word regulate. I welcome the Court's questions.
+
+Justice Thomas ( 01:16:51 ):
+
+Wouldn't your argument also apply to embargoes?
+
+Neal Katyal ( 01:16:55 ):
+
+And this is the argument in the fine dissent below, and I think there are three answers to that, Justice Thomas. The first is revenue raising. Embargoes stop the shipment. Tariffs start the tax bill. They are first and foremost ways of regulating revenue, as some of your own opinion said. This is the way we actually chiefly got revenue for the first hundred years of our republic. Tariffs are constitutionally special because our founders feared revenue raising, unlike embargoes. And there was no Boston Embargo Party, but there was certainly a Boston Tea Party. The second thing, textually in the statute, it's different. Regulate appears in a cluster of verbs, as was said before, investigate, block, nullify, and the like. They describe embargo-like controls, prevent and prohibit for example. But they don't describe revenue exactions. That's Justice Kagan's point. The one verb that's missing here is anything about raising revenue whatsoever.
+
+( 01:17:54 ) Another point, congressional displacement. Today, there is a whole host of statutes in the tariff architecture of Title XIX which both expressly confer the power to tariff and always impose clear limits. Embargoes by the President, embargoes don't have any of that. They don't set aside that whole thing. If you look at the learning resources brief at page five, it goes through these statutes in detail. Section 122 expressly says duties and then limits it 15%, 150 days. Section 201, any duty on the imported article, but it requires ITC findings. Section 301, impose duties, that's the language of the statute, but all sorts of procedural restrictions. Section 338, the same. I can go through this and I could start by the way, Justice Thomas, with the statutes at the founding, all of which expressly said the word tariff or an equivalent.
+
+Justice Thomas ( 01:18:48 ):
+
+Let's go back to your non-delegation point. It would seem that if the tariff power cannot be delegated, your argument on non-delegation would also have to apply to embargoes and to quotas.
+
+Neal Katyal ( 01:19:06 ):
+
+No, Your Honor, because I think tariffs, because they're uniquely revenue raising, impose special, unique concerns that go back to our founding. And so I don't think that they apply to embargoes. And indeed, the history of this is very clear. As you just heard my friend say, in 1790, George Washington was delegated massive embargo power from the Congress. But what did Congress not do? And this is why the example cuts the other way. They never gave the President any sort of delegation of tariff authority at the time. Our point is not you can't delegate tariff authority. It's simply that you've got to do so with intelligible principles. And what you just heard my friend say is every single limit in IEEPA is one that is not judicially enforceable, there's no limit whatsoever. And indeed, the main limit that was in there, he calls this some compromise position. The only compromise in 1977 was the legislative veto. And as this case comes to the Court, that's no longer in the statute at all.
+
+Chief Justice Roberts ( 01:20:04 ):
+
+Counsel, yes, sure, the tariffs are a tax and that's a core power of Congress, but they're a foreign-facing tax. Right? And that foreign affairs is a core power of the Executive. And I don't think you can dismiss the consequences. I mean, we didn't stay this case. And one thing is quite clear, is that the foreign-facing tariffs have in several situations were quite-
+
+Neal Katyal ( 01:20:31 ):
+
+Right. And we are-
+
+Chief Justice Roberts ( 01:20:31 ):
+
+I'm sorry.
+
+Neal Katyal ( 01:20:31 ):
+
+I'm sorry.
+
+Chief Justice Roberts ( 01:20:32 ):
+
+Were quite effective in achieving a particular objective. So I don't think you can just separate it. And when you say, well, this is a tax, congress's power, it implicates very directly the President's foreign affairs power.
+
+Neal Katyal ( 01:20:45 ):
+
+Mr. Chief Justice, we don't disagree with a large part of that. We think instead of thinking about foreign versus domestic, the better way of thinking about it is Article I versus Article II. And as my friend finally conceded to Justice Gorsuch, there is no Article II power here, at least when we're talking about peacetime.
+
+Chief Justice Roberts ( 01:21:03 ):
+
+Well, you don't agree with a large part. What's the little part that you do disagree?
+
+Neal Katyal ( 01:21:07 ):
+
+So we agree, we agree with the idea that tariffs have foreign policy implications. Absolutely. Our founders recognized that. That's in the Federalist Papers. But nonetheless, they exclusively committed that power to the Congress in Article I Section 8 and gave it as its first power. So when you hear my friend cite cases like Egan and Garamendi, they just don't apply to this specific unique situation in which Congress has given that power. And if you were tempted by this, I think the best place to look is Youngstown. Because what Justice Jackson said, and I was surprised that he quoted pages 652 because what Justice Jackson said is, quote, "Emergency powers tend to kindle emergencies. So it's essential the public may know the extent and limitations of the powers that can be asserted and persons affected may be informed from the statute of its rights and duties." And Justice Jackson went on to say there that it's notable our founders didn't give the President revenue-raising power even in a time of war.
+
+Justice Kavanaugh ( 01:22:07 ):
+
+Can I just get a clarification of your answer? Which is you agree if the word tariff were in the statute, that would be acceptable and constitutionally permissible, correct?
+
+Neal Katyal ( 01:22:18 ):
+
+No. Well, it'd be constitutionally permissible. The question would then be is the open-ended assertion of power here because every other tariff statute [inaudible 01:22:29]-
+
+Justice Kavanaugh ( 01:22:29 ):
+
+Oh, I get it as applied to this case. But the general point is yes, Congress, you said it's assigned to Congress, but Congress can grant authority to presidents to impose tariffs as a general proposition.
+
+Neal Katyal ( 01:22:42 ):
+
+Absolutely. Absolutely.
+
+Justice Kavanaugh ( 01:22:43 ):
+
+Okay. So we have to figure out then what regulate importation means. And you've heard my questions. If this statute came out of nowhere in 1977, I think your case would be obviously stronger. We have to figure out, at least I want to figure out what the Nixon precedent stands for and what Algonquin stands for. On the Nixon precedent, the question is, I think, was Congress aware of that? Meaning that when they used regulate importation and it's now being used to encompass tariffs, that's not unheralded because Congress was well aware. President Nixon announced those tariffs in a nationwide primetime speech, 10% across the board in August 1971. It was not some kind of little piece of paper. So it was well known. The question then is was Congress, why didn't they change the language? Why didn't they say regulate but not tariffs? That's kind of the difficult question from the Nixon precedent that I'll give you an opportunity to answer.
+
+Neal Katyal ( 01:23:43 ):
+
+Thank you, Justice Kavanaugh. So five answers on the Nixon precedent. First, there is no evidence that Congress thought it was ratifying Yoshida. It was a single court of appeals case, not-
+
+Justice Kavanaugh ( 01:23:54 ):
+
+It's not something my question… I never mentioned Yoshida. It's the use by the President of that power under regulate importation.
+
+Neal Katyal ( 01:24:02 ):
+
+If we're just talking about that, President Nixon did not rely on the statute whatsoever. I mean that's very clear. In fact, we have a Marshall McLuhan moment here because you have before you Alan Wolff, the person who was there in the room with Nixon saying Nixon totally disagreed that this statute applied. So if we're just talking about Nixon, I don't think it can get the government where it wants to go.
+
+Justice Kavanaugh ( 01:24:23 ):
+
+Go to your other four.
+
+Neal Katyal ( 01:24:24 ):
+
+Yeah. So I think the only way it does any work is if the President is through the vehicle of Yoshida, and that's what I take it the government is arguing. And with respect to that, this cert denied Intermediate Court of Appeals decision I don't think can come close to overcoming the clear plain text. The word regulate, words regulate importation, the word regulate has never been used. The Congress uses the term 1,499 times. We've got about that number of hits when we looked at it. And maybe there's some double counting. But it is never used even once to impose taxes or revenue raising. And that was the question that Justice Barrett was asking. And so I don't think that this Intermediate Court of Appeals decision will get you there. And then even if you thought that Congress knew about Yoshida, even if you thought they liked it, which there's absolutely zero evidence of, I don't think that helps the government for reasons that Justice Alito was pointing to.
+
+( 01:25:21 ) Because Yoshida said three things. A, TWEA doesn't give the unlimited authority that the government is seeking here. B, they were only upholding limited specific assertion of authority that President Nixon sought there. And third, going forward, the solution they said in footnote 33 was to use section 122 of the 1974 Trade Act, 15%, 150 days. We have no problem with the President doing that. It's just that this president has torn up the entire tariff architecture. For example, he's tariffing Switzerland, one of our allies which we have a trade surplus, 39%. That is just not something that any president has ever had the power to do in our history. And the idea that Congress, by implication, did this in 1977 and handed him all this power, I think is really difficult.
+
+Justice Kavanaugh ( 01:26:14 ):
+
+Just to ask the other… Go ahead.
+
+Chief Justice Roberts ( 01:26:18 ):
+
+Justice Alito.
+
+Justice Alito ( 01:26:19 ):
+
+Let's start with just the bare statutory language. You have arguments about structure, you have arguments about history. They're strong arguments. But let's just start with the bare statutory language, regulate importation. If we disregard all of the rest, would you dispute that that would include the imposition of a fee?
+
+Neal Katyal ( 01:26:44 ):
+
+So if it's revenue, yeah, we do dispute that. Absolutely.
+
+Justice Alito ( 01:26:48 ):
+
+What if there were a statute that said, I mean suppose that there's a particular national park that's very crowded and Congress passes a statute that says the National Park Service may regulate admission to the park. Would you say, well, that does not allow them to impose a fee?
+
+Neal Katyal ( 01:27:03 ):
+
+So, Your Honor, sometimes we think of fees as not revenue raising, but rather capturing the cost of government services. In your example, going to the park, that may, those kinds of cases which [inaudible 01:27:16]-
+
+Justice Alito ( 01:27:16 ):
+
+Suppose it goes beyond the cost of running the park. Congress just wants to control admission to the park, regulate admission. Wouldn't that include the imposition of a fee?
+
+Neal Katyal ( 01:27:28 ):
+
+So if it doesn't raise revenue and it's not about that, then I think that's fine. If it does-
+
+Justice Alito ( 01:27:35 ):
+
+It raises revenue.
+
+Neal Katyal ( 01:27:36 ):
+
+Then I think it's a tougher-
+
+Justice Alito ( 01:27:37 ):
+
+That's the hypothetical. That wouldn't apply?
+
+Neal Katyal ( 01:27:40 ):
+
+So I think in that circumstance that it wouldn't be a regulation in context and wouldn't be permitted. That is at least in the context of tariffs and trade, we know, Justice Alito, [inaudible 01:27:51]-
+
+Justice Alito ( 01:27:51 ):
+
+Well, that gets into your other arguments. We start out with the bare statutory language, and that was what my question was about. Do you think all tariffs are revenue raising? Suppose that instead of imposing these across-the-board tariffs, suppose that an executive order imposed a tariff on one particular country and provided that this would take effect in 90 days. And suppose that within those 90 days, an agreement is reached with that country so that no tariff is ever collected. Would that be a revenue raising tariff?
+
+Neal Katyal ( 01:28:39 ):
+
+I take it the initial point, and on its face, it is revenue raising, that that's what it's for. And so I think that would. And look, I don't doubt that there are edge cases. That is what this Court's confronted just recently in FCC versus Consumer Research. And you said, look, what is tax is sometimes very hard. What is revenue raising? This is obviously revenue raising. Their own brief to the Court says it's going to raise $4 trillion. And Justice Alito, you in your Consumers Research dissent, or Justice Gorsuch's dissent that you joined said taxation is special and different and it is the most powerful thing the government does. And the idea that Congress, when they know exactly how to write tariff and tax statutes, gave this power by implication through the word regulate, I think is very, very hard to [inaudible 01:29:28].
+
+Justice Alito ( 01:29:27 ):
+
+Well, you cite many different statutory provisions that impose tariffs, and you have a point if that's the relevant universe. What if the relevant universe is tariffs that are imposed in emergency situations?
+
+Neal Katyal ( 01:29:45 ):
+
+Yes. So I think it cuts the other way. So as Justice Jackson said, when you're in an emergency situation, the statutes actually have to speak with more precision. The public needs to know because emergencies beget emergencies. And I would say the best way of understanding what Congress does in emergencies is to look at their emergency statutes. Not one has ever given the President a taxation power or a tariff power. We've had all sorts of emergencies for 238 years. No president has ever said, oh, the way to deal with that is I need to have a tariff authority. And as Justice Sotomayor said, IEEPA gives already a quota power, so you can get what the foreign policy piece of it is through that. I'd also say, Justice Alito, Dames & Moore, which the Chief Justice referred to earlier, I think is really important here because the Solicitor General in that case made a similar argument to what you just heard on the claims provisions. He said it falls within regulate. Regulate is a capacious term. He said, Justice Alito, what you said, this is an emergency situation. And he said, you've got to defer to the President on a major issue of national security about this very statute. And what did the Court do? It rejected those arguments and said IEEPA doesn't cover that.
+
+Justice Alito ( 01:31:01 ):
+
+If you say that this is not, this case does not, these executive orders do not address an unusual and extraordinary threat, I understand that argument. Suppose that the facts were that it was… Suppose that there was an imminent threat of war, not a declared war, but an imminent threat of war with a very powerful enemy whose economy was heavily dependent on US trade. Could a president under this provision impose a tariff as a way of trying to stave off that war, or would you say no, the President lacks that power?
+
+Neal Katyal ( 01:31:43 ):
+
+Couldn't do tariff but could do quota, embargo, all of those things.
+
+Justice Alito ( 01:31:49 ):
+
+Could do all those things, but the President could not impose a tariff. That's the one thing he couldn't do.
+
+Neal Katyal ( 01:31:52 ):
+
+There's a category shift between a tariff and the other eight powers in IEEPA because it is revenue raising. So it's not a difference in degree or something like that. That's why. I don't doubt tomorrow-
+
+Justice Alito ( 01:32:03 ):
+
+Even if the purpose of this, this has had nothing whatsoever to do with raising one penny, the President didn't want to raise one penny, the President wanted to deter aggression that would bring the United States into a war. You would say, no, can't do that.
+
+Neal Katyal ( 01:32:15 ):
+
+Yeah, Justice Alito, I think you've said many times the purpose isn't what you look at. You look to actually what the government is doing. And if you disagree, if you think we're, or excuse me, if you ruled for us and the President says, "I need this power," he can go across the street to Congress tomorrow and get it by a simple majority through reconciliation. But if you vote for them, this power, as Justice Gorsuch said, as Justice Barrett said, is going to be stuck with us forever, the power to jump-
+
+Justice Kavanaugh ( 01:32:44 ):
+
+Can I ask you…
+
+Justice Gorsuch ( 01:32:45 ):
+
+I want… Okay. I just wanted to give you a chance to address the other argument that's been submerged here textually. Again, just bare text for a moment. Okay? We've been focused on regulate importation,
+
+Justice Gorsuch ( 01:33:00 ):
+
+… but actually the statute says the president may by means of licenses or otherwise regulate importation. And we've had some discussion today about the fact that maybe the president could simply re-characterize these tariffs as licenses or rejigger the scheme so that they are licenses. We've also heard this suggestion that otherwise, licenses and tariffs are very similar, so otherwise might encompass tariffs there. Thoughts?
+
+Neal Katyal ( 01:33:35 ):
+
+Yeah, a few thoughts, Justice Gorsuch. First is the SG is not even making that argument and I think they're not making it for a number of reasons. One is that there's a strong presumption against reading statutes this way in the unique tax and duties context. Hartrampf is one of those cases which says if there's doubt, you don't read the statute to confer such powers. Second, if you were to do that, it's open-ended, and this was your hypothetical, it allows under the word license them to tariff the world and-
+
+Justice Gorsuch ( 01:34:07 ):
+
+It seems like you're putting a major questions thumb or an interpretive lens thumb on the plain text there. Is that fair?
+
+Neal Katyal ( 01:34:15 ):
+
+You could call it major questions. I just think it's like Justice Barrett said in Nebraska versus Biden, the most natural way of understanding what the statute is about. We're talking about under the government's reading, a statute that gives the power to the president to junk the entire territory-
+
+Justice Gorsuch ( 01:34:30 ):
+
+I understand that, but you are not disputing licenses or otherwise means what it says. You're saying that we should interpret that narrowly for particular reasons.
+
+Neal Katyal ( 01:34:40 ):
+
+Well, I think I am disputing it as well. I think the license is something Justice Sotomayor was saying, "Don't expand the power. They are not verbs and so it is limited to the nine verbs there."
+
+Justice Gorsuch ( 01:34:51 ):
+
+No, I understand that.
+
+Neal Katyal ( 01:34:51 ):
+
+And so regulate, I don't think-
+
+Justice Gorsuch ( 01:34:54 ):
+
+Thank you.
+
+Neal Katyal ( 01:34:54 ):
+
+You counsel. Justice Thomas, anything further?
+
+Justice Thomas ( 01:34:58 ):
+
+I'd like to just revisit the point that Justice Alito was making with a similar question. If one of our major trading partners, for example China held a US citizen hostage, could the president short of embargoing or setting quotas say the most effective way to gain leverage is to impose a tariff for the purpose of leveraging his position to recover our hostage?
+
+Neal Katyal ( 01:35:34 ):
+
+No, your honor. So tariffs are different because they're revenue raising and I think it goes to the point I was saying to you in our very first colloquy, which is quotas, embargoes and stuff are different for a different reason, which is there's a Tariff architecture around Title XIX. In Title XIX that in tariff would like in your hypothetical would supersede. And here the president is seeking the power to set aside all of our trade treaties unilaterally under the word regulate. I just don't think it can bear that weight.
+
+Justice Thomas ( 01:36:07 ):
+
+Justice Alito.
+
+Justice Alito ( 01:36:09 ):
+
+You mentioned other tariff provisions that you think would be rendered redundant if we adopted the government's interpretation of IEEPA. One that you didn't mention, which is discussed in an amicus brief is section 338 of the Tariff Act of 1930. Why doesn't the plain language of that provision, which does speak specifically about duties, provide a basis for all or virtually all of the tariffs that are at issue here?
+
+Neal Katyal ( 01:36:44 ):
+
+Yeah, the government's never made that argument, Justice Alito, and I think for very good reason because it only applies to MFN violations which are not at issue here. You can only tariff if the president, quote, "finds as a fact" that a country satisfies two conditions, including that it discriminates against the United States. There also is a host of other reasons why Section 3 38 may have lapsed and that's why no president has ever used it. But look, we are not-
+
+Justice Alito ( 01:37:09 ):
+
+What is the argument that it's lapsed, it's regrettable and we put this case on a very expedited schedule and therefore there are limitations on what and the party's ability to answer each other's arguments or arguments that are made by amici. The amicus brief says that it hasn't lapsed. There are articles that say it hasn't lapsed. What is the basis for your argument that it lapsed?
+
+Neal Katyal ( 01:37:36 ):
+
+So two things, Justice Alito, sections 252 and 301 have been understood by many to have superseded section 338 and second, I don't think you have to get into this issue at all. We're not here saying that the government doesn't have a 338 power. That's something that can be decided by other courts at other times. As these folks come to the court, as the government comes to the court today, they're citing one statute and one statute only IEEPA, and we submit to you, it doesn't come even close to authorizing these worldwide terrorists that they [inaudible 01:38:07]
+
+Justice Alito ( 01:38:07 ):
+
+Well what if the president tomorrow were to say, "I'm reissuing these executive orders and I'm invoking in addition to other authorities section 338 of the Tariff Act 1930."
+
+Neal Katyal ( 01:38:21 ):
+
+I think at that point we'd have that case. I mean I'm not here to say that 338 does or doesn't do one thing. I'm responding to the government's argument, which is the invocation of IEEPA and IEEPA alone. But perhaps that point, Justice Alito, may give some folks some comfort.
+
+Justice Alito ( 01:38:36 ):
+
+I mean I understand party presentation and all of that and not being a court of first view, but in these circumstances if that were to happen and it might be a realistic possibility, you think, "Well, okay, then the government would continue to try to collect these tariffs and the plaintiffs here would have to go back to the court of international trade or the district court and challenge it again and it would have to progress through those lower courts and come back to us when?" A year from now, six months from now while the tariffs continue to be collected and the amount that sets stake mounts into the billions. I mean what are we at now? A hundred billion. We get up to a trillion. That's what you're suggesting.
+
+Neal Katyal ( 01:39:23 ):
+
+So, Justice Alito, I think a few things. One is I think it's rich for the government to be making this argument about the refunds undermining us because they opposed the preliminary injunction in this case by saying, "Oh, don't worry, we'll give the refunds later." And they sought to stay in the federal Circuit on exactly that ground, which was you don't need to implement the federal Circuit's decision because we'll give the refunds later on. And now they're suggesting-
+
+Justice Alito ( 01:39:48 ):
+
+Well, that really wasn't, that wasn't my question, Mr. Katyal. The question was whether it would make more sense for us to address that if that is a possible justification for these tariffs for us to address that now and get it over with rather than having this continue for who knows how long while it goes through the procedures in the lower courts.
+
+Neal Katyal ( 01:40:09 ):
+
+Justice Alito, I think that is forfeited nine ways to Sunday. This amicus brief has been filed in every single stage of this case. The government's never embraced that argument. For them to be able to do so now I think is way, way too late. But I do think if you ruled as we're suggesting you do against the government, they can go and try and seek to use other authorities whether it's 338 section 122, et cetera. Those are the ways prescribed by the Congress. And as Justice Kavanaugh was saying earlier, every other president has used all this suite of other authorities, 201 for steel, for autos and things like that, 301 for countries like China. This president has come along and said something different and with all due respect, we don't think IEEPA allows him to do this junking of the worldwide tariff architecture.
+
+Justice Alito ( 01:40:58 ):
+
+And what were the views of President Trump's immediate predecessors on the question of imposing tariffs or allowing free trade? What was their policy view on that question?
+
+Neal Katyal ( 01:41:12 ):
+
+There's been a variety of different views about that, but my friend said, "Well, prior presidents had no occasion to use the tariff power," which is belied by the very executive order he's defending here, which says that the trade deficits have been large and persistent every single quarter since 1976. And we've had trade wars. President Reagan initiated different ones and the use of different authorities, but never once did a president try and seek IEEPA as the basis to rewrite the entire tariff code.
+
+Justice Alito ( 01:41:48 ):
+
+I found it interesting to hear you make the non-delegation argument Mr. Katyal. I wonder if you ever thought that your legacy as a constitutional advocate would be the man who revived the non-delegation argument?
+
+Neal Katyal ( 01:42:05 ):
+
+Heck yes, Justice Alito. I think Justice Gorsuch nailed it on the head when saying that when you're dealing with a statute that is this open-ended unlike anything we've ever seen to give the president this kind of power. Yes. This isn't just delegation running riot. This is delegation that's a legislative application.
+
+Justice Alito ( 01:42:24 ):
+
+Wouldn't you agree that statutes that confer on the president real emergency powers are often phrased much more broadly than other statutes, isn't it the very nature of an emergency? I know you dispute the fact that this is a real emergency, maybe it's not, but isn't it the very nature of an emergency provision that is going to be more open-ended?
+
+Neal Katyal ( 01:42:47 ):
+
+So, Justice Alito, we think it actually cuts the other way. As I was saying earlier, that's what Justice Jackson said, and you already confronted that in Dames & Moore and said it's not that open-ended even though it's an emergency. And by the way, other emergency statutes have very serious limits. Section 122 is literally about President Nixon's proclamation of an emergency. That's what it's about. And it's limited 15%, 150 days.
+
+Justice Alito ( 01:43:13 ):
+
+What about the authorization for the use of military force in 2001, which gave the president the power to use all appropriate force? That's pretty open-ended. Would you apply the same non-delegation argument there that you do here?
+
+Neal Katyal ( 01:43:33 ):
+
+Of course not. Because there you have shared powers between the president and Article I and Article II. Powers that's what I was saying [inaudible 01:43:40]
+
+Justice Alito ( 01:43:39 ):
+
+Well, it gets into the question of whether it was delegated or not, what was the scope of the delegation?
+
+Neal Katyal ( 01:43:44 ):
+
+Absolutely. But there it's military. There's a whole unique history behind that. But here you're talking about something that is exclusively committed to Congress in Article I. and there, yes, when you have delegations, I would say, Justice Alito, even when you have delegations in some military cases in emergency statutes, they have all sorts of limits. So 10 USC 2808 says that in a declaration of war or a national emergency, the president can, quote, "undertake military construction necessary to support emergency use of the armed forces-
+
+Justice Alito ( 01:44:17 ):
+
+Thank you very much.
+
+Neal Katyal ( 01:44:18 ):
+
+… but it has limits."
+
+Justice Thomas ( 01:44:18 ):
+
+Justice Sotomayor.
+
+Justice Sotomayor ( 01:44:21 ):
+
+I'm fascinated that the two instances where presidents have used their war powers to impose a tariff, Lincoln and Nixon, that Congress found it necessary to ratify their actions. And that the court in both those cases, the intermediate court of Appeals in Nixon and our own court included that as part of their reasoning as justifying the use of war power in that situation. So I'm a little concerned why the fact that this act, a domestic act on emergency that uses a general word like regulate should take on a war power's meaning when in every other situation, whenever Congress intended domestic taxation, it said tax and regulate.
+
+Neal Katyal ( 01:45:22 ):
+
+Oh, Justice Sotomayor. I wish I had an hour to talk about this with you because this is just this argument by the government advanced in their reply brief is wrong every which way.
+
+Justice Sotomayor ( 01:45:32 ):
+
+I'm saying that's your sixth way of differentiating UCEDA, correct? That was a war power's case
+
+Neal Katyal ( 01:45:38 ):
+
+It's a war power's case. It's about conquered territory. It has nothing to do whatsoever with domestic tariffs. And absolutely you're right in saying that the way that court, even in those cases, even at the height of the government's war powers, they said Congress had to ratify it. And that's what page 96-
+
+Justice Sotomayor ( 01:45:58 ):
+
+And that hasn't happened here.
+
+Neal Katyal ( 01:45:59 ):
+
+That has not happened here. Not even close.
+
+Justice Sotomayor ( 01:46:01 ):
+
+Well, it might not with Congress close, but they can't even think about it right now. I'm going to assume, and maybe he can shake his head yes or no, that Justice Kavanaugh will ask you to go to Algonquin, which you didn't answer and he's shaking his head, so I'll let him do that part. Okay.
+
+Neal Katyal ( 01:46:20 ):
+
+Excellent. Algonquin, your Honor is under-
+
+Justice Sotomayor ( 01:46:23 ):
+
+No, I'll let him do it.
+
+Neal Katyal ( 01:46:24 ):
+
+Oh, sorry sir.
+
+Justice Sotomayor ( 01:46:27 ):
+
+He can, it was his question, but I want to make sure you get to it.
+
+Justice Thomas ( 01:46:30 ):
+
+We'll hear from Justice Kagan first.
+
+Justice Kagan ( 01:46:33 ):
+
+I have one specific question, one more general question. The specific question is does it matter in the way we think about IEEPA, what Congress thought it was doing in IEEPA, what IEEPA in fact did that at the time Congress thought it had available to it a legislative veto?
+
+Neal Katyal ( 01:46:52 ):
+
+I do think it's relevant at least for delegation purposes because as this case comes to the court, the one check that was in there, the so-called compromise is a legislative veto which now no longer exists. And that's why I said to Justice Alito, this statute now looks unlike any other statute with respect to tariffs [inaudible 01:47:12]
+
+Justice Kagan ( 01:47:11 ):
+
+I guess I'm wondering whether though it cuts against you as well that Congress thought it had a legislative veto, so didn't put in a variety of checks that it might've put in had it not thought it had a legislative veto and that's just tough luck on Congress now.
+
+Neal Katyal ( 01:47:27 ):
+
+Yeah, I don't think so. I mean, Justice Kagan, I think it's a very tough common-sense argument to make because every single delegation of tariff-powered statute from Congress to the president always has limits. And including know Section 121 passed just right before IEEPA had in the case of the exact problem that this executive order is dealing with large and serious trade deficits. It said the way to deal with it is 15%, 150 days. The idea that three years later they just said, "Oh no junk the rule book," I think is very difficult and no Congress I think would rely just on the legislative veto for such a thing of such momentous importance. As you said to my colleague earlier, why would any president look to all of the different tariffs statutes in Title XIX if you can just IEEPA them all, French Revolution them all.
+
+Justice Kagan ( 01:48:18 ):
+
+General Sauer rests a lot on the president's inherent authority. And I want to make sure I understand your answer to the chief justice and to Justice Alito as to where you think that authority exists in a way that actually would affect our interpretation of a statute and where you think it doesn't. And why this falls into the second category given that in General Sauer's view, this is obviously what the chief justice foreign facing.
+
+Neal Katyal ( 01:48:47 ):
+
+So it may be foreign facing, but there is still no article two power whatsoever. There is no citation whatsoever in the government's brief to any notion that that president has article two tariff authority. Now look, I will say in wartime, conquered territory maybe, but this is not a wartime or conquered territory statute or a use of the statute. They are tariffing the entire world in peacetime and they are doing it and asserting a power that no president in our history has ever had. Even Justice Kavanaugh's example of Nixon really far more limited, didn't blow past Congress's limits as was said in Yoshida. This is a whole different animal and maybe Congress has that power as I agree with Justice Gorsuch, I don't think that it does, but boy they got to say so really clearly. And here there's nothing like that in the text of IEEPA.
+
+Justice Kagan ( 01:49:41 ):
+
+Thank you.
+
+Justice Thomas ( 01:49:42 ):
+
+Justice Gorsuch.
+
+Justice Gorsuch ( 01:49:44 ):
+
+I don't know if I agree with what you say I say, but at any rate, back to the plain language and just stick with me for a moment. The Constitution says that Congress gets to regulate commerce and everybody understood that that meant and included the power to tariff, Story Madison. Okay, so that's sort of a problem, right? Regulate is a capacious verb and then you've got the otherwise language as well, which we've sort of discussed. And just on the plain language, forget about the backdrop of major, do you need major questions to win? I kind of think you might.
+
+Neal Katyal ( 01:50:28 ):
+
+No, I don't think so. I mean if we did, I think we'd win for reasons expressed, but I don't think so at all. So, Justice Gorsuch, our position is not that regulate can never mean tax or tariff. A brief at page 15 gives you an example. A president may regulate cars coming in to the city and then if it adds by charging tolls or something like that, absolutely, in context it does. Here are the context you're referring to Story and so on says nothing about this case that is the constitutional context about Congress's use of power.
+
+Justice Gorsuch ( 01:51:01 ):
+
+But it's part of how we understand languages used and it's relevant for that purpose. And then when you've got licenses which are economically the same thing, would you agree they're basically economically the same thing as tariffs?
+
+Neal Katyal ( 01:51:16 ):
+
+Sometimes they can be [inaudible 01:51:17]
+
+Justice Gorsuch ( 01:51:17 ):
+
+Okay, so you've got something that's economically identical to a tariff authorized by this statute. Where does that leave you?
+
+Neal Katyal ( 01:51:24 ):
+
+So let me-
+
+Justice Gorsuch ( 01:51:25 ):
+
+As a matter plain language.
+
+Neal Katyal ( 01:51:26 ):
+
+Let me take the question in two parts. One is about the word regulate and the other is about licensing. With respect to the word regulate. When it's used in the constitutional sense, it's very different than the sense in IEEPA that my friend is asserting. When we're asserting IEEPA, we're talking about a statute that is granting the president massive powers. And so the relevant context that I think you look at in asking the question, what did Congress mean in 1977, the best context, the most natural context is what does Congress say every time they grant the president such power.
+
+Justice Gorsuch ( 01:52:00 ):
+
+I understand that. I understand.
+
+Neal Katyal ( 01:52:02 ):
+
+And then just the one other point on this, constitutions are read totally differently Story and Madison are talking about the constitutional phrase. And as Chief Justice Marshall said in McCulloch, a constitutional expounding, the prolixity of a legal code is the opposite of the way you read the Constitution.
+
+Justice Gorsuch ( 01:52:17 ):
+
+I do follow that argument.
+
+Neal Katyal ( 01:52:18 ):
+
+Okay.
+
+Justice Gorsuch ( 01:52:19 ):
+
+What about otherwise? Again, I just really want to make sure I understand. You say that there's a good reason why the solicitor general didn't make that argument. I'll be curious to see what he has to say about that. But what's your best reasoning why the otherwise language doesn't pass this?
+
+Neal Katyal ( 01:52:34 ):
+
+Because it's only a mechanism to implement the nine powers and that licenses sometimes can be revenue raising and sometimes not.
+
+Justice Gorsuch ( 01:52:43 ):
+
+So if licenses can be revenue raising and you can do this otherwise through revenue raising things, why wouldn't that capture tariffs?
+
+Neal Katyal ( 01:52:51 ):
+
+So because I think again, our point to you is that licenses come in two flavors. If an executive order is asserting a license fee to recoup the cost of government services or something like that, as I was saying to Justice Alito, that doesn't look different than the other verbs. That's not revenue raising. It doesn't implicate the founders concern. It doesn't implicate the concerns you wrote about in consumer's research about the fear of the government.
+
+Justice Gorsuch ( 01:53:21 ):
+
+You're not answering my question though, Mr. Katyal. I'm talking about just the plain text here and you're moving to a major questions or a non… that's the move you're making, which I think fine, we can consider that. I'm just talking about on the text, okay? It says by means of licenses or otherwise, you've conceded that licenses are economically equivalent to tariffs. And the statute says by means of licenses or otherwise regulate.
+
+Neal Katyal ( 01:53:49 ):
+
+It's only a means. And we looked at the history-
+
+Justice Gorsuch ( 01:53:51 ):
+
+Yeah, it's a means why isn't tariffs a permissible means on the statute?
+
+Neal Katyal ( 01:53:55 ):
+
+Because again, it has to be related to the nine powers that are given.
+
+Justice Gorsuch ( 01:53:59 ):
+
+Well license can be, we have to acknowledge that. And you've said a license can raise revenue and you've said license is equivalent to a tariff economically. So what about otherwise?
+
+Neal Katyal ( 01:54:09 ):
+
+Justice Gorsuch, if the license were the otherwise is raising revenue, then it is a difference in kind from the other verbs. And we looked at the history of licenses-
+
+Justice Gorsuch ( 01:54:19 ):
+
+Those aren't verbs either.
+
+Neal Katyal ( 01:54:20 ):
+
+… under TWEA and we were not able to find any involving licenses or license fees.
+
+Justice Gorsuch ( 01:54:24 ):
+
+Okay, last question a little further afield. The parties discussed a little bit the analogy to the Foreign Commerce Clause. Of course next to it is the Indian Commerce Clause and delegations there were very broad initially and involved licenses once again. And why shouldn't that inform our understanding of the Foreign Commerce Clause?
+
+Neal Katyal ( 01:54:51 ):
+
+I don't know that I have a position on that. It maybe is a little too afield for me to-
+
+Justice Gorsuch ( 01:54:57 ):
+
+Well, if the president has broad authority in one part of the Commerce Clause, why wouldn't he have in the next door neighbor?
+
+Neal Katyal ( 01:55:04 ):
+
+Oh, I see. Because here Congress has specifically been given the exclusive power over tariffs. And so if they're to part with it, I think as this court has said in J.W. Hampton, which is a tariffs case.
+
+Justice Gorsuch ( 01:55:15 ):
+
+You'd say the same principle would apply with tariffs with the Indian Commerce Clause is a tariff-specific argument.
+
+Neal Katyal ( 01:55:21 ):
+
+I think it's at least intelligible principles is what this court has used for tariffs specifically. And we think that's the way you should look at this. And then under intelligible principles, this is miles away from any delegation we have ever seen.
+
+Justice Gorsuch ( 01:55:34 ):
+
+Thank you.
+
+Justice Thomas ( 01:55:35 ):
+
+Justice Kavanaugh.
+
+Justice Kavanaugh ( 01:55:37 ):
+
+Just on the Nixon point, because you said I think that the current tariffs are unprecedented. I mean that was a 10% worldwide tax on every import into the United States, I believe. I mean I just think that's a fact. You have arguments about that. You made good arguments about that. But just wanted that point to be clear. On Algonquin, to pick up on Justice Sotomayor's kind assist. Your argument here is that the statute has to use the word tariffs, I think basically, and we went through Nixon and Yoshida, but then Algonquin, the statute for 232 does not use the word tariffs. It uses adjust imports. And President Ford had imposed, again, a pretty significant tariff on oil imports. It was challenged, it got to this court, the attorneys standing where you are stood up and said, "The license fee now before the court involves the broadest exercise of the tariff power in the history of the American Republic."
+
+( 01:56:41 ) In fact, we would've to go back to George III's stamp tax to determine as broad and executive power is claimed in this case, the statute is a simple one. It does not mention the tariff on its face. The argument there was the word tariff was not mentioned, used to just imports. The court, obviously 90 rejects that argument in part because as others have pointed out, the court does a lot of questioning, "Well, what's the difference between a quota and a tariff and what's the difference between an embargo and a tariff?" And so when the court writes the opinion, it says we find no support in the language of the statute, the language for respondents contention that the authorization of the present to adjust imports should be written to encompass only quantitative methods, i.e. quotas as opposed to monetary methods. i.E. license fees of effecting such adjustments. So on your basic point that you need the word tariff, Algonquin says you don't need the word tariff. And that was President Ford's oil imports, it's 90, the oral argument goes through this. Your answer.
+
+Neal Katyal ( 01:57:54 ):
+
+There's a lot there. Justice Kavanaugh also, please bear with me first I'd like to just-
+
+Justice Kavanaugh ( 01:57:58 ):
+
+I will.
+
+Neal Katyal ( 01:57:59 ):
+
+… clarify what our position is generally and then deal with Algonquin. Our position is not that you have to use the word tariff or any other magic word. It's true that Congress has used a specialized vocabulary since the founding, since 1790 using words like tariffs or duties. But as I was saying earlier to Justice Gorsuch, you could even use the word regulate as page 15 of our brief says. Or you could even imagine something that says, quote, "The president may regulate importation by requiring importers to pay 10% of the value of goods to the treasury. So I don't think you have to use any particular word." The question is in context, does it-
+
+Justice Kavanaugh ( 01:58:35 ):
+
+Algonquin didn't have anything like that, but keep going.
+
+Neal Katyal ( 01:58:37 ):
+
+So Algonquin does have I think a context that's miles apart from what the government is seeking here to do with IEEPA. So first of all, it is a common sense statute. I understand there's some rhetoric by common sense reading in the statute. I know there's some rhetoric by the lawyer who stood here before, which is of course forgivable. But it was a statute about one product. 232 is article by article. It's one product. This is a billion products or even more that the government is seeking. The Algonquin was expressly a trade statute. It was the 1962 Trade Act. It's everything this case isn't. Algonquin had a specific reference to the word duties in a separate provision. Algonquin had a legislative history that was clear as day that the president was given this power. And I understand this court today doesn't look to the legislative history, but the way Algonquin got to where it was was by saying the legislative history, the chief sponsor of the act-
+
+Justice Kavanaugh ( 01:59:38 ):
+
+I think I'll disagree with you on that. It does a plain text and then says, "Is there anything in the legislative history to defeat the plain text?" So I disagree pretty strongly with you on that, but it doesn't defeat your point. Keep going.
+
+Neal Katyal ( 01:59:48 ):
+
+Okay. So I'd also say and maybe the most important point, our point argument is not just that you have to specifically authorize a tariff with some sort of word, but also that one way of understanding whether Congress is delegating its awesome tariff power, its awesome taxing power is to ask are there limits to what Congress has put in? And in Algonquin in section 232, the court points to and goes painstakingly through all the limits. The first words of the decision are all about how constrained the statute is. It's a reticulated scheme. The cabinet secretaries have to make certain findings. There are specific statutory factors Congress says the president must look at before acting. There are public hearings, there are limited remedies, quote, "to the extent necessary". All of that is in the statute. All of that is in the Algonquin opinion. None of it is in IEEPA. That's the problem. And that's why just like Dames & Moore, the Algonquin case said, "This is a very limited decision, limited just to the facts."
+
+Justice Kavanaugh ( 02:00:52 ):
+
+Thank you
+
+Justice Thomas ( 02:00:53 ):
+
+Justice Barrett.
+
+Justice Barrett ( 02:00:54 ):
+
+So this license thing is important to me. And do you agree that pursuant to IEEPA, the president could regulate commerce by imposing a license fee?
+
+Neal Katyal ( 02:01:08 ):
+
+Sorry, could you say that again?
+
+Justice Barrett ( 02:01:09 ):
+
+Could the president regulate commerce under IEEPA by using a licensing fee?
+
+Neal Katyal ( 02:01:14 ):
+
+Not a fee. So I should have said this earlier, but license is different from a licensing fee. IEEPA and TWEA authorize licenses, not license fees. And no president has ever charged to my knowledge fees under those two statutes for the licenses. So fees impermissible, licenses-
+
+Justice Barrett ( 02:01:35 ):
+
+Fees impermissible if they cover the costs of the scheme?
+
+Neal Katyal ( 02:01:39 ):
+
+Might be. Might be. I mean, but once they start revenue raising, you implicate the most serious concerns.
+
+Justice Barrett ( 02:01:46 ):
+
+But I thought you conceded to Justice Gorsuch, there was no difference between a tariff and a licensing fee functionally.
+
+Neal Katyal ( 02:01:52 ):
+
+I didn't concede that. So if the licensing fee is just to recoup the cost of government services, I think that may be okay. I don't think you need to get into it. Here the government is asserting a power which they say in their briefs to you raises $4 trillion.
+
+Justice Barrett ( 02:02:10 ):
+
+So you understand the statute to permit licensing in the sense of permission. We will not allow you to trade with us. We will not allow your goods to be imported unless we license it.
+
+Neal Katyal ( 02:02:24 ):
+
+Absolutely. And, Justice Barrett, I think just the natural reading, if you're to look at the word licenses and think, " Wow, Congress smuggled this incredible power to do all of these different things that the government is doing here, 39% taxes on some countries and others through the word license." That's a tough-
+
+Justice Barrett ( 02:02:42 ):
+
+Can you license exportation?
+
+Neal Katyal ( 02:02:45 ):
+
+I don't think so. For the reason that [inaudible 02:02:48]
+
+Justice Barrett ( 02:02:47 ):
+
+Well, right now I actually looked into this. I mean I think maybe not licensing fees-
+
+Neal Katyal ( 02:02:51 ):
+
+Fees, exactly.
+
+Justice Barrett ( 02:02:52 ):
+
+… but could you license exportation, like saying we're not going to allow certain products that have national security implications to be exported.
+
+Neal Katyal ( 02:02:59 ):
+
+Yes.
+
+Justice Barrett ( 02:02:59 ):
+
+So licensing could be used in that sense not as a revenue aging regime.
+
+Neal Katyal ( 02:03:03 ):
+
+Correct. Yes.
+
+Justice Barrett ( 02:03:03 ):
+
+Okay. So you went back and forth with Justice Gorsuch about the implications of the president's authority over foreign affairs and whether the major questions' doctrine applies. You say that in IEEPA the president's war powers are not implicated. And that was part of the reason why you say that we should think of this differently than some of the historical examples where the commander in chief power, war powers were implicated, but the same language appears in the Trading with the Enemies Act in which war powers would be implicated. So do you think that language should be… and of course that is what President Nixon relied on. Do you think that the language would be interpreted differently in that context even though the commander in chief power and the war power would be implicated?
+
+Neal Katyal ( 02:03:48 ):
+
+100%. I think it would be interpreted differently. Justice Jackson-
+
+Justice Barrett ( 02:03:51 ):
+
+Same regulate commerce language?
+
+Neal Katyal ( 02:03:52 ):
+
+Yes. Because once you're carrying over wartime precedents to peacetime for reasons [inaudible 02:03:59]
+
+Justice Barrett ( 02:03:58 ):
+
+Okay, I don't understand that then because
+
+Justice Barrett ( 02:04:00 ):
+
+Because everybody agrees the language and IEEPA came from the Trading with the Enemy Act. So you're saying it has one meaning in the Trading with the Enemy Act and a different meaning in IEEPA that same regulate commerce?
+
+Neal Katyal ( 02:04:10 ):
+
+No, I think that the Conquered Territory language and all of that may go to the President's Article Two powers as inherent powers in Conquered Territory, but I don't think it gets the government where they need to go. The CAC brief and the brief by Professor Paul Steven goes through and explains why in 1933, when Congress decided to bring these concepts into peace time, it severed the wartime roots. And there's an extensive legislative history.
+
+Justice Barrett ( 02:04:37 ):
+
+Okay. I understand that, but I thought that was about… Maybe I'm just not tracking. I mean, I think there's been some discussion of whether the President would have inherent Article Two authority in wartime to impose tariffs to this end. Is that what you're talking about? Are you actually talking about a statute that said regulate importation in wartime? And you think it could have the tariff power conferred through that language in a war making statute, but not in IEEPA?
+
+Neal Katyal ( 02:05:06 ):
+
+No, I don't think it confers it in either place. I think the President, it's located, the President's power in Conquered Territory is not in the trading with Enemies Act or anything like that.
+
+Justice Barrett ( 02:05:16 ):
+
+Okay. So it's inherent constitutional power coming from the law of war. Okay. And then if you win, tell me how the reimbursement process would work. Would it be a complete mess? I mean, you're saying before the government promised reimbursement and now you're saying, " Oh, well, that's rich." But how would this work? It seems to me like it could be a mess.
+
+Neal Katyal ( 02:05:34 ):
+
+So the first thing I'd say is that just underscores just how major a question this is. The very fact that you were dealing with this with quotas, there's no refund process to the tunes of billions of dollars or embargoes, but there is here. But for our case, the way it would work is in this case, the government stipulated for the five plaintiffs that they would get the refunds. So for us, that's how it would work. Your question, I take it, is about everyone else. We don't have a class action or anything like that. With respect to everyone else, there's a whole specialized body of trade law. And 19 USC 1514 outlines all these administrative procedures. It's a very complicated thing. There's got to be an administrative protest. There was a harbor management case earlier that this court was involved with in United States Shoe in which the refund process took a long time. There were any number of claims and equitable relief.
+
+Justice Barrett ( 02:06:26 ):
+
+So a mess.
+
+Neal Katyal ( 02:06:27 ):
+
+So it's difficult. Absolutely. We don't deny that it's difficult, but I think what this court has said in the McKesson case in 1990 is that serious economic dislocation isn't a reason to do something. Northern pipeline, you guys staged your decision for a while in order to let the congressional process unfold. There may be a congressional process here as well. You may be able to also be that this court could limit its decision to prospective relief under the John Q. Hammonds case. So there's lots of possibilities.
+
+Chief Justice Roberts ( 02:07:00 ):
+
+Justice Jackson?
+
+Justice Jackson ( 02:07:01 ):
+
+So I think I read Algonquin differently than Justice Kavanaugh. When I look at its analysis, it absolutely does a textual review, but then it says, "Turning from Section 232's language to its legislative history," again, there is much to suggest that the President's authority extends to the imposition of monetary exactions. And I appreciate that perhaps that factor is no longer in vogue, but did you look into the legislative history here to determine whether there is anything that supports the conclusion that Congress actually intended for this IEEPA statute to allow or authorize the President to impose these tariffs?
+
+Neal Katyal ( 02:07:47 ):
+
+I did. And if I blinked, I would miss it, because it was virtually nothing. And in fact, both page two of both the House and Senate report outline all of the powers that are given under IEEPA, and none of them have tariff. There's one brief mention of tariff in the legislative history, but nothing else. And by the way, IEEPA passed by voice vote. It was not controversial. We don't deny IEEPA as a big major statute. But the question is, did it authorize tariffs? One of the most contested things since our founding-
+
+Justice Jackson ( 02:08:22 ):
+
+And you say there's nothing in the legislative history to suggest it. Now, to the extent that Congress did authorize the President to do something, that those verbs are there, that the Congress was giving the President some authority, do you see a theme connecting those verbs? What was Congress trying to do? And let me just say that I see in the Senate report, which I mentioned earlier, that Congress says that it was trying to give the President the authority to "control or freeze property transactions where a foreign interest is involved." And that seems to dovetail with the verbs that are being used in the statute, but what's your view of what Congress was trying to do with this legislation?
+
+Neal Katyal ( 02:09:02 ):
+
+That's exactly right. They're responding to all sorts of foreign policy emergencies and foreign threats, and they're giving the President economic sanctions power.
+
+Justice Jackson ( 02:09:12 ):
+
+So what does the word regulate importation do under that framework? If we understand that Congress was trying to give this kind of embargo authority in the time of an emergency, when it says regulate importation, what was it envisioning?
+
+Neal Katyal ( 02:09:28 ):
+
+It was envisioning all the things that the President since 1977, going back to Justice Kavanaugh's question, have used it for. So they've used it for quotas like limitations on the number of goods. They've used it for screening and reporting requirements like Executive Order 12-284 about reporting property of the Shaw. And they've used it for standards like domestic safety standards, environmental standards, labor requirements. They've used it for embargoes. So all of those are things that I think Congress had in mind in IEEPA. And I think the proof of this, that it's not this massive statute that allows the government to do anything is Dames and Moore itself because this court rejected the idea that regulate includes the claims extinguishment that was at issue in that case. It's a much more limited statute.
+
+( 02:10:18 ) And Justice Jackson, there was a predecessor Justice Jackson who said that, "For all its defects, delays and inconveniences, men have discovered no technique for long preserving free government except that the executive be under the law and that the law be made by parliamentary deliberations. Such institutions may be just destined to pass away, but it is a duty of this court to be last, not first, to give it up." And I take it my friend's argument on the other side is in deep tension with Youngstown and that canonical principle.
+
+Justice Jackson ( 02:10:52 ):
+
+Thank you.
+
+Chief Justice Roberts ( 02:10:52 ):
+
+Thank you, council. Mr. Guttman?
+
+Mr. Guttman ( 02:11:03 ):
+
+Mr. Chief Justice, may it please the court. I'd like to begin by picking up with the exchanges with Justice Barrett and Justice Gorsuch about licenses and license fees, because I think we ended on the right note, but I just wanted to make sure that at least my client's position is clear on this. Licenses are different from license fees and I am not aware of any history in the five decades that IEEPA has been in force of any fees charged for the licenses under this statute. This is a statute … Licenses can be used, for example, the President might ban certain transactions with the foreign country, but then grant licenses to do them for humanitarian reasons. But as far as I'm aware, there's never been a fee charged for that, and I do welcome the court's questions. But I think that's, I just want to make absolutely clear-
+
+Chief Justice Roberts ( 02:11:54 ):
+
+Well, I think the question is what does or otherwise do?
+
+Mr. Guttman ( 02:11:57 ):
+
+Well, or otherwise could be of things like instructions or licenses, but again, it's fundamentally… Having something that is a revenue raising measure or even that is just an exaction of some sort is fundamentally, categorically different from what we understand instructions and licenses to be involved, just like we think regulate doesn't carry the financial connotation given the other verbs there.
+
+( 02:12:24 ) If I could turn to some of the 19th century history that we were discussing as well, because I think there may be a little bit more to add there. The 19th century cases about the President's inherent Article Two authority in a wartime, with respect to importation is not the power to impose tariffs on imports coming into the United States. That is not what any of those cases were about. They were about the President's power in a wartime, as an occupying military force to impose tariffs in occupied territory in Mexico, in the Philippines, in California. The Civil War case might be the closest case, but even there, what we were talking about were essentially… There were licensing fees, but they were export fees. They were fees that were being imposed on the exportation of cotton from the occupied south into the north. And so I don't think any of that provides authority for this general notion that there is a background principle that the President, even in wartime, has an Article Two authority to impose tariffs, certainly without the consent of Congress.
+
+Justice Barrett ( 02:13:43 ):
+
+You agree, I assume, given all the verbs on this list, that the President could do something like just shut down all trade between us and say China, right?
+
+Mr. Guttman ( 02:13:56 ):
+
+Yes. I mean, there are other limitations in [inaudible 02:13:59]
+
+Justice Barrett ( 02:13:58 ):
+
+Okay. So doesn't it seem, and I think this is one of the points that Algonquin makes, and I think it's a point that Justice Kavanaugh was making, doesn't it seem then… I mean, I don't want to use the phrase lesser power, lesser included measure, but doesn't it seem like it would make sense then that Congress would want the President to use something that was less weaker medicine than completely shutting down trade as a leverage to try to get a foreign nation to do something?
+
+Mr. Guttman ( 02:14:23 ):
+
+And the President can in the form of, for example, quotas, but what makes an embargo or quotas fundamentally different from tariffs, as my friend has already explained, is the revenue raising aspect of that. That makes it a far more significant power. It creates additional danger of overuse. And I think the other point, as Justice Jackson was pointing out, is that it seeds control over whether the transaction occurs from the government to the individuals engaging in this transaction. And that is not what IEEPA is intended.
+
+Justice Barrett ( 02:14:57 ):
+
+What makes something revenue raising? I mean, fees raise money, and unless they're going to be kind of one-to-one, this is exactly what it costs. I mean, it might raise some surplus, it might raise some extra. So is it the purpose, if the purpose of the fee or the tariff is to raise money? I don't think is it the purpose that makes it revenue raising or is it just the fact of surplus created that goes to the treasury? How do we decide?
+
+Mr. Guttman ( 02:15:22 ):
+
+Yes, I think it's the effect. And to be clear, I think there would be a serious difficulty with interpreting any of these words even to allow revenue neutral exactions here, because none of them involve… And again, as far as I'm aware, IEEPA has never been used in that way, but I don't-
+
+Justice Barrett ( 02:15:39 ):
+
+There's not even a processing fee?
+
+Mr. Guttman ( 02:15:40 ):
+
+I am not aware of any use of that sort of under IEEPA, but even if that is permissible, I think that's permissible precisely because it doesn't have the effect of raising revenue.
+
+Justice Kavanaugh ( 02:15:53 ):
+
+Mr. Katial referred to common sense several times, and I want to pick up on Justice Barrett's question, because your interpretation of the statute, as she pointed out, would allow the President to shut down all trade with every other country in the world or to impose some significant quota on imports from every other country in the world, but would not allow a 1% tariff. And that leaves, in the government's words and its brief, "An odd donut hole in the statute." Why would a rational Congress say, "Yeah, we're going to give the President the power to shut down trade." I mean, think about the effects, but you're admitting that power's in there, but can't do a 1% tariff. That doesn't seem, but I want to get your answer to have a lot of common sense behind it.
+
+Mr. Guttman ( 02:16:55 ):
+
+I think it absolutely does because it's a fundamentally different power. It's not a donut hole, it's a different kind of pastry.
+
+Justice Kavanaugh ( 02:17:01 ):
+
+And on that power… That's a good one. On that power though, and you've said this many times [inaudible 02:17:11], and look, I get this, obviously, but the court has repeatedly said a tariff on foreign imports is an exercise of the commerce power, not of the taxation power. And I'm repeating some, but John Marshall said that, and Joseph Story and Chief Justice Hughes in the 1933 case. And we've said that quite a bit at time, which seems to at least undermine a bit your point that it's an entirely different power, because if it is foreign commerce power, it's the same power that Justice Barrett was talking about of just embargoing trade with the entire world, which you admit is in this statute.
+
+Mr. Guttman ( 02:17:49 ):
+
+Well, there are a couple of points in there, and I'll try to get to all of them. But I mean, I think all of us agree that context is what matters here, and that you certainly could use the word regulate to talk about a tariffing power, like you could use it to talk about a taxing power. I mean, we impose taxes for regulatory purposes as well, but the federal government hasn't identified a single other federal statute that uses the term regulate to authorize tariffs or taxes. That is just a different kind of power.
+
+Justice Jackson ( 02:18:23 ):
+
+And I thought your point in response to Justice Kavanaugh, it's a different kind of power because the power that's being authorized by this statute is the power to control or freeze trade.
+
+Mr. Guttman ( 02:18:35 ):
+
+That's exactly-
+
+Justice Jackson ( 02:18:36 ):
+
+That's what Congress was getting at. And so if that's true, then we have to reregulate in that context.
+
+Mr. Guttman ( 02:18:43 ):
+
+That's exactly right. And I think the reason, getting back to common sense as to why a legislature might authorize that, is that you might not fear abuse of that power in the same way that you would be concerned about abuse of a power to impose unlimited taxes with no controlling-
+
+Justice Kagan ( 02:19:01 ):
+
+Well, why is that? Because I mean there is a sort of common sensical intuition that one is in Justice Kavanaugh's example, that one is greater and one is lesser. So why is that not right?
+
+Mr. Guttman ( 02:19:14 ):
+
+Because to be blunt about it, there's nothing… One of them, there's something in it for the government and one of them there isn't. Actions that bring in revenue from the pockets of taxpayers to the treasury pose a different set of concerns. Our framers were very concerned about that.
+
+Justice Kagan ( 02:19:31 ):
+
+A different set of concerns? How? Why?
+
+Mr. Guttman ( 02:19:33 ):
+
+Because they bring in revenue and because that creates a-
+
+Justice Kagan ( 02:19:38 ):
+
+Well, that seems a little [inaudible 02:19:39] logical. Why is it that the revenue raisers are in a different category?
+
+Mr. Guttman ( 02:19:43 ):
+
+Because, look, if there is some sort of international emergency and the appropriate way to deal with it is to make sure that no more than a thousand of this product comes into this country at a particular time. This statute gives the President the power to ensure that exactly no more than 1,000 come in at this time. Setting a tariff doesn't ensure that only 1,000 will come into this country. It seeds control over whether the transaction occurs. And what it does is it then adds revenue to the treasury. And that is again, something that our framers thought was extremely important and a core Article One-
+
+Justice Barrett ( 02:20:26 ):
+
+But Algonquin… I mean, this kind of goes back to Justice Kavanaugh's point. Algonquin rejects the idea that it was impermissible to use the fees and we can call them license fees that functioned as tariffs or duties in that case, whatever. But Algonquin said that Congress could use the exaction of money to control quantity. And I hear what you're saying is like, well, you can control quantity by numbers, by imposing hard limits, but not by money, but that's not what Algonquin said. So I guess why?
+
+Mr. Guttman ( 02:20:57 ):
+
+Well, and I don't mean to suggest that you can't use exactions to control quantity. I think Algonquin just shows the importance of context. It might be perfectly natural to read a phrase like adjust imports. In the context of a statute that talks about tariffs, in the context of the Trade Expansion Act that has all sorts of provisions about tariffs and about the President adjusting tariff rates. It might be perfectly natural in that context to read a phrase like adjust the imports to be referring to changing tariff rates. It's just as unnatural to read a phrase like regulate importation, to discuss that when the statute has nothing to do with tariffs and doesn't otherwise mention tariffs at all.
+
+Justice Barrett ( 02:21:39 ):
+
+And [inaudible 02:21:40] tariffs is a big… I mean, sorry, do you think that just blocking all trade is a bigger deal than imposing a 1% tariff across the board?
+
+Mr. Guttman ( 02:21:47 ):
+
+I think it would be a huge deal. It is just a different kind of deal.
+
+Justice Jackson ( 02:21:51 ):
+
+Algonquin was not a constitutional case, right? Correct. It was a statutory interpretation case. Correct. And so the question there was simply, was Congress actually trying to give or did Congress in that statute give the President the authority to impose these kinds of exactions? And the court looked at the text and it looked at the legislative history in which there was a number of clues that Congress had actually intended to do that.
+
+Mr. Guttman ( 02:22:17 ):
+
+Yes. Yes. And it looked not just at the text of those specific words, but also the context of what else was in the statute and the fact that some of the factors that the President was supposed to be considering.
+
+Chief Justice Roberts ( 02:22:28 ):
+
+Keep going.
+
+Justice Jackson ( 02:22:29 ):
+
+And it would make perfect sense, I think, in a time of emergency for the many of the reasons that General Sauer pointed out that Congress would want the President to have the kind of authority that is imposed when you are embargoing things, when you are stopping the trade, when you are saying for emergency reasons, we're not letting any of this product come in. I mean, sure, that's a big deal, but the nature of it makes sense in terms of an emergency. I think what you're saying is that the idea that the government would use its authority to be raising revenues in this situation is a different kind of power.
+
+Mr. Guttman ( 02:23:07 ):
+
+Exactly. This is a statute about giving the President control over assets, over transactions, over access to banking.
+
+Justice Jackson ( 02:23:14 ):
+
+And tariffs don't do that. You said something about tariffs. Tariffs in fact seed control over those sorts of things. So they sort of undermine the goals and the purposes of this kind of statute. Is that right?
+
+Mr. Guttman ( 02:23:25 ):
+
+Yes, that's exactly right.
+
+Justice Alito ( 02:23:26 ):
+
+Can I ask [inaudible 02:23:28]-
+
+Mr. Guttman ( 02:23:28 ):
+
+Go ahead.
+
+Justice Alito ( 02:23:28 ):
+
+From what you said, it seems, and you said this, that the reason for drawing a distinction between tariffs and an embargo is the suspicion that tariffs will be used to raise money and therefore to circumvent Congress's power to control taxes. So it's a question of the risk that's involved. Am I right?
+
+Mr. Guttman ( 02:23:53 ):
+
+Yes.
+
+Justice Alito ( 02:23:54 ):
+
+That's what it boils down to.
+
+Mr. Guttman ( 02:23:55 ):
+
+Yes. Well, and it's a question of understanding what powers Congress would have thought it was conferring. Would Congress have understood the phrase regulated?
+
+Justice Alito ( 02:24:06 ):
+
+Well, I mean, the question is why would Congress say you can impose a quota, you can impose a ban, but you can't impose a tariff? And your answer, I gather is because when a tariff is imposed, we're suspect about what's going on. We're suspicious about what's going on. We think that what the executive is trying to do is to raise revenue, and that's our business, right? That's what it has to be.
+
+Mr. Guttman ( 02:24:32 ):
+
+Yes. And we know that every other time that Congress has authorized the [inaudible 02:24:38]-
+
+Justice Alito ( 02:24:37 ):
+
+Well, you're getting into a different argument. Then would you say the same thing if the measure is really about an emergency, an undisputed emergency and a really dire emergency?
+
+Mr. Guttman ( 02:24:51 ):
+
+Yes, sir.
+
+Justice Alito ( 02:24:51 ):
+
+There, would you have the same suspicion?
+
+Mr. Guttman ( 02:24:55 ):
+
+Yes, absolutely. And again, I'll refer back to Justice Jackson's concurrence in Youngstown that emergency powers tend to breed emergencies. Look, Biden versus Nebraska, I think says very clearly-
+
+Justice Alito ( 02:25:08 ):
+
+I really don't think you're answering the question. The question is, would you have the same suspicion when it is perfectly apparent from context that what the President is trying to do is to achieve a goal other than the raising of money?
+
+Mr. Guttman ( 02:25:25 ):
+
+I think what I'm trying to say is that you have to read the statute the way that Congress would've understood it when it was enacted, not how it is used in any particular case. It may be used for very good reasons in a particular case, but the question is, would Congress have understood itself to be seeding this power with no limits, unlike every other tariffing statute with-
+
+Justice Alito ( 02:25:47 ):
+
+I know that point. Let me ask you an unrelated question. Mr. Katyell listed some of the things that Presidents have done under IEEPA, such as screening imports. Do any of the other verbs in IEEPA talk about screen… Could screening of imports be done under any of the other verbs in IEEPA?
+
+Mr. Guttman ( 02:26:21 ):
+
+I think maybe, but it would have been-
+
+Justice Alito ( 02:26:22 ):
+
+Which one?
+
+Mr. Guttman ( 02:26:23 ):
+
+Prevent. And so I think the question would be, could you-
+
+Justice Alito ( 02:26:26 ):
+
+Screening is preventing?
+
+Mr. Guttman ( 02:26:28 ):
+
+Well, I think it depends what you're screening for, but if you were-
+
+Justice Alito ( 02:26:32 ):
+
+Okay. How about imposing requirements that promote, that are needed to safeguard domestic safety? Any other provision besides regulate, any other verb besides regulate that would?
+
+Mr. Guttman ( 02:26:48 ):
+
+Well, again, I think if we're talking about potentially blocking some property from coming into this country because of safety concern, it might be that prevent would've gotten you there. What I think regulate does is it clarifies and amplifies that you don't just… It can be nuanced in that way. It can say, "We will let this come in if it has certain safety requirements, if certain features have been disabled," something like that. And so I think regulate harmonizes with prevent, investigate during the pendency, block during the pendency of an investigation, those sorts of-
+
+Justice Kavanaugh ( 02:27:22 ):
+
+On the context point, the context of this statute, what a Congress would've understood, it's an emergency statute. And presumably Congress wants to give the President tools to respond to the emergency in an appropriate way. And it seems odd to imagine a meeting in the Oval Office where the President's told, "Well, we have a problem with," I won't name a country, but Country X, "and you can stop all trade with that country." I mean, I'm not sure that's a wise policy to give that much, but it's there, right? You agree it's in this statute, but then the President says, "Well, that's too extreme. I want to calibrate my response to deal with this and maybe a tariff of some kind."
+
+( 02:28:13 ) "Oh, you can't do that." So you're forcing the President to respond to an emergency. And Justice Alito has raised the point about a real emergency, and you're taking away the President's suite of tools when the one is much more extreme than is authorized. That just seems a bit unusual.
+
+( 02:28:36 ) Think about India right now, the tariff on India. That's designed to help settle the Russia-Ukraine war, as I understand it. Don't pretend to be an expert. But if that's gone, that's a tool that's designed to talk about foreign facing the most serious crisis in the world, and that's out the window. So I just think it's just contextually emergency. It's just a bit unusual to read it that way. But I take your response, taxation's different and you got to stick with that line.
+
+Mr. Guttman ( 02:29:10 ):
+
+No, and I don't think it's just that. I mean, I do think it's that, but it's also that there are a range of tools that are more calibrated that the President can do. It doesn't have to be a complete embargo. It could be limits on particular kinds of products. It could be quantity.
+
+Justice Kavanaugh ( 02:29:27 ):
+
+In the history of trade efforts to respond and push back, you've taken one away.
+
+Mr. Guttman ( 02:29:33 ):
+
+Well, and the President and there are many other statutes that might apply depending on the exact circumstances. 201, 301, 233.
+
+Justice Kavanaugh ( 02:29:40 ):
+
+That's a good point.
+
+Justice Sotomayor ( 02:29:40 ):
+
+Counsel, I think what we're forgetting here is a very fundamental point, which is the Constitution is structured so that if I'm going to be asked to pay for something as a citizen, that it's through a bill that is generated through Congress and the President has the power to veto it or not, but I'm not going to be taxed unless both houses. The executive and the legislature have made that choice, correct?
+
+Mr. Guttman ( 02:30:09 ):
+
+That's exactly right.
+
+Justice Sotomayor ( 02:30:10 ):
+
+And so there is something, it's not just the taxing power, qua taxing power. The question is, do we permit the President to use the taxing power to affect his personal choices of what is good policy for me to pay for?
+
+Mr. Guttman ( 02:30:30 ):
+
+That's exactly right. The question is who decides.
+
+Justice Sotomayor ( 02:30:32 ):
+
+Who decides and under what circumstances. Now, with respect to this, I mean, I'm not even going to the pretext argument, okay? But the President threatened to impose a 10% tax on Canada for an added ran on tariffs during the World Series. He imposed a 40% tax on Brazil because its Supreme Court permitted the prosecution of one of its former Presidents for criminal activity. The point is those may be good policies, but does a statute that gives without limit the power to a President to impose this kind of tax, does it require more than the word regulate?
+
+Mr. Guttman ( 02:31:23 ):
+
+Exactly.
+
+Justice Sotomayor ( 02:31:23 ):
+
+That's your point.
+
+Mr. Guttman ( 02:31:24 ):
+
+Yes.
+
+Chief Justice Roberts ( 02:31:26 ):
+
+Thank you, counsel. Did Mr. Katiol say anything this morning with which you disagree?
+
+Mr. Guttman ( 02:31:32 ):
+
+No, I think we cleared up any maybe potential disagreement about licensing fees, but I think we all agree on that.
+
+Chief Justice Roberts ( 02:31:39 ):
+
+Justice Thomas, anything further? [inaudible 02:31:47]
+
+Justice Gorsuch ( 02:31:47 ):
+
+So I just want to follow up on Justice Sotemeier's question at the end of a long morning afternoon. It does seem to me, and tell me if I'm wrong, that a really key part of the context here, if not the dispositive one for you, is the constitutional assignment of the taxing power to Congress. The power to reach into the pockets of the American people is just different. And it's been different since the founding and the navigation acts that were part of the spark of the American Revolution, where Parliament asserted the power to tax to regulate commerce. Some of those were revenue raising, some of them didn't raise a lot of revenue. We had a lot of pirates in America at the time, and Americans thought even parliament couldn't do that, but that had to be done locally through our elected representatives. Isn't that really the major questions, non-delegation, whatever you want to describe it, isn't that what's really animating your argument today?
+
+Mr. Guttman ( 02:32:52 ):
+
+I think it's a huge piece of what's animating our argument. Thank you.
+
+Chief Justice Roberts ( 02:32:59 ):
+
+Mr. [inaudible 02:33:00] Justice Jackson?
+
+Justice Jackson ( 02:33:00 ):
+
+I just invite you briefly to address your kind of second tier arguments? Assuming that the President can impose these sorts of tariffs, why do you think, for example, that the trafficking tariff here does not deal with the drug trafficking emergency for the purpose of this analysis?
+
+Mr. Guttman ( 02:33:23 ):
+
+So it doesn't deal with it because it's not a sanction imposed against traffickers. If you think of it as a sanction, it is a sanction imposed against people importing lawful goods in the [inaudible 02:33:37]
+
+Justice Jackson ( 02:33:37 ):
+
+That happens all the time, right? I mean, all the other authorities indirectly provide leverage on countries in this way.
+
+Mr. Guttman ( 02:33:45 ):
+
+I don't think so. I think that they are… The history of IEEPA and even of TWIA is imposing sanctions directly on the wrongdoers. These are statutes about providing sanction authority against, you international actors whose behavior we want to change, and that's not what tariffs.
+
+Justice Jackson ( 02:34:03 ):
+
+All right. Thank you.
+
+Chief Justice Roberts ( 02:34:05 ):
+
+Thank you, council. Rebuttal, General Sower.
+
+General Sauer ( 02:34:09 ):
+
+Thank you, Mr. Chief Justice. Just three points, one an interpretive point. The statutory language here is regulate importation and again, by means of instruments, licenses, or otherwise. Their argument is that that phrase carries with it a whole host of unenumerated forms of regulation, including quotas, licenses, licenses apparently that come with fees as long as they're sort of profit neutral fees, environmental restrictions, qualitative restrictions, reports and so forth. It's just that the one form of regulation that they would not include is tariff regulation, which of course is the quintessential most historically tested method of regulating imports. And so that additional phrase about by means of instruments, licenses or otherwise, really sort of reinforces the plain meaning, the ordinary natural meaning of regulated importation here. So when it comes to just the plain text of the statute,
+
+General Sauer ( 02:35:00 ):
+
+Their argument is a donut-type argument, and it's not an argument that does justice to the statutes of plain text. On the non-delegation point, Justice Gorsuch, you alluded to the founding delegations of the Indian commerce power. And I just remind the court that in July of 1790, Congress passed a statute that essentially delegated to President Washington essentially the entire scope of the Indian commerce power. He said, "You can do commerce with Indians if you have a license," that you had to pay a fee for, "and that will be subject to such rules and regulations as the president makes," with no further guidance.
+
+( 02:35:33 ) So, when it comes to this foreign facing, there it's obviously analogous because the Indian tribes are not foreign sovereigns, but this foreign-facing situation, we have a very deep and profound historical pedigree through broad delegations of the regulation of commerce, right? The foreign commerce power, in that case, the Indian commerce power. And that ties, I think, to what I take to be the main theme of the arguments on the other side.
+
+( 02:35:58 ) And I think that Mr. Katyal started by saying, "Tariffs are taxes." And I want to complete the answer I think I was giving to the chief justice when I got interrupted is if you look at these tariffs, these policies, it is clear that these policies are most effective if nobody ever pays the tariff. If it never raises a dime of revenue, these are the most effective use of this particular policy. And I said there's two buckets there. One is, first of all, when it comes to the trade deficit emergency, if no one ever pays the tariff, but instead they direct their consumption domestically and spur the creation of the rebuilding of our hollowed-out manufacturing base, that directly addresses the crisis. It's more effective if no one ever pays the tariff. That's the point of it, really. That's a fundamental point of it. And that's one piece of these.
+
+( 02:36:45 ) And then, as to both of them, as to both of the declared emergencies, the tariffs are an incentive, a pressure point, leverage, bargaining chip, as the court said in Dames & Moore, to get countries to change their behavior to address the foreign-arising emergencies. So, if you look, for example, to take a historical example, last week's trade deal with China. It unlocked access to rare earth minerals, which, of course, have a critical national security aspect to them. And it got China for the very first time to change its policy with respect to fentanyl precursors, which is a crucial piece of that. Those tariffs, if no one ever collects them, but the threat of imposing those tariffs gets China and our other trading partners across the world to change their behaviors in a way that addresses this, then that's the most effective use of the policy.
+
+( 02:37:32 ) So, they're clearly regulatory tariffs, not taxes. They're not an exercise of the power to tax. They exercise the power to regulate foreign commerce and that's why the statute says regulate. It doesn't say tax, it says regulate. And for that reason, we are squarely within the tradition that I was talking about before of very broad, historically, very broad delegations of the power to regulate foreign commerce to the president because he has inherent article to authority in the area of foreign affairs, although not that… It has to be delegated to him, otherwise the delegation would be superfluous. And for all those reasons, we ask the court to reverse both the decisions below.
+
+Speaker 2 ( 02:38:09 ):
+
+Thank you, Counsel. The case is submitted.
+
+Luckily for you, we deliver. Subscribe to our blog today.
+
+A confirmation email is on it’s way to your inbox.
+
+Copyright Disclaimer
+
+Under Title 17 U.S.C. Section 107, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is permitted by copyright statute that might otherwise be infringing.
+
+Keep reading
+
+Subscribe to The Rev Blog
+
+Sign up to get Rev content delivered straight to your inbox.

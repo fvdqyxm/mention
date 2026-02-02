@@ -1,0 +1,129 @@
+Speaker 1 ( 00:00 ):
+
+We have some breaking news this evening. While much of the focus today has been on Fulton County, where Donald Trump will surrender in less than 48 hours, there are some big developments coming out of the federal indictment down in Florida in the classified documents case involving the former president.
+
+( 00:16 ) We are learning that one of the key witnesses in that case flipped after ditching his Trump affiliated lawyer. Now, the witness is known formally in court documents as employee number four.
+
+( 00:29 ) NBC News has identified this person as Yuscil Taveras, the IT director at Mar-a-Lago, and a very central player in the alleged crime involving the retention of classified documents and the destruction of evidence related to that crime, particularly security camera footage.
+
+( 00:46 ) According to the special counsel, when Trump employee four testified before the grand jury in the District of Columbia in March 2023, he repeatedly denied or claimed not to recall any contacts or conversation about the security footage at Mar-a-Lago.
+
+( 01:01 ) Okay, so when employee number four, again, Yuscil Taveras, said he knew nothing about any security camera footage, he had the same lawyer as Trump’s valet and co-defendant in this case, Walt Nauta. And that lawyer, Stanley Woodward, was being paid by a Trump PAC.
+
+( 01:21 ) According to the special counsel, it appears that Mr. Taveras did not get to choose Stanley Woodward as his lawyer. Stanley Woodward was apparently appointed to him by one of the lawyers on Trump’s legal team. Which is wow.
+
+( 01:38 ) But after federal prosecutors told Mr. Taveras that he was facing possible criminal charges for lying to the grand jury about that security camera footage, and after prosecutors raised the possibility that having the same Trump funded lawyer representing defendants and witnesses was a potential conflict of interest, well, the judge offered Mr. Taveras a chance to talk to a different lawyer about those conflicts. A federal public defender, not a lawyer paid for by Donald Trump or his PAC.
+
+( 02:10 ) And guess what happened? According to this new court filing from the special counsel this evening, immediately after receiving new counsel, Trump employee four retracted his prior false testimony and provided information that implicated Nauta, De Oliveira, and Trump in efforts to delete security camera footage.
+
+( 02:33 ) That is what led to the surprise superseding indictment against Donald Trump and his co-defendants down at Mar-a-Lago, which was filed by the special counsel late last month. It is because a witness flipped the minute he was clear of his Trump world lawyer and gave new evidence that resulted in new charges, including attempting to alter, destroy, mutilate, or conceal evidence.
+
+( 03:01 ) Now, you would not be at fault if all of this is giving you a serious case of deja vu, because time and time again, evidence and testimony has shown Donald Trump’s propensity for using his team of lawyers to attempt to, shall we say, control the narrative.
+
+( 03:19 ) You might recall Cassidy Hutchinson, a former top aide to former White House chief of staff, Mark Meadows, who testified before the House Select Committee investigating the January 6th attack on the U.S. Capitol. Hutchinson told the committee that her lawyer, Stefan Passantino, a former White House ethics lawyer with deep connections to Trumpworld, that her lawyer, Mr. Passantino, sought to influence Ms. Hutchinson’s testimony and urged her to downplay what she knew about the lead up to the Capitol riot. Ms. Hutchinson said Mr. Passantino never explicitly told her to lie, but he did encourage her to use the phrase, “I do not recall,” and to tell investigators that she did not recall important events surrounding the Capitol attack. Ms. Hutchinson eventually hired new legal representation ahead of her public testimony. But like so many Trump associates, she was forced to face the question, when Donald Trump is paying your legal fees, who is your lawyer really representing?
+
+( 04:21 ) Joining me now is Danya Perry, a former assistant U.S. Attorney for the Southern District of New York, and Andrew Weissmann, former FBI general counsel and member of special counsel, Robert Mueller’s investigation, also co-host of the indispensable MSNBC podcast Prosecuting Donald Trump.
+
+( 04:35 ) Danya and Andrew, I found this to be a shocking sort of revelation here, and I don’t know whether I should put my eyes back in my head here, but the suggestion that a Trump affiliated lawyer did not recuse himself or get off of this case for A, conflict of interest here, but that B, the minute Yuscil Taveras no longer has his Trump lawyer, he flips.
+
+( 05:01 ) How do you read this, Andrew?
+
+Andrew Weissmann ( 05:04 ):
+
+So I think that the reference to Cassidy Hutchinson is such a good one because I think that educates people on what is happening here in this case. But as Danya and I know, and are jaded, this happens in the special counsel Mueller investigation, it happened in Enron, it happened in organized crime cases. This is a standard problem when you are a prosecutor of house counsel, and the problem that money buys influence.
+
+( 05:33 ) Now, just to be clear, there are some lawyers who can be paid by a company, and they do their job. They represent the individual, and that’s what they’re supposed to do.
+
+( 05:42 ) But I’ll give you one quick example. In Enron, there was a junior person, the company paid for that person’s counsel, and when we finished the interview, I remember that person’s lawyer turned to the general counsel of Merrill Lynch and said, “It’s been an honor representing you.” And I remember going, “That’s the problem. That’s the issue.”
+
+Speaker 1 ( 06:04 ):
+
+In that case, did the junior staffer not understand the dynamic at play?
+
+Andrew Weissmann ( 06:11 ):
+
+You have to remember, what’s really hard for somebody who’s not experienced with the legal system, they get a lawyer and the lawyer’s giving them advice and saying, “This is what you need to do and the company is paying for it and we’re taking care of you.” They don’t have a reason to be thinking this is a problem or there’s an issue, and they have the company saying, “This is standard procedure.” It takes somebody with sort of Cassidy Hutchinson’s moral integrity. Here, the chief judge in D.C. interceded to say, “You should at least speak to independent counsel before you make a decision that you want to keep this person.”
+
+Speaker 1 ( 06:45 ):
+
+That seems like a critical step.
+
+Andrew Weissmann ( 06:47 ):
+
+Absolutely. By the way, that happens in mob cases a lot. And of course, what happens is as soon as somebody gets independent counsel and advises them, the person’s like, “Aha. Okay, now I got it, that this person may not have my best interests at heart. They may be passing on what I’m saying to somebody else.” I mean, there are all sorts of concerns. And that’s why more often than not, especially when the government’s saying there’s a potential conflict, responsible counsel says, “You know what? Then I’m out. Get somebody else.”
+
+Speaker 1 ( 07:16 ):
+
+Well, the key phrase there is responsible counsel here, Danya. Stanley Woodward is still defending Walt Nauta, and there is the possibility now that one of his former clients, Yuscil Taveras, will be testifying against one of his current clients, Walt Nauta, because they’re taking opposite approaches with regards to this case. One is cooperating with the Feds, one is not. So how does that work, that Stanley Woodward can’t be conflicted out of this?
+
+Danya Perry ( 07:44 ):
+
+As well as, let’s not forget two other witnesses for an issue in this very same case, and that were the subjects of the government motion for this, what’s known as a Garcia hearing or a Curcio hearing, different words for the same thing, which is a hearing in front of the judge, where she will decide… First of all, will appoint independent counsel, and the witnesses and defendants can decide, but she ultimately may have to make a decision as to whether there’s a fatal conflict.
+
+( 08:16 ) So Mr. Woodward in this case actually agreed, as he had to, that there should be such a hearing. What he then did was went on offense and said, “Actually, the remedy here…” Because it’s for the judge to decide what the appropriate remedy is, and she has a host of possible remedies at her disposal. What he said, Mr. Woodward, is, “Don’t get me off this case. Don’t get conflict counsel on this case. No. Preclude the testimony of these witnesses.”
+
+Speaker 1 ( 08:46 ):
+
+Of Yuscil Taveras. Throw out-
+
+Danya Perry ( 08:49 ):
+
+That’s the key thing-
+
+Speaker 1 ( 08:51 ):
+
+Yuscil Taveras is the central witness in the superseding indictment, Andrew-
+
+Andrew Weissmann ( 08:55 ):
+
+On the obstruction.
+
+Speaker 1 ( 08:56 ):
+
+On the obstruction piece. That is a huge deal effectively, that a Trump paid for lawyer, I got to keep saying that, someone affiliated with Trumpworld is saying, “Don’t take me off this case, even though my conflicts of interest are so plainly obvious. Get rid of the guy that’s causing the conflict of interest.”
+
+Andrew Weissmann ( 09:13 ):
+
+Yeah. So just to be clear, to Danya’s point, that’s not the law. I mean, this is one where obviously Judge Cannon has made a lot of wrong decisions, but this is one, if she were to rule that this is testimony that’s precluded, she will be reversed. That she’s not-
+
+Speaker 1 ( 09:30 ):
+
+You seem very confident in that.
+
+Danya Perry ( 09:30 ):
+
+[inaudible 00:09:32]. It’s not a case.
+
+Andrew Weissmann ( 09:32 ):
+
+This is absolutely black letter law. No way that this gets suppressed because he has a conflict. And there’s actually different ways. Assuming she thinks that he can still stay on the case. One way to deal with this is that Mr. Woodward cannot cross examinee either a current or former client. You have a continuing duty of loyalty. So one way to deal with that is to say that local counsel will have to do that, but the other is-
+
+Speaker 1 ( 10:03 ):
+
+You effectively have to wall off that local… I mean, how does that work? You’re co-counsel on a case.
+
+Andrew Weissmann ( 10:07 ):
+
+You wouldn’t say you’re not a lawyer, but you are.
+
+Speaker 1 ( 10:09 ):
+
+My television law school. But how do you wall off your co-counsel? I’m not going to tell you what I learned when I was representing Yuscil Taveras and I’m certainly not going to tell the guy who’s paying the bills what may be going on here.
+
+Andrew Weissmann ( 10:23 ):
+
+The legal system has not solved that Rubik’s cube of what do you do there. The assumption is you cannot use anything you learned from a current or former client, so that the other counsel is walled off and has to do the cross-examination. Now, there’s no way to police that.
+
+Luckily for you, we deliver. Subscribe to our blog today.
+
+A confirmation email is on it’s way to your inbox.
+
+Copyright Disclaimer
+
+Under Title 17 U.S.C. Section 107, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is permitted by copyright statute that might otherwise be infringing.
+
+Keep reading
+
+Subscribe to The Rev Blog
+
+Sign up to get Rev content delivered straight to your inbox.
